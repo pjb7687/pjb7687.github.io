@@ -1,0 +1,28 @@
+name: Publish Website
+
+on:
+  repository_dispatch:
+  schedule:
+    - cron: 0 20 * * *
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build
+      run: bash .ci/build.sh
+    - name: Deploy Website
+      uses: JamesIves/github-pages-deploy-action@3.7.1
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: build
+        CLEAN: true
+    - name: Commit and Push Caches
+      uses: github-actions-x/commit@v2.7
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: 'source'
+        commit-message: 'update cache files'
+        files: .ci/gscache.txt source/_static/hd_stats.json source/_static/rnk_stats.json
