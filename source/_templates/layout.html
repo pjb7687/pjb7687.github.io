@@ -1,0 +1,31 @@
+{#
+    layout.html
+    ~~~~~~~~~~~~~~~~~
+
+    Sphinx layout template
+
+    :author: Jeongbin Park
+    :license: CC BY-SA
+#}
+{% extends "!layout.html" %}
+{% set rellinks = [] %}
+
+{% block htmltitle %}
+<title>{{ shorttitle|e }}</title>
+{% endblock %}
+
+{% block header %}
+{% endblock %}
+
+{% block content %}
+{% block document %}
+{{ super() }}
+{% endblock %}
+{% endblock %}
+
+{% block footer %}
+
+{% endblock %}
+
+{% block relbar1 %}{% endblock %}
+{% block relbar2 %}{% endblock %}

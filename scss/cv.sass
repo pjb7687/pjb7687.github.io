@@ -1,0 +1,97 @@
+.page
+    width: 250mm
+    padding: 20mm
+    margin: 10mm auto
+    background: white
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5)
+    font: 16px "Arial"
+
+    a
+        color: black
+        text-decoration: underline
+
+    a:hover
+        color: blue
+
+    h1
+        font: 32px "Arial"
+        font-weight: bold
+
+    h2
+        font: 19px "Arial"
+        font-weight: bold
+        text-align: left !important
+        padding-top: 15px
+        margin-bottom: 15px
+
+    h2:after
+        content: ' '
+        display: block
+        border-top: 1px solid black
+
+    .line
+        padding-top: 10px
+
+    table
+        width: 100%
+
+        .line
+            padding: 0
+
+    tr td, th td
+        padding-top: 5px
+
+    td:last-child
+        text-align: left !important
+
+    .small
+        font-size: 15px
+
+    .entries
+        text-indent: -15mm
+        padding-left: 25mm
+
+        p
+            margin-bottom: 0.5em
+            margin-top: 0.8em
+
+    ul
+        margin-bottom: 20px
+        padding-left: 0
+        list-style: disc inside none
+
+        li
+            text-indent: -10mm
+            margin-bottom: 10px
+
+            p
+                display: inline
+
+@page
+    size: A4 !important
+    margin: 20mm !important
+
+@media print
+    html, body
+        margin: 0 !important
+        padding: 0 !important
+        min-width: 0 !important
+        width: 210mm !important
+        height: 297mm !important
+        background: white !important
+    blockquote
+        border: none
+    .container
+        min-width: 0 !important
+    .page
+        min-width: 0 !important
+        width: 210mm !important
+        padding: 0 !important
+        margin: 0 !important
+        border: initial
+        border-radius: initial
+        width: initial
+        min-height: initial
+        box-shadow: initial
+        background: initial
+        page-break-after: always
