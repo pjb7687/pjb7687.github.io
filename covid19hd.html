@@ -1,0 +1,147 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Jeongbin Park</title>
+
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/main.css" type="text/css" />
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Dr. Jeongbin Park" href="cv.html" /> 
+  </head><body>
+
+
+
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="covid19hd text-center section" id="covid-19-statistics-in-heidelberg-and-rhein-neckar-kreis">
+<h1>COVID-19 statistics in Heidelberg and Rhein-Neckar-Kreis</h1>
+<div class="lead docutils container">
+<p>Last updated on: <span id="last-updated">Loading...</span></p>
+<p>Data source: <a class="reference external" href="https://www.rhein-neckar-kreis.de/start/landratsamt/coronavirus+fallzahlen.html">https://www.rhein-neckar-kreis.de/start/landratsamt/coronavirus+fallzahlen.html</a></p>
+</div>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="section" id="heidelberg">
+<h2>Heidelberg</h2>
+<div class="lead docutils container">
+<p>(7-day incidence: <span id="seven-day-incidence-hd">Loading...</span>)</p>
+</div>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="section" id="daily-new">
+<h3>Daily new</h3>
+<div class="plot-hd-dailynew docutils container">
+<p>Loading…</p>
+</div>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="cumulative">
+<h3>Cumulative</h3>
+<div class="plot-hd-cumul docutils container">
+<p>Loading…</p>
+</div>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</div>
+</div>
+<div class="section" id="rhein-neckar-kreis">
+<h2>Rhein-Neckar-Kreis</h2>
+<div class="lead docutils container">
+<p>(7-day incidence: <span id="seven-day-incidence-rnk">Loading...</span>)</p>
+</div>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="section" id="id1">
+<h3>Daily new</h3>
+<div class="plot-rnk-dailynew docutils container">
+<p>Loading…</p>
+</div>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="id2">
+<h3>Cumulative</h3>
+<div class="plot-rnk-cumul docutils container">
+<p>Loading…</p>
+</div>
+<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+<script>
+function plot_stats(divid, rawdata) {
+    var date = rawdata.columns;
+    var data_cumul = [];
+    var data_dailynew = [];
+    var config = {
+        responsive: true
+    };
+    var colors = ['red', 'green', 'black', 'orange', null, 'orange', 'red'];
+    for (var i = 0; i < rawdata.index.length; i++) {
+        if (i == 4) {
+            $("#seven-day-incidence-" + divid).html(rawdata.data[i][rawdata.data[i].length - 1]);
+            continue;
+        }
+        var column = {
+            x: date,
+            y: [],
+            name: rawdata.index[i],
+            line: {
+                color: colors[i]
+            }
+        };
+        for (var j = 0; j < rawdata.data[i].length; j++) {
+            column.y.push(rawdata.data[i][j]);
+        }
+        if (i < 4) {
+            data_cumul.push(column);
+        } else {
+            data_dailynew.push(column);
+        }
+    }
+    var layout = {
+        height: 800
+    };
+    $('.plot-' + divid + '-dailynew').html("");
+    $('.plot-' + divid + '-cumul').html("");
+    Plotly.newPlot($('.plot-' + divid + '-dailynew')[0], data_dailynew, layout, config);
+    Plotly.newPlot($('.plot-' + divid + '-cumul')[0], data_cumul, layout, config);
+}
+$.getJSON("_static/hd_stats.json", function(rawdata) {
+    plot_stats('hd', rawdata);
+    $("#last-updated").html(rawdata.columns[rawdata.columns.length - 1]);
+});
+$.getJSON("_static/rnk_stats.json", function(rawdata) {
+    plot_stats('rnk', rawdata);
+});
+</script></div>
+</div>
+</div>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+  </body>
+</html>
