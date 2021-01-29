@@ -14,8 +14,10 @@
 <title>{{ shorttitle|e }}</title>
 {% endblock %}
 
-{% block header %}
-{% endblock %}
+{%- block css %}
+{{- css() }}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+{%- endblock %}
 
 {% block content %}
 {% block document %}
