@@ -1,3 +1,5 @@
+.. title:: Curriculum Vitae
+
 .. rst-class:: page text-center
 
 Dr. Jeongbin Park
