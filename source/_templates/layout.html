@@ -11,7 +11,7 @@
 {% set rellinks = [] %}
 
 {% block htmltitle %}
-<title>{{ shorttitle|e }}</title>
+<title>{{ title|striptags|e }}</title>
 {% endblock %}
 
 {%- block css %}
