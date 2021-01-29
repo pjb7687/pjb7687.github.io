@@ -28,6 +28,7 @@ jobs:
         npm run sass
         bash .ci/build.sh
         touch build/.nojekyll
+        echo "jeongbinpark.com" > build/CNAME
     - name: Deploy Website
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
