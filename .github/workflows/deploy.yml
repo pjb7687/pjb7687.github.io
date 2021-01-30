@@ -51,6 +51,11 @@ jobs:
         sphinx-build -a source build
         touch build/.nojekyll
         echo "jeongbinpark.com" > build/CNAME
+    - name: Commit and Push Caches
+      uses: EndBug/add-and-commit@v7
+      with:
+        branch: 'source'
+        message: 'update cache files'
     - name: Deploy Website
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
@@ -58,8 +63,3 @@ jobs:
         BRANCH: gh-pages
         FOLDER: build
         CLEAN: true
-    - name: Commit and Push Caches
-      uses: EndBug/add-and-commit@v7
-      with:
-        branch: 'source'
-        message: 'update cache files'
