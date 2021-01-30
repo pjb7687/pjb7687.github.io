@@ -1,18 +1,15 @@
 from scholarly import scholarly
 import os
 
-AUTHOR_ID = "XLVldUsAAAAJ"
-MAX_PUBLICATION = 0
-CACHE_PATH = ".ci/gscache.txt"
 CACHE_HEADERS = ["author_pub_id", "num_cofirsts", "num_colasts", "title", "author", "journal", "conference", "volume", "number", "pages", "pub_year"]
 
-def read_cache():
+def read_cache(cache_path):
     bibs = {}
-    if not os.path.exists(CACHE_PATH):
-        with open(CACHE_PATH, "w", encoding='utf-8') as f:
+    if not os.path.exists(cache_path):
+        with open(cache_path, "w", encoding='utf-8') as f:
             hj = '\t'.join(CACHE_HEADERS)
             f.write(f"#{hj}\n")
-    with open(CACHE_PATH, encoding='utf-8') as f:
+    with open(cache_path, encoding='utf-8') as f:
         f.readline()
         for line in f:
             entries = line.strip().split('\t')
@@ -23,7 +20,7 @@ def read_cache():
             bibs[entries[0]] = bib
     return bibs
 
-def write_cache(author_pub_id, bib):
+def write_cache(author_pub_id, bib, cache_path):
     entries = [author_pub_id, "1", "1", bib['title'], bib['author'], ]
     def append_anyway(e):
         if e in bib:
@@ -36,22 +33,23 @@ def write_cache(author_pub_id, bib):
     append_anyway('number')
     append_anyway('pages')
     append_anyway('pub_year')
-    with open(CACHE_PATH, "a", encoding='utf-8') as f:
+    with open(cache_path, "a", encoding='utf-8') as f:
         f.write('\t'.join(entries) + '\n')
 
-def fetch_publications(verbose=True):
+def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
     if verbose:
         print("Fetching author profile...")
 
-    author = scholarly.fill(scholarly.search_author_id(AUTHOR_ID))
+    author = scholarly.fill(scholarly.search_author_id(author_id))
     proceedings = []
     publications = []
 
     has_cofirst = False
     has_colast = False
-    gscache = read_cache()
+
+    gscache = read_cache(cache_path)
     for i, p in enumerate(author['publications']):
-        if MAX_PUBLICATION > 0 and i == MAX_PUBLICATION:
+        if max_publications > 0 and i == max_publications:
             break
         bib = gscache.get(p['author_pub_id'], None)
         if bib:
@@ -61,7 +59,7 @@ def fetch_publications(verbose=True):
                 print(f"Fetching publication '{p['bib']['title']}'...")
             scholarly.fill(p)
             bib = p['bib']
-            write_cache(p['author_pub_id'], bib)
+            write_cache(p['author_pub_id'], bib, cache_path)
             bib['num_cofirsts'] = 1
             bib['num_colasts'] = 1
         authors = list(bib['author'].split(' and '))
@@ -132,4 +130,4 @@ def write_rst(author, publications, proceedings, has_cofirst, has_colast, verbos
         print("Done!")
 
 if __name__ == "__main__":
-    write_rst(*fetch_publications())
+    write_rst(*fetch_publications("XLVldUsAAAAJ", ".ci/gscache.txt", 0))

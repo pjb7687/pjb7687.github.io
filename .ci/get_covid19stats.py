@@ -9,8 +9,6 @@ import pandas as pd
 import pdfminer
 from pdfminer.high_level import extract_pages
 
-OUT_DIR = "source/_static/"
-
 def extract_text(fn):
     found_elements = []
     for page_layout in extract_pages(fn, maxpages=1):
@@ -30,7 +28,7 @@ def calc_rolling_average(df):
     df['Daily new 7-day average'] = df['Daily new'].rolling(window=7).mean()
     return df
 
-def fetch_stats(verbose=True):
+def fetch_stats(out_dir, verbose=True):
     urls = [
         "https://www.rhein-neckar-kreis.de/start/landratsamt/coronavirus+fallzahlen+03-07.html",
         "https://www.rhein-neckar-kreis.de/start/landratsamt/coronavirus+fallzahlen+08-09.html",
@@ -52,9 +50,9 @@ def fetch_stats(verbose=True):
         os.mkdir(pdf_root)
 
     df_headers = ["Total", "Recovered", "Deaths", "Quarantined", "7 Day Incidents", "Daily new"]
-    if os.path.exists(os.path.join(OUT_DIR, 'hd_stats.json')):
-        hd_stats = pd.read_json(os.path.join(OUT_DIR, 'hd_stats.json'), orient="split").T
-        rnk_stats = pd.read_json(os.path.join(OUT_DIR, 'rnk_stats.json'), orient="split").T
+    if os.path.exists(os.path.join(out_dir, 'hd_stats.json')):
+        hd_stats = pd.read_json(os.path.join(out_dir, 'hd_stats.json'), orient="split").T
+        rnk_stats = pd.read_json(os.path.join(out_dir, 'rnk_stats.json'), orient="split").T
     else:
         hd_stats = pd.DataFrame(columns=df_headers)
         rnk_stats = pd.DataFrame(columns=df_headers)
@@ -116,14 +114,14 @@ def fetch_stats(verbose=True):
 
     rnk_stats = calc_rolling_average(rnk_stats)
     rnk_stats.index = rnk_stats.index.strftime("%Y-%m-%d")
-    rnk_stats.T.to_json(os.path.join(OUT_DIR, "rnk_stats.json"), orient="split")
+    rnk_stats.T.to_json(os.path.join(out_dir, "rnk_stats.json"), orient="split")
 
     hd_stats = calc_rolling_average(hd_stats)
     hd_stats.index = hd_stats.index.strftime("%Y-%m-%d")
-    hd_stats.T.to_json(os.path.join(OUT_DIR, "hd_stats.json"), orient="split")
+    hd_stats.T.to_json(os.path.join(out_dir, "hd_stats.json"), orient="split")
 
     if verbose:
         print("Done!")
 
 if __name__ == "__main__":
-    fetch_stats()
+    fetch_stats("source/_static/")
