@@ -14,12 +14,6 @@
 <title>{{ title|striptags|e }}</title>
 {% endblock %}
 
-{%- block css %}
-{{- css() }}
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
-{%- endblock %}
-
 {% block content %}
 {% block document %}
 {{ super() }}
