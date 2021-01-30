@@ -95,8 +95,8 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
         else:
             proceedings.append(cit)
 
-        if verbose:
-            print("Done!")
+    if verbose:
+        print("Done!")
     return author, publications, proceedings, has_cofirst, has_colast
 
 def write_rst(author, publications, proceedings, has_cofirst, has_colast, verbose=True):

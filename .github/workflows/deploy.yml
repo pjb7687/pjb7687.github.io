@@ -21,13 +21,14 @@ jobs:
         path: |
           ./venv
           ./node_modules
-        key: cache-venv-node
+        key: cache-venv-node-key
     - name: Install Python Dependencies
       run: |
         python -m venv ./venv && . ./venv/bin/activate
         python -m pip install --upgrade pip
-        pip install sphinx numpy pandas pdfminer.six
+        pip install sphinx
         pip install git+https://github.com/pjb7687/scholarly.git@sortbydate
+        pip install git+https://github.com/pjb7687/covid19hd
       if: steps.cache-venv-node.outputs.cache-hit != 'true'
     - name: Setup Node.js
       uses: actions/setup-node@v2
@@ -43,7 +44,7 @@ jobs:
     - name: Fetch COVID-19 Data from RNK Website
       run: |
         python -m venv ./venv && . ./venv/bin/activate
-        python .ci/get_covid19stats.py
+        python -m covid19hd
     - name: Build Website
       run: |
         python -m venv ./venv && . ./venv/bin/activate
