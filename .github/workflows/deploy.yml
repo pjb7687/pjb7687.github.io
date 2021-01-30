@@ -44,7 +44,7 @@ jobs:
     - name: Fetch COVID-19 Data from RNK Website
       run: |
         python -m venv ./venv && . ./venv/bin/activate
-        python -m covid19hd
+        python .ci/get_covid19stats.py
     - name: Build Website
       run: |
         python -m venv ./venv && . ./venv/bin/activate
