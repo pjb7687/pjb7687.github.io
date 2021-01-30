@@ -36,11 +36,15 @@ jobs:
     - name: Install Node.js Dependencies
       run: npm install
       if: steps.cache-venv-node.outputs.cache-hit != 'true'
-    - name: Build
+    - name: Fetch Google Scholar Citations
+      run: python .ci/get_citations.py
+    - name: Fetch COVID-19 Data from RNK Website
+      run: python .ci/get_covid19stats.py
+    - name: Build Website
       run: |
         python -m venv ./venv && . ./venv/bin/activate
         npm run sass
-        bash .ci/build.sh
+        sphinx-build -a source build
         touch build/.nojekyll
         echo "jeongbinpark.com" > build/CNAME
     - name: Deploy Website
@@ -51,9 +55,7 @@ jobs:
         FOLDER: build
         CLEAN: true
     - name: Commit and Push Caches
-      uses: github-actions-x/commit@v2.7
+      uses: EndBug/add-and-commit@v7
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'source'
-        commit-message: 'update cache files'
-        files: .ci/gscache.txt source/_static/hd_stats.json source/_static/rnk_stats.json
+        branch: 'source'
+        message: 'update cache files'
