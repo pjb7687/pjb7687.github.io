@@ -3,3 +3,4 @@ build
 pdfs
 node_modules
 source/_static/main.css
+source/publications.rst
