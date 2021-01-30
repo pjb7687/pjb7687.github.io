@@ -2,5 +2,7 @@
 build
 pdfs
 node_modules
+venv
 source/_static/main.css
 source/publications.rst
+*.log
