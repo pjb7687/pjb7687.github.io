@@ -37,6 +37,7 @@ jobs:
       if: steps.cache-venv-node.outputs.cache-hit != 'true'
     - name: Build
       run: |
+        python -m venv ./venv && . ./venv/bin/activate
         npm run sass
         bash .ci/build.sh
         touch build/.nojekyll
