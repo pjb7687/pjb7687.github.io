@@ -39,8 +39,10 @@ def write_cache(author_pub_id, bib):
     with open(CACHE_PATH, "a", encoding='utf-8') as f:
         f.write('\t'.join(entries) + '\n')
 
-def fetch_publications():
-    print("Fetching author profile...")
+def fetch_publications(verbose=True):
+    if verbose:
+        print("Fetching author profile...")
+
     author = scholarly.fill(scholarly.search_author_id(AUTHOR_ID))
     proceedings = []
     publications = []
@@ -55,7 +57,8 @@ def fetch_publications():
         if bib:
             bib['title'] = p['bib']['title']
         else:
-            print(f"Fetching publication '{p['bib']['title']}'...")
+            if verbose:
+                print(f"Fetching publication '{p['bib']['title']}'...")
             scholarly.fill(p)
             bib = p['bib']
             write_cache(p['author_pub_id'], bib)
@@ -93,9 +96,15 @@ def fetch_publications():
             publications.append(cit)
         else:
             proceedings.append(cit)
+
+        if verbose:
+            print("Done!")
     return author, publications, proceedings, has_cofirst, has_colast
 
-def write_rst(author, publications, proceedings, has_cofirst, has_colast):
+def write_rst(author, publications, proceedings, has_cofirst, has_colast, verbose=True):
+    if verbose:
+        print("Writing rst...")
+
     with open("source/publications.rst", "w", encoding="utf-8") as f:
         f.write(".. role:: underline\n")
         f.write("    :class: underline\n\n")
@@ -118,6 +127,9 @@ def write_rst(author, publications, proceedings, has_cofirst, has_colast):
         if has_colast:
             f.write("    - *: Co-corresponding authors.\n")
         f.write("    - The citation numbers were retrieved from Google Scholar.\n")
+
+    if verbose:
+        print("Done!")
 
 if __name__ == "__main__":
     write_rst(*fetch_publications())

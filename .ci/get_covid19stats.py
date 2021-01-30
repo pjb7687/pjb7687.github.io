@@ -30,13 +30,17 @@ def calc_rolling_average(df):
     df['Daily new 7-day average'] = df['Daily new'].rolling(window=7).mean()
     return df
 
-def fetch_stats():
+def fetch_stats(verbose=True):
     urls = [
         "https://www.rhein-neckar-kreis.de/start/landratsamt/coronavirus+fallzahlen+03-07.html",
         "https://www.rhein-neckar-kreis.de/start/landratsamt/coronavirus+fallzahlen+08-09.html",
         "https://www.rhein-neckar-kreis.de/start/landratsamt/coronavirus+fallzahlen.html"
     ]
     p = re.compile('a href="(.+?Faktenblatt_Corona_RNK\.pdf)" title="" target="_blank">')
+
+    if verbose:
+        print("Checking updates...")
+
     pdf_urls = []
     for url in urls:
         with urllib.request.urlopen(url) as f:
@@ -54,7 +58,12 @@ def fetch_stats():
     else:
         hd_stats = pd.DataFrame(columns=df_headers)
         rnk_stats = pd.DataFrame(columns=df_headers)
-    
+
+    if len(pdf_urls) == 0:
+        if verbose:
+            print("No updates found!")
+        return
+
     for pdf_url in pdf_urls:
         pdf_fn = pdf_url.split('/')[-1]
 
@@ -112,6 +121,9 @@ def fetch_stats():
     hd_stats = calc_rolling_average(hd_stats)
     hd_stats.index = hd_stats.index.strftime("%Y-%m-%d")
     hd_stats.T.to_json(os.path.join(OUT_DIR, "hd_stats.json"), orient="split")
+
+    if verbose:
+        print("Done!")
 
 if __name__ == "__main__":
     fetch_stats()
