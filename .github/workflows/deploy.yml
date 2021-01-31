@@ -3,7 +3,7 @@ name: Publish Website
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 20 * * *
+    - cron: 0 10,20 * * *
 
 jobs:
   deploy:
