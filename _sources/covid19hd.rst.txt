@@ -7,7 +7,7 @@ COVID-19 statistics in Heidelberg and Rhein-Neckar-Kreis
 
     Last updated on: |last-updated|
 
-    Data source: https://www.rhein-neckar-kreis.de/start/landratsamt/coronavirus+fallzahlen.html
+    Data source: https://lrarnk.maps.arcgis.com/apps/opsdashboard/index.html#/ee14457029f4480ca0f7e16a4bae0929
 
 |
 
