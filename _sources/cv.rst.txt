@@ -27,8 +27,8 @@ EDUCATION
    | 2008 - 2012 | B\. Sc. in Physics, **Pusan National University**, Korea                         |
    +-------------+----------------------------------------------------------------------------------+
 
-WORKING EXPREIENCES
--------------------
+WORK EXPERIENCE
+---------------
 .. table::
     :widths: 3 9
 
