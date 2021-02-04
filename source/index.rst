@@ -13,7 +13,7 @@ A bioinformatician working at `Stegle group (B260) <https://www.dkfz.de/en/bioin
    :maxdepth: 1
 
    Curriculum Vitae <cv>
-   covid19hd
+   COVID-19 statistics in Heidelberg and Rhein-Neckar-Kreis <covid19hd>
 
 .. |google-scholar| raw:: html
 
