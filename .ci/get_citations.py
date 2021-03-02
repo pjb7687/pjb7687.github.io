@@ -45,6 +45,7 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
     author = scholarly.fill(scholarly.search_author_id(author_id))
     proceedings = []
     publications = []
+    bibs = {}
 
     has_cofirst = False
     has_colast = False
@@ -61,8 +62,7 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
             bib = p['bib']
             bib['num_cofirsts'] = bib.get('num_cofirsts', 1)
             bib['num_colasts'] = bib.get('num_colasts', 1)
-            bibs[author_pub_id] = bib
-        write_cache(bibs, cache_path)
+        bibs[author_pub_id] = bib
         authors = list(bib['author'].split(' and '))
         cofirsts = int(bib['num_cofirsts'])
         colasts = int(bib['num_colasts'])
@@ -95,7 +95,7 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
             publications.append(cit)
         else:
             proceedings.append(cit)
-
+    write_cache(bibs, cache_path)
     if verbose:
         print("Done!")
     return author, publications, proceedings, has_cofirst, has_colast
