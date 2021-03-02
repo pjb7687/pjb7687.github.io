@@ -55,13 +55,13 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
         if max_publications > 0 and i == max_publications:
             break
         bib = gscache.get(p['author_pub_id'], None)
-        if bib is None or bib['title'] != p['bib']['title']:
+        if  or bib['title'] != p['bib']['title']:
             if verbose:
                 print(f"Fetching publication '{p['bib']['title']}'...")
             scholarly.fill(p)
+            p['bib']['num_cofirsts'] = bib.get('num_cofirsts', 1)
+            p['bib']['num_colasts'] = bib.get('num_colasts', 1)
             bib = p['bib']
-            bib['num_cofirsts'] = bib.get('num_cofirsts', 1)
-            bib['num_colasts'] = bib.get('num_colasts', 1)
         bibs[p['author_pub_id']] = bib
         authors = list(bib['author'].split(' and '))
         cofirsts = int(bib['num_cofirsts'])
