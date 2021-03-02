@@ -20,7 +20,7 @@ def read_cache(cache_path):
             bibs[entries[0]] = bib
     return bibs
 
-def write_cache(bibs):
+def write_cache(bibs, cache_path):
     def append_anyway(e, bib, entries):
         if e in bib:
             entries.append(str(bib[e]))
