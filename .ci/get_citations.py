@@ -52,9 +52,7 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
         if max_publications > 0 and i == max_publications:
             break
         bib = gscache.get(p['author_pub_id'], None)
-        if bib:
-            bib['title'] = p['bib']['title']
-        else:
+        if bib is None or bib['title'] != p['bib']['title']:
             if verbose:
                 print(f"Fetching publication '{p['bib']['title']}'...")
             scholarly.fill(p)
