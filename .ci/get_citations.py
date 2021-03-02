@@ -62,7 +62,7 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
             bib = p['bib']
             bib['num_cofirsts'] = bib.get('num_cofirsts', 1)
             bib['num_colasts'] = bib.get('num_colasts', 1)
-        bibs[author_pub_id] = bib
+        bibs[p['author_pub_id']] = bib
         authors = list(bib['author'].split(' and '))
         cofirsts = int(bib['num_cofirsts'])
         colasts = int(bib['num_colasts'])
