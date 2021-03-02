@@ -20,21 +20,23 @@ def read_cache(cache_path):
             bibs[entries[0]] = bib
     return bibs
 
-def write_cache(author_pub_id, bib, cache_path):
-    entries = [author_pub_id, "1", "1", bib['title'], bib['author'], ]
-    def append_anyway(e):
+def write_cache(bibs):
+    def append_anyway(e, bib, entries):
         if e in bib:
             entries.append(str(bib[e]))
         else:
             entries.append("")
-    append_anyway('journal')
-    append_anyway('conference')
-    append_anyway('volume')
-    append_anyway('number')
-    append_anyway('pages')
-    append_anyway('pub_year')
-    with open(cache_path, "a", encoding='utf-8') as f:
-        f.write('\t'.join(entries) + '\n')
+    with open(cache_path, "w", encoding='utf-8') as f:
+        f.write('\t'.join(CACHE_HEADERS) + '\n')
+        for author_pub_id, bib in bibs.items():
+            entries = [author_pub_id, str(bib['num_cofirsts']), str(bib['num_colasts']), bib['title'], bib['author'], ]
+            append_anyway('journal', bib, entries)
+            append_anyway('conference', bib, entries)
+            append_anyway('volume', bib, entries)
+            append_anyway('number', bib, entries)
+            append_anyway('pages', bib, entries)
+            append_anyway('pub_year', bib, entries)
+            f.write('\t'.join(entries) + '\n')
 
 def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
     if verbose:
@@ -57,9 +59,10 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
                 print(f"Fetching publication '{p['bib']['title']}'...")
             scholarly.fill(p)
             bib = p['bib']
-            write_cache(p['author_pub_id'], bib, cache_path)
-            bib['num_cofirsts'] = 1
-            bib['num_colasts'] = 1
+            bib['num_cofirsts'] = bib.get('num_cofirsts', 1)
+            bib['num_colasts'] = bib.get('num_colasts', 1)
+            bibs[author_pub_id] = bib
+        write_cache(bibs, cache_path)
         authors = list(bib['author'].split(' and '))
         cofirsts = int(bib['num_cofirsts'])
         colasts = int(bib['num_colasts'])
