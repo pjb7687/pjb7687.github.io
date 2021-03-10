@@ -59,14 +59,17 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
             if verbose:
                 print(f"Fetching publication '{p['bib']['title']}'...")
             scholarly.fill(p)
-            if bib is not None:
+            if bib is None:
+                p['bib']['num_cofirsts'] = 1
+                p['bib']['num_colasts'] = 1
+            else:
                 p['bib']['num_cofirsts'] = bib['num_cofirsts']
                 p['bib']['num_colasts'] = bib['num_colasts']
             bib = p['bib']
         bibs[p['author_pub_id']] = bib
         authors = list(bib['author'].split(' and '))
-        cofirsts = int(bib.get('num_cofirsts', 1))
-        colasts = int(bib.get('num_colasts', 1))
+        cofirsts = int(bib['num_cofirsts'])
+        colasts = int(bib['num_colasts'])
         for i in range(len(authors)):
             if authors[i] == author['name']:
                 authors[i] = ":underline:`" + authors[i] + "`"
