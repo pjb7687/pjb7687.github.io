@@ -16,33 +16,28 @@ jobs:
         python-version: '3.8.x'
     - name: Cache Dependencies
       uses: actions/cache@v2
-      id: cache-venv-node
+      id: cache-node
       with:
         path: |
-          ./venv
           ./node_modules
-        key: cache-venv-node
+        key: cache-node
     - name: Install Python Dependencies
       run: |
-        python -m venv ./venv && . ./venv/bin/activate
         python -m pip install --upgrade pip
         pip install sphinx
         pip install git+https://github.com/pjb7687/scholarly.git@sortbydate
-      if: steps.cache-venv-node.outputs.cache-hit != 'true'
     - name: Setup Node.js
       uses: actions/setup-node@v2
       with:
         node-version: '12'
     - name: Install Node.js Dependencies
       run: npm install
-      if: steps.cache-venv-node.outputs.cache-hit != 'true'
+      if: steps.cache-node.outputs.cache-hit != 'true'
     - name: Fetch Google Scholar Citations
       run: |
-        python -m venv ./venv && . ./venv/bin/activate
         python .ci/get_citations.py
     - name: Build Website
       run: |
-        python -m venv ./venv && . ./venv/bin/activate
         npm run sass
         sphinx-build -a source build
         touch build/.nojekyll
