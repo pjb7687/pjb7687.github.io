@@ -65,8 +65,8 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
             bib = p['bib']
         bibs[p['author_pub_id']] = bib
         authors = list(bib['author'].split(' and '))
-        cofirsts = int(bib['num_cofirsts'])
-        colasts = int(bib['num_colasts'])
+        cofirsts = int(bib.get('num_cofirsts', 1))
+        colasts = int(bib.get('num_colasts', 1))
         for i in range(len(authors)):
             if authors[i] == author['name']:
                 authors[i] = ":underline:`" + authors[i] + "`"
