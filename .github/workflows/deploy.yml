@@ -21,7 +21,7 @@ jobs:
         path: |
           ./venv
           ./node_modules
-        key: cache-venv-node-key
+        key: cache-venv-node
     - name: Install Python Dependencies
       run: |
         python -m venv ./venv && . ./venv/bin/activate
