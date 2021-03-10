@@ -55,4 +55,5 @@ html_theme = 'basic'
 html_static_path = ['_static']
 html_style = "main.css"
 
+html_permalinks = False
 html_add_permalinks = ''
