@@ -35,7 +35,7 @@ WORK EXPERIENCE
     +----------------+----------------------------------------------------------------------------------------------------+
     | 2020 - Present | | Postdoctoral Researcher,                                                                         |
     |                | | **Division of Computational Genomics and System Genetics, German Cancer Research Center (DKFZ)** |
-    |                | | (Advisor: Prof. Oliver Stegle)                                                                     |
+    |                | | (Advisor: Prof. Oliver Stegle)                                                                   |
     +----------------+----------------------------------------------------------------------------------------------------+
     | 2018 - 2020    | | Researcher (PhD student),                                                                        |
     |                | | **Digital Health Center, Berlin Institute of Health (BIH) / Charité**                            |
