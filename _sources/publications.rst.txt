@@ -15,7 +15,7 @@ PUBLICATIONS
 ------------
 .. container:: entries text-justify
 
-    :underline:`Jeongbin Park`, Wonyl Choi, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12 (1), 1-13 (2021). [cited: 8]
+    :underline:`Jeongbin Park`\ :superscript:`†`, Wonyl Choi\ :superscript:`†`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12 (1), 1-13 (2021). [cited: 8]
 
     Martina K Zowada, Stephan M Tirier, Sebastian M Dieter, Teresa G Krieger, Ava Oberlack, Robert Lorenz Chua, Mario Huerta, Foo Wei Ten, Karin Laaber, :underline:`Jeongbin Park`, Katharina Jechow, Torsten Müller, Mathias Kalxdorf, Mark Kriegsmann, Katharina Kriegsmann, Friederike Herbst, Jeroen Krijgsveld, Martin Schneider, Roland Eils, Hanno Glimm, Christian Conrad, Claudia R Ball, **"Functional States in Tumor-Initiating Cell Differentiation in Human Colorectal Cancer"**, *Cancers* 13 (5), 1097 (2021).
 
