@@ -113,7 +113,7 @@ def write_rst(author, publications, proceedings, has_cofirst, has_colast, verbos
         f.write(".. container:: entries text-justify publications\n\n")
         for idx, (cit, pub_url) in enumerate(proceedings):
             if len(pub_url) > 0:
-                f.write(f"    .. proc{idx}: {pub_url}\n    .. |proc{idx}| replace:: {cit}\n    |proc{idx}|_\n\n")
+                f.write(f"    .. _proc{idx}: {pub_url}\n    .. |proc{idx}| replace:: {cit}\n    |proc{idx}|_\n\n")
             else:
                 f.write(f"    {cit}\n\n")
         f.write("PUBLICATIONS\n")
@@ -121,7 +121,7 @@ def write_rst(author, publications, proceedings, has_cofirst, has_colast, verbos
         f.write(".. container:: entries text-justify publications\n\n")
         for idx, (cit, pub_url) in enumerate(publications):
             if len(pub_url) > 0:
-                f.write(f"    .. pub{idx}: {pub_url}\n    .. |pub{idx}| replace:: {cit}\n    |pub{idx}|_\n\n")
+                f.write(f"    .. _pub{idx}: {pub_url}\n    .. |pub{idx}| replace:: {cit}\n    |pub{idx}|_\n\n")
             else:
                 f.write(f"    {cit}\n\n")
         f.write(".. container:: text-right\n\n")
