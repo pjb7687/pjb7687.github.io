@@ -109,9 +109,9 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
         if int(p['num_citations']) > 0:
             cit += f" [cited: {p['num_citations']}]"
         if 'journal' in bib:
-            publications.append(cit, bib.get('pub_url', ""))
+            publications.append([cit, bib.get('pub_url', "")])
         else:
-            proceedings.append(cit, bib.get('pub_url', ""))
+            proceedings.append([cit, bib.get('pub_url', "")])
     write_gs_cache(bibs, gs_cache_path)
     if verbose:
         print("Done!")
