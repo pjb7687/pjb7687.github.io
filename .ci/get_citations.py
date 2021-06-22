@@ -113,12 +113,12 @@ def write_rst(author, publications, proceedings, has_cofirst, has_colast, verbos
         f.write("    :class: underline\n\n")
         f.write("CONFERENCE PROCEEDINGS\n")
         f.write("----------------------\n")
-        f.write(".. container:: entries text-justify\n\n")
+        f.write(".. container:: entries text-justify publications\n\n")
         for cit in proceedings:
             f.write(f"    {cit}\n\n")
         f.write("PUBLICATIONS\n")
         f.write("------------\n")
-        f.write(".. container:: entries text-justify\n\n")
+        f.write(".. container:: entries text-justify publications\n\n")
         for cit in publications:
             f.write(f"    {cit}\n\n")
         f.write(".. container:: text-right\n\n")
