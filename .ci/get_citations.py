@@ -1,7 +1,8 @@
 from scholarly import scholarly
 import os
 
-CACHE_HEADERS = ["author_pub_id", "num_cofirsts", "num_colasts", "title", "author", "journal", "conference", "volume", "number", "pages", "pub_year"]
+CACHE_HEADERS = ["author_pub_id", "num_cofirsts", "num_colasts", "title", "author",
+                 "journal", "conference", "volume", "number", "pages", "pub_year", "pub_url"]
 
 def read_cache(cache_path):
     bibs = {}
@@ -30,12 +31,8 @@ def write_cache(bibs, cache_path):
         f.write('\t'.join(CACHE_HEADERS) + '\n')
         for author_pub_id, bib in bibs.items():
             entries = [author_pub_id, str(bib['num_cofirsts']), str(bib['num_colasts']), bib['title'], bib['author'], ]
-            append_anyway('journal', bib, entries)
-            append_anyway('conference', bib, entries)
-            append_anyway('volume', bib, entries)
-            append_anyway('number', bib, entries)
-            append_anyway('pages', bib, entries)
-            append_anyway('pub_year', bib, entries)
+            for hdr in CACHE_HEADERS[5:]:
+                append_anyway(hdr, bib, entries)
             f.write('\t'.join(entries) + '\n')
 
 def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
@@ -96,9 +93,9 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
         if int(p['num_citations']) > 0:
             cit += f" [cited: {p['num_citations']}]"
         if 'journal' in bib:
-            publications.append(cit)
+            publications.append(cit, bib.get('pub_url', ""))
         else:
-            proceedings.append(cit)
+            proceedings.append(cit, bib.get('pub_url', ""))
     write_cache(bibs, cache_path)
     if verbose:
         print("Done!")
@@ -114,13 +111,19 @@ def write_rst(author, publications, proceedings, has_cofirst, has_colast, verbos
         f.write("CONFERENCE PROCEEDINGS\n")
         f.write("----------------------\n")
         f.write(".. container:: entries text-justify publications\n\n")
-        for cit in proceedings:
-            f.write(f"    {cit}\n\n")
+        for idx, (cit, pub_url) in enumerate(proceedings):
+            if len(pub_url) > 0:
+                f.write(f"    .. proc{idx}: {pub_url}\n    .. |proc{idx}| replace:: {cit}\n    |proc{idx}|_\n\n")
+            else:
+                f.write(f"    {cit}\n\n")
         f.write("PUBLICATIONS\n")
         f.write("------------\n")
         f.write(".. container:: entries text-justify publications\n\n")
-        for cit in publications:
-            f.write(f"    {cit}\n\n")
+        for idx, (cit, pub_url) in enumerate(publications):
+            if len(pub_url) > 0:
+                f.write(f"    .. pub{idx}: {pub_url}\n    .. |pub{idx}| replace:: {cit}\n    |pub{idx}|_\n\n")
+            else:
+                f.write(f"    {cit}\n\n")
         f.write(".. container:: text-right\n\n")
         f.write(f"    | Total Citations: {author['citedby']}, H-index: {author['hindex']}\n")
         f.write("    |\n\n")
