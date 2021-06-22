@@ -73,11 +73,13 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
             break
         bib = gscache.get(p['author_pub_id'], None)
         num_cofirsts = gscache.get(p['author_pub_id'], None)
+        if not p['author_pub_id'] in cocache:
+          cocache[p['author_pub_id']] = (1, [], )
         if bib is None or bib['title'] != p['bib']['title']:
             if verbose:
                 print(f"Fetching publication '{p['bib']['title']}'...")
             scholarly.fill(p)
-            p['bib']['num_cofirsts'], p['bib']['correspondence_indices'] = cocache.get(p['author_pub_id'], (1, []))
+            p['bib']['num_cofirsts'], p['bib']['correspondence_indices'] = cocache[p['author_pub_id']]
             bib = p['bib']
         bibs[p['author_pub_id']] = bib
         authors = list(bib['author'].split(' and '))
@@ -113,6 +115,7 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
         else:
             proceedings.append([cit, bib.get('pub_url', "")])
     write_gs_cache(bibs, gs_cache_path)
+    write_co_cache(cocache, co_cache_path)
     if verbose:
         print("Done!")
     return author, publications, proceedings, has_cofirst, has_cocorrespondence
