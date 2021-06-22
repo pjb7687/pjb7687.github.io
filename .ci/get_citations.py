@@ -80,6 +80,7 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
                 print(f"Fetching publication '{p['bib']['title']}'...")
             scholarly.fill(p)
             bib = p['bib']
+            pub_url = bib['pub_url'] = p.get('pub_url', '')
         bib['num_cofirsts'], bib['correspondence_indices'] = cocache[p['author_pub_id']]
         bibs[p['author_pub_id']] = bib
         
@@ -112,9 +113,9 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
         if int(p['num_citations']) > 0:
             cit += f" [cited: {p['num_citations']}]"
         if 'journal' in bib:
-            publications.append([cit, bib.get('pub_url', "")])
+            publications.append([cit, pub_url])
         else:
-            proceedings.append([cit, bib.get('pub_url', "")])
+            proceedings.append([cit, pub_url])
     write_gs_cache(bibs, gs_cache_path)
     write_co_cache(cocache, co_cache_path)
     if verbose:
