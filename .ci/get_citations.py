@@ -13,7 +13,7 @@ def read_gs_cache(cache_path):
     with open(cache_path, encoding='utf-8') as f:
         f.readline()
         for line in f:
-            entries = line.strip().split('\t')
+            entries = line.strip('\n').strip('\r').split('\t')
             bib = {}
             for h, e in zip(CACHE_HEADERS[1:], entries[1:]):
                 if len(e) > 0:
@@ -43,7 +43,7 @@ def read_co_cache(cache_path):
     with open(cache_path, encoding='utf-8') as f:
         f.readline()
         for line in f:
-            entries = line.strip().split('\t')
+            entries = line.strip('\n').strip('\r').split('\t')
             cocache[entries[0]] = (int(entries[1]), [int(i) for i in ','.split(entries[2])], )
     return cocache
 
