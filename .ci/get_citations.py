@@ -44,7 +44,7 @@ def read_co_cache(cache_path):
         f.readline()
         for line in f:
             entries = line.strip('\n').strip('\r').split('\t')
-            cocache[entries[0]] = (int(entries[1]), [int(i) for i in ','.split(entries[2])], )
+            cocache[entries[0]] = (int(entries[1]), [] if entries[2] == "" else [int(i) for i in ','.split(entries[2])], )
     return cocache
 
 def write_co_cache(cocache, cache_path):
