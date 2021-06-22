@@ -1,10 +1,10 @@
 from scholarly import scholarly
 import os
 
-CACHE_HEADERS = ["author_pub_id", "num_cofirsts", "num_colasts", "title", "author",
+CACHE_HEADERS = ["author_pub_id", "title", "author",
                  "journal", "conference", "volume", "number", "pages", "pub_year", "pub_url"]
 
-def read_cache(cache_path):
+def read_gs_cache(cache_path):
     bibs = {}
     if not os.path.exists(cache_path):
         with open(cache_path, "w", encoding='utf-8') as f:
@@ -21,7 +21,7 @@ def read_cache(cache_path):
             bibs[entries[0]] = bib
     return bibs
 
-def write_cache(bibs, cache_path):
+def write_gs_cache(bibs, cache_path):
     def append_anyway(e, bib, entries):
         if e in bib:
             entries.append(str(bib[e]))
@@ -30,12 +30,31 @@ def write_cache(bibs, cache_path):
     with open(cache_path, "w", encoding='utf-8') as f:
         f.write('\t'.join(CACHE_HEADERS) + '\n')
         for author_pub_id, bib in bibs.items():
-            entries = [author_pub_id, str(bib['num_cofirsts']), str(bib['num_colasts']), bib['title'], bib['author'], ]
-            for hdr in CACHE_HEADERS[5:]:
+            entries = [author_pub_id, bib['title'], bib['author'], ]
+            for hdr in CACHE_HEADERS[3:]:
                 append_anyway(hdr, bib, entries)
             f.write('\t'.join(entries) + '\n')
 
-def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
+def read_co_cache(cache_path):
+    cocache = {}
+    if not os.path.exists(cache_path):
+        with open(cache_path, "w", encoding='utf-8') as f:
+            f.write("#author_pub_id\tnum_cofirsts\ncorrespondence_indices\n")
+    with open(cache_path, encoding='utf-8') as f:
+        f.readline()
+        for line in f:
+            entries = line.strip().split('\t')
+            cocache[entries[0]] = (int(entries[1]), [int(i) for i in ','.split(entries[2])], )
+    return cocache
+
+def write_co_cache(cocache, cache_path):
+    with open(cache_path, "w", encoding='utf-8') as f:
+        f.write("#author_pub_id\tnum_cofirsts\ncorrespondence_indices\n")
+        for author_pub_id, c in cocache.items():
+            f.write(f"{author_pub_id}\t{c[0]}\t{','.join([str(i) for i in c[1]])}\n")
+    return cocache
+  
+def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications=0, verbose=True):
     if verbose:
         print("Fetching author profile...")
 
@@ -45,28 +64,25 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
     bibs = {}
 
     has_cofirst = False
-    has_colast = False
+    has_cocorrespondence = False
 
-    gscache = read_cache(cache_path)
+    gscache = read_gs_cache(gs_cache_path)
+    cocache = read_co_cache(co_cache_path)
     for i, p in enumerate(author['publications']):
         if max_publications > 0 and i == max_publications:
             break
         bib = gscache.get(p['author_pub_id'], None)
+        num_cofirsts = gscache.get(p['author_pub_id'], None)
         if bib is None or bib['title'] != p['bib']['title']:
             if verbose:
                 print(f"Fetching publication '{p['bib']['title']}'...")
             scholarly.fill(p)
-            if bib is None:
-                p['bib']['num_cofirsts'] = 1
-                p['bib']['num_colasts'] = 1
-            else:
-                p['bib']['num_cofirsts'] = bib['num_cofirsts']
-                p['bib']['num_colasts'] = bib['num_colasts']
+            p['bib']['num_cofirsts'], p['bib']['correspondence_indices'] = cocache.get(p['author_pub_id'], (1, []))
             bib = p['bib']
         bibs[p['author_pub_id']] = bib
         authors = list(bib['author'].split(' and '))
         cofirsts = int(bib['num_cofirsts'])
-        colasts = int(bib['num_colasts'])
+        correspondences = len(bib['correspondence_indices'])
         for i in range(len(authors)):
             if authors[i] == author['name']:
                 authors[i] = ":underline:`" + authors[i] + "`"
@@ -74,9 +90,9 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
             has_cofirst = True
             for i in range(cofirsts):
                 authors[i] += '\\ :superscript:`†`'
-        if colasts > 1:
-            has_colast = True
-            for i in range(len(authors)-1, len(authors)-colasts-1):
+        if correspondences > 1:
+            has_cocorrespondence = True
+            for i in bib['correspondence_indices']:
                 authors[i] += '\\ :superscript:`*`'
         if 'journal' in bib:
             journal = bib['journal']
@@ -96,12 +112,12 @@ def fetch_publications(author_id, cache_path, max_publications=0, verbose=True):
             publications.append(cit, bib.get('pub_url', ""))
         else:
             proceedings.append(cit, bib.get('pub_url', ""))
-    write_cache(bibs, cache_path)
+    write_gs_cache(bibs, gs_cache_path)
     if verbose:
         print("Done!")
-    return author, publications, proceedings, has_cofirst, has_colast
+    return author, publications, proceedings, has_cofirst, has_cocorrespondence
 
-def write_rst(author, publications, proceedings, has_cofirst, has_colast, verbose=True):
+def write_rst(author, publications, proceedings, has_cofirst, has_cocorrespondence, verbose=True):
     if verbose:
         print("Writing rst...")
 
@@ -130,7 +146,7 @@ def write_rst(author, publications, proceedings, has_cofirst, has_colast, verbos
         f.write(".. container:: entries text-left\n\n")
         if has_cofirst:
             f.write("    - †: Joint first authors.\n")
-        if has_colast:
+        if has_cocorrespondence:
             f.write("    - *: Co-corresponding authors.\n")
         f.write("    - The citation numbers were retrieved from Google Scholar.\n")
 
@@ -138,4 +154,4 @@ def write_rst(author, publications, proceedings, has_cofirst, has_colast, verbos
         print("Done!")
 
 if __name__ == "__main__":
-    write_rst(*fetch_publications("XLVldUsAAAAJ", ".ci/gscache.txt", 0))
+    write_rst(*fetch_publications("XLVldUsAAAAJ", ".ci/gscache.txt",  ".ci/cofirsts_cocorrespondence_cache.txt", 0))
