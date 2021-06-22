@@ -80,7 +80,7 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
                 print(f"Fetching publication '{p['bib']['title']}'...")
             scholarly.fill(p)
             bib = p['bib']
-            pub_url = bib['pub_url'] = p.get('pub_url', '')
+            bib['pub_url'] = p.get('pub_url', '')
         bib['num_cofirsts'], bib['correspondence_indices'] = cocache[p['author_pub_id']]
         bibs[p['author_pub_id']] = bib
         
@@ -113,9 +113,9 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
         if int(p['num_citations']) > 0:
             cit += f" [cited: {p['num_citations']}]"
         if 'journal' in bib:
-            publications.append([cit, pub_url])
+            publications.append([cit, bib.get('pub_url', "")])
         else:
-            proceedings.append([cit, pub_url])
+            proceedings.append([cit, bib.get('pub_url', "")])
     write_gs_cache(bibs, gs_cache_path)
     write_co_cache(cocache, co_cache_path)
     if verbose:
@@ -134,7 +134,7 @@ def write_rst(author, publications, proceedings, has_cofirst, has_cocorresponden
         f.write(".. container:: entries text-justify publications\n\n")
         for idx, (cit, pub_url) in enumerate(proceedings):
             if len(pub_url) > 0:
-                f.write(f"    .. _proc{idx}: {pub_url}\n    .. |proc{idx}| replace:: {cit}\n    |proc{idx}|_\n\n")
+                f.write(f"    .. _proc{idx}: {pub_url}\n    .. |proc{idx}| replace:: {cit}\n\n    |proc{idx}|_\n\n")
             else:
                 f.write(f"    {cit}\n\n")
         f.write("PUBLICATIONS\n")
@@ -142,7 +142,7 @@ def write_rst(author, publications, proceedings, has_cofirst, has_cocorresponden
         f.write(".. container:: entries text-justify publications\n\n")
         for idx, (cit, pub_url) in enumerate(publications):
             if len(pub_url) > 0:
-                f.write(f"    .. _pub{idx}: {pub_url}\n    .. |pub{idx}| replace:: {cit}\n    |pub{idx}|_\n\n")
+                f.write(f"    .. _pub{idx}: {pub_url}\n    .. |pub{idx}| replace:: {cit}\n\n    |pub{idx}|_\n\n")
             else:
                 f.write(f"    {cit}\n\n")
         f.write(".. container:: text-right\n\n")
