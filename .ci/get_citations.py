@@ -49,7 +49,7 @@ def read_co_cache(cache_path):
 
 def write_co_cache(cocache, cache_path):
     with open(cache_path, "w", encoding='utf-8') as f:
-        f.write("#author_pub_id\tnum_cofirsts\ncorrespondence_indices\n")
+        f.write("#author_pub_id\tnum_cofirsts\tcorrespondence_indices\n")
         for author_pub_id, c in cocache.items():
             f.write(f"{author_pub_id}\t{c[0]}\t{','.join([str(i) for i in c[1]])}\n")
     return cocache
