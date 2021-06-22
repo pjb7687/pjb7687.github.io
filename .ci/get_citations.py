@@ -39,7 +39,7 @@ def read_co_cache(cache_path):
     cocache = {}
     if not os.path.exists(cache_path):
         with open(cache_path, "w", encoding='utf-8') as f:
-            f.write("#author_pub_id\tnum_cofirsts\ncorrespondence_indices\n")
+            f.write("#author_pub_id\tnum_cofirsts\tcorrespondence_indices\n")
     with open(cache_path, encoding='utf-8') as f:
         f.readline()
         for line in f:
