@@ -24,7 +24,7 @@ PUBLICATIONS
 ------------
 .. container:: entries text-justify publications
 
-    .. _pub0: https://www.biorxiv.org/content/10.1101/800748v2.abstract
+    .. _pub0: https://www.nature.com/articles/s41467-021-23807-4
     .. |pub0| replace:: :underline:`Jeongbin Park`\ :superscript:`†`, Wonyl Choi\ :superscript:`†`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 8]
 
     |pub0|_
@@ -59,7 +59,10 @@ PUBLICATIONS
 
     |pub6|_
 
-    Sang-Tae Kim\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Daesik Kim, Kyoungmi Kim, Sangsu Bae, Matthias Schlesner, Jin-Soo Kim, **"Response to “Unexpected mutations after CRISPR–Cas9 editing in vivo”"**, *Nature Methods* 15 (4), 239-240 (2018). [cited: 40]
+    .. _pub7: https://www.nature.com/articles/nmeth.4554
+    .. |pub7| replace:: Sang-Tae Kim\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Daesik Kim, Kyoungmi Kim, Sangsu Bae, Matthias Schlesner, Jin-Soo Kim, **"Response to “Unexpected mutations after CRISPR–Cas9 editing in vivo”"**, *Nature Methods* 15 (4), 239-240 (2018). [cited: 40]
+
+    |pub7|_
 
     .. _pub8: https://academic.oup.com/bioinformatics/article-abstract/34/6/1077/4665414
     .. |pub8| replace:: :underline:`Jeongbin Park`, Sangsu Bae, **"Cpf1-Database: web-based genome-wide guide RNA library design for gene knockout screens using CRISPR-Cpf1"**, *Bioinformatics* 34 (6), 1077-1079 (2018). [cited: 18]
