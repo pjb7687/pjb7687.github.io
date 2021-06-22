@@ -73,7 +73,7 @@ SERVICE
 
     **Open Source Contribution:**
 
-    - **GNU Data Language (GDL)**: Ported GDL (https://github.com/gnudatalanguage/gdl/) on Windows (contributed mainly in 2014 - 2015, 2021).
+    - **GNU Data Language (GDL)**: Ported GDL (https://github.com/gnudatalanguage/gdl/) on Windows (contributed mainly in 2014 - 2015). From 2021, serving as release manager of the project.
 
 TEACHING EXPERIENCE
 -------------------
