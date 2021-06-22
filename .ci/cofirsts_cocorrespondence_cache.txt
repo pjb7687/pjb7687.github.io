@@ -1,4 +1,5 @@
-#author_pub_id	num_cofirsts	correspondence_indices
+#author_pub_id	num_cofirsts
+correspondence_indices
 XLVldUsAAAAJ:WbkHhVStYXYC	2	
 XLVldUsAAAAJ:738O_yMBCRsC	1	
 XLVldUsAAAAJ:XiSMed-E-HIC	1	
