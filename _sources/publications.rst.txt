@@ -94,7 +94,7 @@ PUBLICATIONS
 
     |pub13|_
 
-    .. _pub14: https://www.nature.com/articles/nmeth.4262.pdf?origin=ppub
+    .. _pub14: https://www.nature.com/articles/nmeth.4262
     .. |pub14| replace:: :underline:`Jeongbin Park`, Liam Childs, Daesik Kim, Gue-Ho Hwang, Sunghyun Kim, Sang-Tae Kim, Jin-Soo Kim, Sangsu Bae, **"Digenome-seq web tool for profiling CRISPR specificity"**, *Nature Methods* 14 (6), 548-549 (2017). [cited: 27]
 
     |pub14|_
