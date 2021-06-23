@@ -9,7 +9,7 @@ Dr. Jeongbin Park
 
 .. container:: footercv
 
-    The latest version of this CV is available at: https://jeongbinpark.com/cv
+    (The latest version of this CV is available at: https://jeongbinpark.com/cv)
 
 .. container:: small
 
