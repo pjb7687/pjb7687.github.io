@@ -7,6 +7,10 @@ Dr. Jeongbin Park
 
 (last updated: |today|)
 
+.. container:: footercv
+
+    The latest version of this CV can also be found at: https://jeongbinpark.com/cv
+
 .. container:: small
 
     | Address: O2.MB.125 Berliner Str. 41, 69120 Heidelberg
