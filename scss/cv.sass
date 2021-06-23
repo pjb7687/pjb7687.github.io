@@ -91,11 +91,10 @@
     size: A4 !important
     margin: 20mm !important
 
-@page :first
-    .footercv
-        display: block
-
 @media print
+    @page :first
+        .footercv
+            display: block
     html, body
         margin: 0 !important
         padding: 0 !important
