@@ -35,7 +35,7 @@ PUBLICATIONS
     |pub1|_
 
     .. _pub2: https://academic.oup.com/neuro-oncology/article-abstract/22/8/1138/5820825
-    .. |pub2| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 23]
+    .. |pub2| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 24]
 
     |pub2|_
 
@@ -80,7 +80,7 @@ PUBLICATIONS
     |pub10|_
 
     .. _pub11: https://www.nature.com/articles/s41467-017-02177-w
-    .. |pub11| replace:: Daniel B Lipka, Tania Witte, Reka Toth, Jing Yang, Manuel Wiesenfarth, Peter Nöllke, Alexandra Fischer, David Brocks, Zuguang Gu, :underline:`Jeongbin Park`, Brigitte Strahm, Marcin Wlodarski, Ayami Yoshimi, Rainer Claus, Michael Lübbert, Hauke Busch, Melanie Boerries, Mark Hartmann, Maximilian Schönung, Umut Kilik, Jens Langstein, Justyna A Wierzbinska, Caroline Pabst, Swati Garg, Albert Catalá, Barbara De Moerloose, Michael Dworzak, Henrik Hasle, Franco Locatelli, Riccardo Masetti, Markus Schmugge, Owen Smith, Jan Stary, Marek Ussowicz, Marry M Van Den Heuvel-Eibrink, Yassen Assenov, Matthias Schlesner, Charlotte Niemeyer, Christian Flotho, Christoph Plass, **"RAS-pathway mutation patterns define epigenetic subclasses in juvenile myelomonocytic leukemia"**, *Nature Communications* 8, 2126 (2017). [cited: 54]
+    .. |pub11| replace:: Daniel B Lipka, Tania Witte, Reka Toth, Jing Yang, Manuel Wiesenfarth, Peter Nöllke, Alexandra Fischer, David Brocks, Zuguang Gu, :underline:`Jeongbin Park`, Brigitte Strahm, Marcin Wlodarski, Ayami Yoshimi, Rainer Claus, Michael Lübbert, Hauke Busch, Melanie Boerries, Mark Hartmann, Maximilian Schönung, Umut Kilik, Jens Langstein, Justyna A Wierzbinska, Caroline Pabst, Swati Garg, Albert Catalá, Barbara De Moerloose, Michael Dworzak, Henrik Hasle, Franco Locatelli, Riccardo Masetti, Markus Schmugge, Owen Smith, Jan Stary, Marek Ussowicz, Marry M Van Den Heuvel-Eibrink, Yassen Assenov, Matthias Schlesner, Charlotte Niemeyer, Christian Flotho, Christoph Plass, **"RAS-pathway mutation patterns define epigenetic subclasses in juvenile myelomonocytic leukemia"**, *Nature Communications* 8, 2126 (2017). [cited: 55]
 
     |pub11|_
 
@@ -100,7 +100,7 @@ PUBLICATIONS
     |pub14|_
 
     .. _pub15: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub15| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 191]
+    .. |pub15| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 194]
 
     |pub15|_
 
@@ -110,7 +110,7 @@ PUBLICATIONS
     |pub16|_
 
     .. _pub17: https://academic.oup.com/bioinformatics/article-abstract/32/13/2017/1743283
-    .. |pub17| replace:: :underline:`Jeongbin Park`, Jin-Soo Kim, Sangsu Bae, **"Cas-Database: web-based genome-wide guide RNA library design for gene knockout screens using CRISPR-Cas9"**, *Bioinformatics* 32 (13), 2017-2023 (2016). [cited: 32]
+    .. |pub17| replace:: :underline:`Jeongbin Park`, Jin-Soo Kim, Sangsu Bae, **"Cas-Database: web-based genome-wide guide RNA library design for gene knockout screens using CRISPR-Cas9"**, *Bioinformatics* 32 (13), 2017-2023 (2016). [cited: 33]
 
     |pub17|_
 
@@ -120,7 +120,7 @@ PUBLICATIONS
     |pub18|_
 
     .. _pub19: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub19| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 204]
+    .. |pub19| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 207]
 
     |pub19|_
 
@@ -130,7 +130,7 @@ PUBLICATIONS
     |pub20|_
 
     .. _pub21: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub21| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1029]
+    .. |pub21| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1032]
 
     |pub21|_
 
@@ -141,7 +141,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 2940, H-index: 17
+    | Total Citations: 2952, H-index: 17
     |
 
 .. container:: entries text-left
