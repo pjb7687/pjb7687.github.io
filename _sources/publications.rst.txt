@@ -25,7 +25,7 @@ PUBLICATIONS
 .. container:: entries text-justify publications
 
     .. _pub0: https://www.nature.com/articles/s41467-021-23807-4
-    .. |pub0| replace:: :underline:`Jeongbin Park`\ :superscript:`†`, Wonyl Choi\ :superscript:`†`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 15]
+    .. |pub0| replace:: :underline:`Jeongbin Park`\ :superscript:`†`, Wonyl Choi\ :superscript:`†`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 16]
 
     |pub0|_
 
@@ -50,7 +50,7 @@ PUBLICATIONS
     |pub4|_
 
     .. _pub5: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2585-4?optIn=true
-    .. |pub5| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 77]
+    .. |pub5| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 78]
 
     |pub5|_
 
@@ -60,12 +60,12 @@ PUBLICATIONS
     |pub6|_
 
     .. _pub7: https://www.nature.com/articles/nmeth.4554
-    .. |pub7| replace:: Sang-Tae Kim\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Daesik Kim, Kyoungmi Kim, Sangsu Bae, Matthias Schlesner, Jin-Soo Kim, **"Response to “Unexpected mutations after CRISPR–Cas9 editing in vivo”"**, *Nature Methods* 15 (4), 239-240 (2018). [cited: 40]
+    .. |pub7| replace:: Sang-Tae Kim\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Daesik Kim, Kyoungmi Kim, Sangsu Bae, Matthias Schlesner, Jin-Soo Kim, **"Response to “Unexpected mutations after CRISPR–Cas9 editing in vivo”"**, *Nature Methods* 15 (4), 239-240 (2018). [cited: 41]
 
     |pub7|_
 
     .. _pub8: https://academic.oup.com/bioinformatics/article-abstract/34/6/1077/4665414
-    .. |pub8| replace:: :underline:`Jeongbin Park`, Sangsu Bae, **"Cpf1-Database: web-based genome-wide guide RNA library design for gene knockout screens using CRISPR-Cpf1"**, *Bioinformatics* 34 (6), 1077-1079 (2018). [cited: 19]
+    .. |pub8| replace:: :underline:`Jeongbin Park`, Sangsu Bae, **"Cpf1-Database: web-based genome-wide guide RNA library design for gene knockout screens using CRISPR-Cpf1"**, *Bioinformatics* 34 (6), 1077-1079 (2018). [cited: 20]
 
     |pub8|_
 
@@ -90,7 +90,7 @@ PUBLICATIONS
     |pub12|_
 
     .. _pub13: https://www.sciencedirect.com/science/article/pii/S0021925820396034
-    .. |pub13| replace:: Heon Seok Kim, Kyungjin Lee, Sangsu Bae, :underline:`Jeongbin Park`, Chong-Kyo Lee, Meehyein Kim, Eunji Kim, Minju Kim, Seokjoong Kim, Chonsaeng Kim, Jin-Soo Kim, **"CRISPR/Cas9-mediated gene knockout screens and target identification via whole-genome sequencing uncover host genes required for picornavirus infection"**, *Journal of Biological Chemistry* 292 (25), 10664-10671 (2017). [cited: 32]
+    .. |pub13| replace:: Heon Seok Kim, Kyungjin Lee, Sangsu Bae, :underline:`Jeongbin Park`, Chong-Kyo Lee, Meehyein Kim, Eunji Kim, Minju Kim, Seokjoong Kim, Chonsaeng Kim, Jin-Soo Kim, **"CRISPR/Cas9-mediated gene knockout screens and target identification via whole-genome sequencing uncover host genes required for picornavirus infection"**, *Journal of Biological Chemistry* 292 (25), 10664-10671 (2017). [cited: 33]
 
     |pub13|_
 
@@ -120,28 +120,28 @@ PUBLICATIONS
     |pub18|_
 
     .. _pub19: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub19| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 220]
+    .. |pub19| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 221]
 
     |pub19|_
 
     .. _pub20: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub20| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 802]
+    .. |pub20| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 807]
 
     |pub20|_
 
     .. _pub21: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub21| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1090]
+    .. |pub21| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1094]
 
     |pub21|_
 
     .. _pub22: https://www.nature.com/articles/ncomms4724
-    .. |pub22| replace:: Moon-Hyeong Seo, :underline:`Jeongbin Park`, Eunkyung Kim, Sungchul Hohng, Hak-Sung Kim, **"Protein conformational dynamics dictate the binding affinity for a ligand"**, *Nature Communications* 5, 3724 (2014). [cited: 113]
+    .. |pub22| replace:: Moon-Hyeong Seo, :underline:`Jeongbin Park`, Eunkyung Kim, Sungchul Hohng, Hak-Sung Kim, **"Protein conformational dynamics dictate the binding affinity for a ligand"**, *Nature Communications* 5, 3724 (2014). [cited: 114]
 
     |pub22|_
 
 .. container:: text-right
 
-    | Total Citations: 3146, H-index: 17
+    | Total Citations: 3162, H-index: 17
     |
 
 .. container:: entries text-left
