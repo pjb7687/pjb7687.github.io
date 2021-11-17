@@ -70,7 +70,7 @@ PUBLICATIONS
     |pub8|_
 
     .. _pub9: https://www.nature.com/articles/s41467-018-03025-1
-    .. |pub9| replace:: Manuel Rodríguez-Paredes, Felix Bormann, Günter Raddatz, Julian Gutekunst, Carlota Lucena-Porcel, Florian Köhler, Elisabeth Wurzer, Katrin Schmidt, Stefan Gallinat, Horst Wenck, Joachim Röwert-Huber, Evgeniya Denisova, Lars Feuerbach, :underline:`Jeongbin Park`, Benedikt Brors, Esther Herpel, Ingo Nindl, Thomas G Hofmann, Marc Winnefeld, Frank Lyko, **"Methylation profiling identifies two subclasses of squamous cell carcinoma related to distinct cells of origin"**, *Nature Communications* 9, 577 (2018). [cited: 43]
+    .. |pub9| replace:: Manuel Rodríguez-Paredes, Felix Bormann, Günter Raddatz, Julian Gutekunst, Carlota Lucena-Porcel, Florian Köhler, Elisabeth Wurzer, Katrin Schmidt, Stefan Gallinat, Horst Wenck, Joachim Röwert-Huber, Evgeniya Denisova, Lars Feuerbach, :underline:`Jeongbin Park`, Benedikt Brors, Esther Herpel, Ingo Nindl, Thomas G Hofmann, Marc Winnefeld, Frank Lyko, **"Methylation profiling identifies two subclasses of squamous cell carcinoma related to distinct cells of origin"**, *Nature Communications* 9, 577 (2018). [cited: 44]
 
     |pub9|_
 
@@ -100,7 +100,7 @@ PUBLICATIONS
     |pub14|_
 
     .. _pub15: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub15| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 212]
+    .. |pub15| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 213]
 
     |pub15|_
 
@@ -115,22 +115,22 @@ PUBLICATIONS
     |pub17|_
 
     .. _pub18: https://genome.cshlp.org/content/26/3/406.short
-    .. |pub18| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 177]
+    .. |pub18| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 178]
 
     |pub18|_
 
     .. _pub19: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub19| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 224]
+    .. |pub19| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 225]
 
     |pub19|_
 
     .. _pub20: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub20| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 812]
+    .. |pub20| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 816]
 
     |pub20|_
 
     .. _pub21: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub21| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1110]
+    .. |pub21| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1113]
 
     |pub21|_
 
@@ -141,7 +141,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 3193, H-index: 17
+    | Total Citations: 3204, H-index: 17
     |
 
 .. container:: entries text-left
