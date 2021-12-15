@@ -50,7 +50,7 @@ PUBLICATIONS
     |pub4|_
 
     .. _pub5: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2585-4?optIn=true
-    .. |pub5| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 79]
+    .. |pub5| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 80]
 
     |pub5|_
 
@@ -65,7 +65,7 @@ PUBLICATIONS
     |pub7|_
 
     .. _pub8: https://academic.oup.com/bioinformatics/article-abstract/34/6/1077/4665414
-    .. |pub8| replace:: :underline:`Jeongbin Park`, Sangsu Bae, **"Cpf1-Database: web-based genome-wide guide RNA library design for gene knockout screens using CRISPR-Cpf1"**, *Bioinformatics* 34 (6), 1077-1079 (2018). [cited: 20]
+    .. |pub8| replace:: :underline:`Jeongbin Park`, Sangsu Bae, **"Cpf1-Database: web-based genome-wide guide RNA library design for gene knockout screens using CRISPR-Cpf1"**, *Bioinformatics* 34 (6), 1077-1079 (2018). [cited: 21]
 
     |pub8|_
 
@@ -85,7 +85,7 @@ PUBLICATIONS
     |pub11|_
 
     .. _pub12: https://www.embopress.org/doi/abs/10.15252/msb.20177697
-    .. |pub12| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 121]
+    .. |pub12| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 123]
 
     |pub12|_
 
@@ -100,7 +100,7 @@ PUBLICATIONS
     |pub14|_
 
     .. _pub15: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub15| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 218]
+    .. |pub15| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 220]
 
     |pub15|_
 
@@ -120,17 +120,17 @@ PUBLICATIONS
     |pub18|_
 
     .. _pub19: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub19| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 228]
+    .. |pub19| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 229]
 
     |pub19|_
 
     .. _pub20: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub20| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 821]
+    .. |pub20| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 822]
 
     |pub20|_
 
     .. _pub21: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub21| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1131]
+    .. |pub21| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1132]
 
     |pub21|_
 
@@ -141,7 +141,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 3248, H-index: 17
+    | Total Citations: 3257, H-index: 17
     |
 
 .. container:: entries text-left
