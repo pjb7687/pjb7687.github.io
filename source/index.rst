@@ -5,7 +5,7 @@ Dr. Jeongbin Park
 
 |google-scholar| |orcid| |researchgate|
 
-A bioinformatician working at `Stegle group (B260) <https://www.dkfz.de/en/bioinformatik-genomik-systemgenetik/>`_, `DKFZ <https://www.dkfz.de/>`_, Germany
+A bioinformatician working at `School of Biomedical Convergence Engineering <https://bce.pusan.ac.kr/>`_, `Pusan National University <https://www.pusan.ac.kr/>`_, Korea
 
 |
 
