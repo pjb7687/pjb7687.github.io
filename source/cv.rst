@@ -37,7 +37,10 @@ WORK EXPERIENCE
     :widths: 3 9
 
     +----------------+----------------------------------------------------------------------------------------------------+
-    | 2020 - Present | | Postdoctoral Researcher,                                                                         |
+    | 2022 - Present | | Assistant Professor,                                                                             |
+    |                | | **School of Biomedical Convergence Engineering, Pusan National University**                      |
+    +----------------+----------------------------------------------------------------------------------------------------+
+    | 2020 - 2022    | | Postdoctoral Researcher,                                                                         |
     |                | | **Division of Computational Genomics and System Genetics, German Cancer Research Center (DKFZ)** |
     |                | | (Advisor: Prof. Oliver Stegle)                                                                   |
     +----------------+----------------------------------------------------------------------------------------------------+
