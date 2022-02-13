@@ -16,7 +16,6 @@ Dr. Jeongbin Park
     | Address: O2.MB.125 Berliner Str. 41, 69120 Heidelberg
     | E-mail: j.park@dkfz-heidelberg.de
     | Telephone: +49 6221 42-2724
-    |
 
 EDUCATION
 ---------
