@@ -13,7 +13,8 @@ Dr. Jeongbin Park
 
 .. container:: small
 
-    | Address: ABC Center, Pusan National University, Busandaehakro 49, 50612 Mulgeum (Yangsan), Korea
+    | Address: Room #401, ABC Center, Busandaehak-ro 49, 50612 Mulgeum, Yangsan, Korea
+    | Tel: +82-51-510-8543
     |
 
 EDUCATION
