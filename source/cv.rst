@@ -13,9 +13,8 @@ Dr. Jeongbin Park
 
 .. container:: small
 
-    | Address: O2.MB.125 Berliner Str. 41, 69120 Heidelberg
-    | E-mail: j.park@dkfz-heidelberg.de
-    | Telephone: +49 6221 42-2724
+    | Address: ABC Center, Pusan National University, Busandaehakro 49, 50612 Mulgeum (Yangsan), Korea
+    |
 
 EDUCATION
 ---------
