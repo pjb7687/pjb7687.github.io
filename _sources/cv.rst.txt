@@ -13,9 +13,12 @@ Dr. Jeongbin Park
 
 .. container:: small
 
-    | Address: Room #401, ABC Center, Busandaehak-ro 49, 50612 Mulgeum, Yangsan, Korea
-    | Tel: +82-51-510-8543
-    |
+   +-------------+------------------------------------------------------------+
+   | Address:    | | Room #401, ABC Center, Busandaehak-ro 49,                |
+   |             | | Mulgeum, Yangsan, Republic of Korea (postal code: 50612) |
+   +-------------+------------------------------------------------------------+
+   | Tel.:       | | +82-51-510-8543                                          |
+   +-------------+------------------------------------------------------------+
 
 EDUCATION
 ---------
