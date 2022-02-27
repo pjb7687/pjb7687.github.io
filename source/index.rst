@@ -12,6 +12,7 @@ A bioinformatician working at `School of Biomedical Convergence Engineering <htt
 .. toctree::
    :maxdepth: 1
 
+   Computational Omics Laboratory at Pusan National University <https://pnucolab.com>
    Curriculum Vitae <cv>
    COVID-19 statistics in Heidelberg and Rhein-Neckar-Kreis <covid19hd>
 
