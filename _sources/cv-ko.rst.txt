@@ -75,7 +75,7 @@ SERVICE
 
     **번역:**
 
-    - **A Byte of Python (한국어 번역)**: 온라인 파이썬 언어 가이드북, 원저자: Swaroop C H. 링크: https://github.com/pjb7687/byte_of_python/
+    - **A Byte of Python (한국어 번역)**: 온라인 파이썬 가이드북 (원저자: Swaroop C H). 링크: https://github.com/pjb7687/byte_of_python/
 
     **오픈소스 프로젝트:**
 
