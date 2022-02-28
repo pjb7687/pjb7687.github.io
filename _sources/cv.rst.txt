@@ -92,7 +92,7 @@ TEACHING EXPERIENCE
 
     Lectures:
 
-    - **유닉스 기초 (UNIX Fundamentals)**, **정보의학개론 (Introduction to Medical Informatics)**, School of Biomedical Convergence Engineering, Pusan National University, SS 2022
+    - **"UNIX Fundamentals"**, **"Introduction to Medical Informatics"**, School of Biomedical Convergence Engineering, Pusan National University, SS 2022
 
     Invited lecture **"Spatial transcriptomics"** at "Single cell RNA-seq data analysis with R" (sponsored by the **ELIXIR EXCELERATE** project). CSC, Espoo, Finland. 29 May 2019.
 
