@@ -26,11 +26,11 @@ EDUCATION
    :widths: 3 9
 
    +-------------+----------------------------------------------------------------------------------+
-   | 2016 - 2020 | Dr. rer. nat. (Ph. D. equivalent) in Biology, **Heidelberg University**, Germany |
+   | 2016 - 2020 | **Dr. rer. nat. (Ph. D. equivalent) in Biology**, Heidelberg University, Germany |
    +-------------+----------------------------------------------------------------------------------+
-   | 2012 - 2014 | M\. Sc. in Physics, **Seoul National University**, Korea                         |
+   | 2012 - 2014 | **M\. Sc. in Physics**, Seoul National University, Korea                         |
    +-------------+----------------------------------------------------------------------------------+
-   | 2008 - 2012 | B\. Sc. in Physics, **Pusan National University**, Korea                         |
+   | 2008 - 2012 | **B\. Sc. in Physics**, Pusan National University, Korea                         |
    +-------------+----------------------------------------------------------------------------------+
 
 WORK EXPERIENCE
@@ -88,14 +88,18 @@ TEACHING EXPERIENCE
 -------------------
 .. container:: entries text-left
 
+    Lectures:
+
+    - **유닉스 기초 (UNIX Fundamentals)**, **정보의학개론 (Introduction to Medical Informatics)**, School of Biomedical Convergence Engineering, Pusan National University, SS 2022
+
     Invited lecture **"Spatial transcriptomics"** at "Single cell RNA-seq data analysis with R" (sponsored by the **ELIXIR EXCELERATE** project). CSC, Espoo, Finland. 29 May 2019.
 
     Student supervision, 3 student research interns (including 1 co-supervision), Division of Theoretical Bioinformatics, German Cancer Research Center (DKFZ), Germany. Jul 2016 - Feb 2018.
 
     Teaching assistants:
 
-    - Lecture **"Methoden der Bioinformatik - Python"** (lecture assistant), Faculty of Biosciences, Heidelberg University, WS 2016 and WS 2017.
-    - Lecture **"Physics Laboratory"**, Department of Physics, Seoul National University, SS 2012.
+    - **"Methoden der Bioinformatik - Python"** (lecture assistant), Faculty of Biosciences, Heidelberg University, WS 2016 and WS 2017.
+    - **"Physics Laboratory"**, Department of Physics, Seoul National University, SS 2012.
 
 .. include:: publications.rst
 

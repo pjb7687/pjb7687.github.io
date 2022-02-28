@@ -78,14 +78,18 @@ TEACHING EXPERIENCE
 -------------------
 .. container:: entries text-left
 
+    강의:
+
+    - **"정보의학개론"**, **"유닉스 기초"**, 의생명융합공학부, 부산대학교, SS 2022.
+
     초청강연 **"Spatial transcriptomics"**, lecture series "Single cell RNA-seq data analysis with R" (**ELIXIR EXCELERATE** 프로젝트). CSC, Espoo, 핀란드. 2019년 5월 29일.
 
     학생 지도, 연구 인턴 3인 지도 (공동지도 1인 포함), Division of Theoretical Bioinformatics, 독일 암 연구소 (DKFZ), 독일. 2016년 7월 - 2018년 2월.
 
     강의조교:
 
-    - 강의 **"Methoden der Bioinformatik - Python"** (강의보조), Faculty of Biosciences, 하이델베르크 대학교, WS 2016 및 WS 2017.
-    - 강의 **"물리학 실험"**, 물리학과, 서울대학교, SS 2012.
+    - **"Methoden der Bioinformatik - Python"** (강의보조), Faculty of Biosciences, 하이델베르크 대학교, WS 2016 및 WS 2017.
+    - **"물리학 실험"**, 물리학과, 서울대학교, SS 2012.
 
 .. include:: publications.rst
 
