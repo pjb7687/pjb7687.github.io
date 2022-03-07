@@ -15,7 +15,7 @@ Dr. Jeongbin Park
 
    | 주소: 경남 양산시 물금읍 부산대학로 49 첨단의생명융합센터 401호 (우: 50612)
    | 이메일: jeongbin.park@pusan.ac.kr
-   | 전화: 051-510-8543
+   | 전화: 051-510-8597
    |
 
 EDUCATION
