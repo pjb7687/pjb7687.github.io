@@ -56,11 +56,11 @@ WORK EXPERIENCE
     |                | | **Division of Theoretical Bioinformatics, German Cancer Research Center (DKFZ)**                 |
     |                | | (Advisor: Prof. Roland Eils)                                                                     |
     +----------------+----------------------------------------------------------------------------------------------------+
-    | 2015 - 2016    | | Invited Researcher (unpaid),                                                                     |
+    | 2015 - 2016    | | Research Collaboration,                                                                          |
     |                | | **Molecular Genome Engineering Laboratory, Hanyang University**                                  |
     |                | | (Research collaborator: Prof. Sangsu Bae)                                                        |
     +----------------+----------------------------------------------------------------------------------------------------+
-    | 2014 - 2015    | | Invited Researcher (unpaid),                                                                     |
+    | 2014 - 2015    | | Research Collaboration,                                                                          |
     |                | | **Genome Engineering Laboratory, Seoul National University**                                     |
     |                | | (Research collaborator: Dr. Sangsu Bae)                                                          |
     +----------------+----------------------------------------------------------------------------------------------------+
