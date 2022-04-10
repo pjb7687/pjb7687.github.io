@@ -30,7 +30,7 @@ A bioinformatician working at `School of Biomedical Convergence Engineering <htt
 
 .. |github| raw:: html
 
-   <a href="https://github.com/pjb7687" target="_blank"><span style="color: #181717;"><i class="ai ai-github ai-2x"></i></span></a>
+   <a href="https://github.com/pjb7687" target="_blank"><span style="color: #181717;"><i class="bi bi-github ai-2x"></i></span></a>
 
 .. raw:: html
 
