@@ -3,7 +3,7 @@
 Dr. Jeongbin Park
 =================
 
-|google-scholar| |orcid| |researchgate|
+|google-scholar| |orcid| |researchgate| |github|
 
 A bioinformatician working at `School of Biomedical Convergence Engineering <https://bce.pusan.ac.kr/>`_, `Pusan National University <https://www.pusan.ac.kr/>`_, Korea
 
@@ -27,6 +27,10 @@ A bioinformatician working at `School of Biomedical Convergence Engineering <htt
 .. |researchgate| raw:: html
 
    <a href="https://www.researchgate.net/profile/Jeongbin_Park" target="_blank"><span style="color: #00ccbb;"><i class="ai ai-researchgate ai-2x"></i></span></a>
+
+.. |github| raw:: html
+
+   <a href="https://github.com/pjb7687" target="_blank"><span style="color: #181717;"><i class="ai ai-github ai-2x"></i></span></a>
 
 .. raw:: html
 
