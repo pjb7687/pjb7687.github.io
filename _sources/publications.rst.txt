@@ -24,14 +24,20 @@ PUBLICATIONS
 ------------
 .. container:: entries text-justify publications
 
-    Yun Zhang, Jeremy Andrew Miller, :underline:`Jeongbin Park`, Boudewijn P Lelieveldt, Brian D Aevermann, Tommaso Biancalani, Charles Comiter, Christoffer Mattsson Langseth, Brian Long, Viktor Petukhov, Gabriele Scalia, Eeshit Dhaval Vaishnav, Yilin Zhao, Ed S Lein, Richard H Scheuermann, **"Reference-based cell type matching of spatial transcriptomics data"**, *bioRxiv* (2022).
+    .. _pub0: https://doi.org/10.1101/2022.03.28.486139
+    .. |pub0| replace:: Yun Zhang, Jeremy Andrew Miller, :underline:`Jeongbin Park`, Boudewijn P Lelieveldt, Brian D Aevermann, Tommaso Biancalani, Charles Comiter, Christoffer Mattsson Langseth, Brian Long, Viktor Petukhov, Gabriele Scalia, Eeshit Dhaval Vaishnav, Yilin Zhao, Ed S Lein, Richard H Scheuermann, **"Reference-based cell type matching of spatial transcriptomics data"**, *bioRxiv* (2022).
+
+    |pub0|_
 
     .. _pub1: https://www.nature.com/articles/s41467-021-23807-4
     .. |pub1| replace:: :underline:`Jeongbin Park`\ :superscript:`†`, Wonyl Choi\ :superscript:`†`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 25]
 
     |pub1|_
 
-    Martina K Zowada, Stephan M Tirier, Sebastian M Dieter, Teresa G Krieger, Ava Oberlack, Robert Lorenz Chua, Mario Huerta, Foo Wei Ten, Karin Laaber, :underline:`Jeongbin Park`, Katharina Jechow, Torsten Müller, Mathias Kalxdorf, Mark Kriegsmann, Katharina Kriegsmann, Friederike Herbst, Jeroen Krijgsveld, Martin Schneider, Roland Eils, Hanno Glimm, Christian Conrad, Claudia R Ball, **"Functional states in tumor-initiating cell differentiation in human colorectal cancer"**, *Cancers* 13 (5), 1097 (2021). [cited: 3]
+    .. _pub2: https://www.mdpi.com/2072-6694/13/5/1097
+    .. |pub2| replace:: Martina K Zowada, Stephan M Tirier, Sebastian M Dieter, Teresa G Krieger, Ava Oberlack, Robert Lorenz Chua, Mario Huerta, Foo Wei Ten, Karin Laaber, :underline:`Jeongbin Park`, Katharina Jechow, Torsten Müller, Mathias Kalxdorf, Mark Kriegsmann, Katharina Kriegsmann, Friederike Herbst, Jeroen Krijgsveld, Martin Schneider, Roland Eils, Hanno Glimm, Christian Conrad, Claudia R Ball, **"Functional states in tumor-initiating cell differentiation in human colorectal cancer"**, *Cancers* 13 (5), 1097 (2021). [cited: 3]
+
+    |pub2|_
 
     .. _pub3: https://academic.oup.com/neuro-oncology/article-abstract/22/8/1138/5820825
     .. |pub3| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 37]
