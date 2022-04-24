@@ -66,6 +66,7 @@ SERVICE
 
     - Bioinformatics
     - NAR: Genomics and Bioinformatics
+    - Scientific Reports
 
     **번역:**
 
