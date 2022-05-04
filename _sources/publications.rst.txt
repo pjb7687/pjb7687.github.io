@@ -60,7 +60,7 @@ PUBLICATIONS
     |pub6|_
 
     .. _pub7: https://ashpublications.org/blood/article-abstract/132/21/2280/39527
-    .. |pub7| replace:: Rabea Wagener, Cristina López, Kortine Kleinheinz, Julia Bausinger, Sietse M Aukema, Inga Nagel, Umut H Toprak, Julian Seufert, Janine Altmüller, Holger Thiele, Christof Schneider, Julia Kolarova, :underline:`Jeongbin Park`, Daniel Hübschmann, Eva M Murga Penas, Hans G Drexler, Andishe Attarbaschi, Randi Hovland, Eigil Kjeldsen, Michael Kneba, Udo Kontny, Laurence De Leval, Peter Nürnberg, Ilske Oschlies, David Oscier, Brigitte Schlegelberger, Stephan Stilgenbauer, Wilhelm Wössmann, Matthias Schlesner, Birgit Burkhardt, Wolfram Klapper, Elaine S Jaffe, Ralf Küppers, Reiner Siebert, **"IG-MYC+ neoplasms with precursor B-cell phenotype are molecularly distinct from Burkitt lymphomas"**, *Blood* 132 (21), 2280-2285 (2018). [cited: 23]
+    .. |pub7| replace:: Rabea Wagener, Cristina López, Kortine Kleinheinz, Julia Bausinger, Sietse M Aukema, Inga Nagel, Umut H Toprak, Julian Seufert, Janine Altmüller, Holger Thiele, Christof Schneider, Julia Kolarova, :underline:`Jeongbin Park`, Daniel Hübschmann, Eva M Murga Penas, Hans G Drexler, Andishe Attarbaschi, Randi Hovland, Eigil Kjeldsen, Michael Kneba, Udo Kontny, Laurence De Leval, Peter Nürnberg, Ilske Oschlies, David Oscier, Brigitte Schlegelberger, Stephan Stilgenbauer, Wilhelm Wössmann, Matthias Schlesner, Birgit Burkhardt, Wolfram Klapper, Elaine S Jaffe, Ralf Küppers, Reiner Siebert, **"IG-MYC+ neoplasms with precursor B-cell phenotype are molecularly distinct from Burkitt lymphomas"**, *Blood* 132 (21), 2280-2285 (2018). [cited: 25]
 
     |pub7|_
 
@@ -90,7 +90,7 @@ PUBLICATIONS
     |pub12|_
 
     .. _pub13: https://www.embopress.org/doi/abs/10.15252/msb.20177697
-    .. |pub13| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 138]
+    .. |pub13| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 139]
 
     |pub13|_
 
@@ -125,28 +125,28 @@ PUBLICATIONS
     |pub19|_
 
     .. _pub20: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub20| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 255]
+    .. |pub20| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 256]
 
     |pub20|_
 
     .. _pub21: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub21| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 877]
+    .. |pub21| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 878]
 
     |pub21|_
 
     .. _pub22: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub22| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1252]
+    .. |pub22| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1262]
 
     |pub22|_
 
     .. _pub23: https://www.nature.com/articles/ncomms4724
-    .. |pub23| replace:: Moon-Hyeong Seo, :underline:`Jeongbin Park`, Eunkyung Kim, Sungchul Hohng, Hak-Sung Kim, **"Protein conformational dynamics dictate the binding affinity for a ligand"**, *Nature Communications* 5, 3724 (2014). [cited: 129]
+    .. |pub23| replace:: Moon-Hyeong Seo, :underline:`Jeongbin Park`, Eunkyung Kim, Sungchul Hohng, Hak-Sung Kim, **"Protein conformational dynamics dictate the binding affinity for a ligand"**, *Nature Communications* 5, 3724 (2014). [cited: 130]
 
     |pub23|_
 
 .. container:: text-right
 
-    | Total Citations: 3582, H-index: 18
+    | Total Citations: 3598, H-index: 18
     |
 
 .. container:: entries text-left
