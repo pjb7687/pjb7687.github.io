@@ -30,7 +30,7 @@ PUBLICATIONS
     |pub0|_
 
     .. _pub1: https://www.nature.com/articles/s41467-021-23807-4
-    .. |pub1| replace:: :underline:`Jeongbin Park`\ :superscript:`†`, Wonyl Choi\ :superscript:`†`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 25]
+    .. |pub1| replace:: :underline:`Jeongbin Park`\ :superscript:`†`, Wonyl Choi\ :superscript:`†`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 26]
 
     |pub1|_
 
@@ -40,7 +40,7 @@ PUBLICATIONS
     |pub2|_
 
     .. _pub3: https://academic.oup.com/neuro-oncology/article-abstract/22/8/1138/5820825
-    .. |pub3| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 38]
+    .. |pub3| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 39]
 
     |pub3|_
 
@@ -90,7 +90,7 @@ PUBLICATIONS
     |pub12|_
 
     .. _pub13: https://www.embopress.org/doi/abs/10.15252/msb.20177697
-    .. |pub13| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 141]
+    .. |pub13| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 142]
 
     |pub13|_
 
@@ -120,7 +120,7 @@ PUBLICATIONS
     |pub18|_
 
     .. _pub19: https://genome.cshlp.org/content/26/3/406.short
-    .. |pub19| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 189]
+    .. |pub19| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 190]
 
     |pub19|_
 
@@ -130,12 +130,12 @@ PUBLICATIONS
     |pub20|_
 
     .. _pub21: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub21| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 884]
+    .. |pub21| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 885]
 
     |pub21|_
 
     .. _pub22: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub22| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1285]
+    .. |pub22| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1287]
 
     |pub22|_
 
@@ -146,7 +146,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 3644, H-index: 18
+    | Total Citations: 3651, H-index: 18
     |
 
 .. container:: entries text-left
