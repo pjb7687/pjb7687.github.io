@@ -64,9 +64,7 @@ SERVICE
 
     **Ad-hoc 저널 리뷰어:**
 
-    - Bioinformatics
-    - NAR: Genomics and Bioinformatics
-    - Scientific Reports
+    - Bioinformatics, NAR: Genomics and Bioinformatics, Scientific Reports, BMC Genomics
 
     **번역:**
 
