@@ -75,9 +75,7 @@ SERVICE
 
     **Ad-hoc Journal Reviewer:**
 
-    - Bioinformatics
-    - NAR: Genomics and Bioinformatics
-    - Scientific Reports
+    - Bioinformatics, NAR: Genomics and Bioinformatics, Scientific Reports, BMC Genomics
 
     **Book Translation:**
 
