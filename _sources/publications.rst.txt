@@ -55,7 +55,7 @@ PUBLICATIONS
     |pub5|_
 
     .. _pub6: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2585-4?optIn=true
-    .. |pub6| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 93]
+    .. |pub6| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 94]
 
     |pub6|_
 
@@ -105,7 +105,7 @@ PUBLICATIONS
     |pub15|_
 
     .. _pub16: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub16| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 255]
+    .. |pub16| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 258]
 
     |pub16|_
 
@@ -130,12 +130,12 @@ PUBLICATIONS
     |pub20|_
 
     .. _pub21: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub21| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 896]
+    .. |pub21| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 898]
 
     |pub21|_
 
     .. _pub22: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub22| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1324]
+    .. |pub22| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1331]
 
     |pub22|_
 
@@ -146,7 +146,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 3743, H-index: 18
+    | Total Citations: 3756, H-index: 18
     |
 
 .. container:: entries text-left
