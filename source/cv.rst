@@ -75,7 +75,7 @@ SERVICE
 
     **Ad-hoc Journal Reviewer:**
 
-    - Bioinformatics, NAR: Genomics and Bioinformatics, Scientific Reports, BMC Genomics
+    - Bioinformatics, NAR: Genomics and Bioinformatics, Scientific Reports, BMC Genomics, Journal of Open Source Software (JOSS)
 
     **Book Translation:**
 
@@ -85,22 +85,22 @@ SERVICE
 
     - **GNU Data Language (GDL)**: Ported GDL (https://github.com/gnudatalanguage/gdl/) on Windows (contributed mainly in 2014 - 2015). From 2021, serving as release manager of the project.
 
-TEACHING EXPERIENCE
--------------------
+TEACHING
+--------
 .. container:: entries text-left
 
-    Lectures:
+    - **"UNIX Fundamentals"**, **"Introduction to Medical Informatics"**, Pusan National University, SS 2022
+    - **"Object-oriented Programming"**, **"Clinical and Genomic Informatics"**, Pusan National University, FS 2022
 
-    - **"UNIX Fundamentals"**, **"Introduction to Medical Informatics"**, School of Biomedical Convergence Engineering, Pusan National University, SS 2022
+    **Before PNU:**
 
-    Invited lecture **"Spatial transcriptomics"** at "Single cell RNA-seq data analysis with R" (sponsored by the **ELIXIR EXCELERATE** project). CSC, Espoo, Finland. 29 May 2019.
+    - Invited lecture **"Spatial transcriptomics"** at "Single cell RNA-seq data analysis with R" (sponsored by the **ELIXIR EXCELERATE** project). CSC, Espoo, Finland. 29 May 2019.
 
-    Student supervision, 3 student research interns (including 1 co-supervision), Division of Theoretical Bioinformatics, German Cancer Research Center (DKFZ), Germany. Jul 2016 - Feb 2018.
+    - Student supervision, 3 student research interns (including 1 co-supervision), Division of Theoretical Bioinformatics, German Cancer Research Center (DKFZ), Germany. Jul 2016 - Feb 2018.
 
-    Teaching assistants:
-
-    - **"Methoden der Bioinformatik - Python"** (lecture assistant), Faculty of Biosciences, Heidelberg University, WS 2016 and WS 2017.
-    - **"Physics Laboratory"**, Department of Physics, Seoul National University, SS 2012.
+    - Teaching assistants
+       - **"Methoden der Bioinformatik - Python"** (lecture assistant), Faculty of Biosciences, Heidelberg University, WS 2016 and WS 2017.
+       - **"Physics Laboratory"**, Department of Physics, Seoul National University, SS 2012.
 
 .. include:: publications.rst
 
