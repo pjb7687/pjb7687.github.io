@@ -90,6 +90,8 @@ TEACHING
 --------
 .. container:: entries text-left
 
+    **At PNU:**
+
     - **"UNIX Fundamentals"**, **"Introduction to Medical Informatics"**, Pusan National University, SS 2022
     - **"Object-oriented Programming"**, **"Clinical and Genomic Informatics"**, Pusan National University, FS 2022
 
