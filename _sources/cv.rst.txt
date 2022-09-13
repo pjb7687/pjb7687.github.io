@@ -98,9 +98,9 @@ TEACHING
 
     - Student supervision, 3 student research interns (including 1 co-supervision), Division of Theoretical Bioinformatics, German Cancer Research Center (DKFZ), Germany. Jul 2016 - Feb 2018.
 
-    - Teaching assistants
-       - **"Methoden der Bioinformatik - Python"** (lecture assistant), Faculty of Biosciences, Heidelberg University, WS 2016 and WS 2017.
-       - **"Physics Laboratory"**, Department of Physics, Seoul National University, SS 2012.
+    - **"Methoden der Bioinformatik - Python"** (lecture assistant), Faculty of Biosciences, Heidelberg University, WS 2016 and WS 2017.
+    
+    - **"Physics Laboratory"** (teaching assistant), Department of Physics, Seoul National University, SS 2012.
 
 .. include:: publications.rst
 
