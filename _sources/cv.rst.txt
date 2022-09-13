@@ -17,9 +17,10 @@ Dr. Jeongbin Park
    | Address:    | | Room #208-1, ABC Center, Busandaehak-ro 49,      |
    |             | | Mulgeum-eup, Yangsan-si, 50612 Republic of Korea |
    +-------------+----------------------------------------------------+
-   | email:      | | jeongbin.park@pusan.ac.kr                        |
+   | email:      | | jeongbin.park at pusan.ac.kr                     |
    +-------------+----------------------------------------------------+
    | Tel.:       | | +82-51-510-8597                                  |
+   |             | |                                                  | 
    +-------------+----------------------------------------------------+
 
 EDUCATION
