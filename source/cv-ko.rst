@@ -64,7 +64,7 @@ SERVICE
 
     **Ad-hoc 저널 리뷰어:**
 
-    - Bioinformatics, NAR: Genomics and Bioinformatics, Scientific Reports, BMC Genomics
+    - Bioinformatics, NAR: Genomics and Bioinformatics, Scientific Reports, BMC Genomics, Journal of Open Source Software (JOSS)
 
     **번역:**
 
@@ -78,9 +78,12 @@ TEACHING EXPERIENCE
 -------------------
 .. container:: entries text-left
 
-    강의:
+    **부산대학교**:
 
-    - **"정보의학개론"**, **"유닉스 기초"**, 의생명융합공학부, 부산대학교, SS 2022.
+    - **"정보의학개론"**, **"유닉스 기초"**, **"객체지향프로그래밍"**, 부산대학교 의생명융합공학부
+    - **"임상및유전체정보학"**, 부산대학교 대학원 유전체데이터과학전공
+
+    **부산대학교 이전:**
 
     초청강연 **"Spatial transcriptomics"**, lecture series "Single cell RNA-seq data analysis with R" (**ELIXIR EXCELERATE** 프로젝트). CSC, Espoo, 핀란드. 2019년 5월 29일.
 
