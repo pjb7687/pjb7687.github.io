@@ -92,8 +92,8 @@ TEACHING
 
     **At PNU:**
 
-    - **"UNIX Fundamentals"**, **"Introduction to Medical Informatics"**, Pusan National University, SS 2022
-    - **"Object-oriented Programming"**, **"Clinical and Genomic Informatics"**, Pusan National University, FS 2022
+    - **"UNIX Fundamentals"**, **"Introduction to Medical Informatics"**, **"Object-oriented Programming"**, School of Biomedical Convergence Engineering, Pusan National University
+    - **"Clinical and Genomic Informatics"**, Graduate School of Genomic Data Science, Pusan National University
 
     **Before PNU:**
 
