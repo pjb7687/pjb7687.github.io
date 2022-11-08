@@ -15,6 +15,7 @@ A bioinformatician working at `School of Biomedical Convergence Engineering <htt
    Curriculum Vitae <cv>
    Computational Omics Laboratory at Pusan National University <https://pnucolab.com>
    COVID-19 statistics in Heidelberg and Rhein-Neckar-Kreis <covid19hd>
+   A Byte of Python (Korean Translation) <https://python.jeongbinpark.com>
 
 .. |google-scholar| raw:: html
 
