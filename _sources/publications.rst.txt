@@ -55,7 +55,7 @@ PUBLICATIONS
     |pub5|_
 
     .. _pub6: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2585-4?optIn=true
-    .. |pub6| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 101]
+    .. |pub6| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 102]
 
     |pub6|_
 
@@ -105,7 +105,7 @@ PUBLICATIONS
     |pub15|_
 
     .. _pub16: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub16| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 277]
+    .. |pub16| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 278]
 
     |pub16|_
 
@@ -120,7 +120,7 @@ PUBLICATIONS
     |pub18|_
 
     .. _pub19: https://genome.cshlp.org/content/26/3/406.short
-    .. |pub19| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 197]
+    .. |pub19| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 198]
 
     |pub19|_
 
@@ -130,23 +130,23 @@ PUBLICATIONS
     |pub20|_
 
     .. _pub21: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub21| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 936]
+    .. |pub21| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 937]
 
     |pub21|_
 
     .. _pub22: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub22| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1428]
+    .. |pub22| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1432]
 
     |pub22|_
 
     .. _pub23: https://www.nature.com/articles/ncomms4724
-    .. |pub23| replace:: Moon-Hyeong Seo, :underline:`Jeongbin Park`, Eunkyung Kim, Sungchul Hohng, Hak-Sung Kim, **"Protein conformational dynamics dictate the binding affinity for a ligand"**, *Nature Communications* 5, 3724 (2014). [cited: 133]
+    .. |pub23| replace:: Moon-Hyeong Seo, :underline:`Jeongbin Park`, Eunkyung Kim, Sungchul Hohng, Hak-Sung Kim, **"Protein conformational dynamics dictate the binding affinity for a ligand"**, *Nature Communications* 5, 3724 (2014). [cited: 134]
 
     |pub23|_
 
 .. container:: text-right
 
-    | Total Citations: 4013, H-index: 18
+    | Total Citations: 4022, H-index: 18
     |
 
 .. container:: entries text-left
