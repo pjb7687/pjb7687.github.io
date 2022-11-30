@@ -60,7 +60,7 @@ PUBLICATIONS
     |pub6|_
 
     .. _pub7: https://ashpublications.org/blood/article-abstract/132/21/2280/39527
-    .. |pub7| replace:: Rabea Wagener, Cristina López, Kortine Kleinheinz, Julia Bausinger, Sietse M Aukema, Inga Nagel, Umut H Toprak, Julian Seufert, Janine Altmüller, Holger Thiele, Christof Schneider, Julia Kolarova, :underline:`Jeongbin Park`, Daniel Hübschmann, Eva M Murga Penas, Hans G Drexler, Andishe Attarbaschi, Randi Hovland, Eigil Kjeldsen, Michael Kneba, Udo Kontny, Laurence De Leval, Peter Nürnberg, Ilske Oschlies, David Oscier, Brigitte Schlegelberger, Stephan Stilgenbauer, Wilhelm Wössmann, Matthias Schlesner, Birgit Burkhardt, Wolfram Klapper, Elaine S Jaffe, Ralf Küppers, Reiner Siebert, **"IG-MYC+ neoplasms with precursor B-cell phenotype are molecularly distinct from Burkitt lymphomas"**, *Blood* 132 (21), 2280-2285 (2018). [cited: 33]
+    .. |pub7| replace:: Rabea Wagener, Cristina López, Kortine Kleinheinz, Julia Bausinger, Sietse M Aukema, Inga Nagel, Umut H Toprak, Julian Seufert, Janine Altmüller, Holger Thiele, Christof Schneider, Julia Kolarova, :underline:`Jeongbin Park`, Daniel Hübschmann, Eva M Murga Penas, Hans G Drexler, Andishe Attarbaschi, Randi Hovland, Eigil Kjeldsen, Michael Kneba, Udo Kontny, Laurence De Leval, Peter Nürnberg, Ilske Oschlies, David Oscier, Brigitte Schlegelberger, Stephan Stilgenbauer, Wilhelm Wössmann, Matthias Schlesner, Birgit Burkhardt, Wolfram Klapper, Elaine S Jaffe, Ralf Küppers, Reiner Siebert, **"IG-MYC+ neoplasms with precursor B-cell phenotype are molecularly distinct from Burkitt lymphomas"**, *Blood* 132 (21), 2280-2285 (2018). [cited: 34]
 
     |pub7|_
 
@@ -100,7 +100,7 @@ PUBLICATIONS
     |pub14|_
 
     .. _pub15: https://www.nature.com/articles/nmeth.4262
-    .. |pub15| replace:: :underline:`Jeongbin Park`, Liam Childs, Daesik Kim, Gue-Ho Hwang, Sunghyun Kim, Sang-Tae Kim, Jin-Soo Kim, Sangsu Bae, **"Digenome-seq web tool for profiling CRISPR specificity"**, *Nature Methods* 14 (6), 548-549 (2017). [cited: 37]
+    .. |pub15| replace:: :underline:`Jeongbin Park`, Liam Childs, Daesik Kim, Gue-Ho Hwang, Sunghyun Kim, Sang-Tae Kim, Jin-Soo Kim, Sangsu Bae, **"Digenome-seq web tool for profiling CRISPR specificity"**, *Nature Methods* 14 (6), 548-549 (2017). [cited: 38]
 
     |pub15|_
 
@@ -120,22 +120,22 @@ PUBLICATIONS
     |pub18|_
 
     .. _pub19: https://genome.cshlp.org/content/26/3/406.short
-    .. |pub19| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 201]
+    .. |pub19| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 202]
 
     |pub19|_
 
     .. _pub20: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub20| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 300]
+    .. |pub20| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 301]
 
     |pub20|_
 
     .. _pub21: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub21| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 943]
+    .. |pub21| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 949]
 
     |pub21|_
 
     .. _pub22: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub22| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1443]
+    .. |pub22| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1452]
 
     |pub22|_
 
@@ -146,7 +146,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 4061, H-index: 18
+    | Total Citations: 4080, H-index: 18
     |
 
 .. container:: entries text-left
