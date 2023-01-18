@@ -45,7 +45,7 @@ PUBLICATIONS
     |pub3|_
 
     .. _pub4: https://academic.oup.com/neuro-oncology/article-abstract/22/8/1138/5820825
-    .. |pub4| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 52]
+    .. |pub4| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 53]
 
     |pub4|_
 
@@ -105,7 +105,7 @@ PUBLICATIONS
     |pub15|_
 
     .. _pub16: https://www.nature.com/articles/nmeth.4262
-    .. |pub16| replace:: :underline:`Jeongbin Park`, Liam Childs, Daesik Kim, Gue-Ho Hwang, Sunghyun Kim, Sang-Tae Kim, Jin-Soo Kim, Sangsu Bae, **"Digenome-seq web tool for profiling CRISPR specificity"**, *Nature Methods* 14 (6), 548-549 (2017). [cited: 38]
+    .. |pub16| replace:: :underline:`Jeongbin Park`, Liam Childs, Daesik Kim, Gue-Ho Hwang, Sunghyun Kim, Sang-Tae Kim, Jin-Soo Kim, Sangsu Bae, **"Digenome-seq web tool for profiling CRISPR specificity"**, *Nature Methods* 14 (6), 548-549 (2017). [cited: 39]
 
     |pub16|_
 
@@ -125,22 +125,22 @@ PUBLICATIONS
     |pub19|_
 
     .. _pub20: https://genome.cshlp.org/content/26/3/406.short
-    .. |pub20| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 205]
+    .. |pub20| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 207]
 
     |pub20|_
 
     .. _pub21: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub21| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 305]
+    .. |pub21| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 309]
 
     |pub21|_
 
     .. _pub22: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub22| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 961]
+    .. |pub22| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 964]
 
     |pub22|_
 
     .. _pub23: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub23| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1486]
+    .. |pub23| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1493]
 
     |pub23|_
 
@@ -151,7 +151,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 4180, H-index: 18
+    | Total Citations: 4198, H-index: 18
     |
 
 .. container:: entries text-left
