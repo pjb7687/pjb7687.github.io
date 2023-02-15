@@ -37,17 +37,17 @@ PUBLICATIONS
     |pub2|_
 
     .. _pub3: https://www.nature.com/articles/s41467-021-23807-4
-    .. |pub3| replace:: :underline:`Jeongbin Park`\ :superscript:`†`, Wonyl Choi\ :superscript:`†`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 51]
+    .. |pub3| replace:: :underline:`Jeongbin Park`\ :superscript:`†`, Wonyl Choi\ :superscript:`†`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 52]
 
     |pub3|_
 
     .. _pub4: https://www.mdpi.com/1020628
-    .. |pub4| replace:: Martina K Zowada, Stephan M Tirier, Sebastian M Dieter, Teresa G Krieger, Ava Oberlack, Robert Lorenz Chua, Mario Huerta, Foo Wei Ten, Karin Laaber, :underline:`Jeongbin Park`, Katharina Jechow, Torsten Müller, Mathias Kalxdorf, Mark Kriegsmann, Katharina Kriegsmann, Friederike Herbst, Jeroen Krijgsveld, Martin Schneider, Roland Eils, Hanno Glimm, Christian Conrad, Claudia R Ball, **"Functional states in tumor-initiating cell differentiation in human colorectal cancer"**, *Cancers* 13 (5), 1097 (2021). [cited: 6]
+    .. |pub4| replace:: Martina K Zowada, Stephan M Tirier, Sebastian M Dieter, Teresa G Krieger, Ava Oberlack, Robert Lorenz Chua, Mario Huerta, Foo Wei Ten, Karin Laaber, :underline:`Jeongbin Park`, Katharina Jechow, Torsten Müller, Mathias Kalxdorf, Mark Kriegsmann, Katharina Kriegsmann, Friederike Herbst, Jeroen Krijgsveld, Martin Schneider, Roland Eils, Hanno Glimm, Christian Conrad, Claudia R Ball, **"Functional states in tumor-initiating cell differentiation in human colorectal cancer"**, *Cancers* 13 (5), 1097 (2021). [cited: 7]
 
     |pub4|_
 
     .. _pub5: https://academic.oup.com/neuro-oncology/article-abstract/22/8/1138/5820825
-    .. |pub5| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 58]
+    .. |pub5| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 60]
 
     |pub5|_
 
@@ -64,7 +64,7 @@ PUBLICATIONS
     |pub8|_
 
     .. _pub9: https://ashpublications.org/blood/article-abstract/132/21/2280/39527
-    .. |pub9| replace:: Rabea Wagener, Cristina López, Kortine Kleinheinz, Julia Bausinger, Sietse M Aukema, Inga Nagel, Umut H Toprak, Julian Seufert, Janine Altmüller, Holger Thiele, Christof Schneider, Julia Kolarova, :underline:`Jeongbin Park`, Daniel Hübschmann, Eva M Murga Penas, Hans G Drexler, Andishe Attarbaschi, Randi Hovland, Eigil Kjeldsen, Michael Kneba, Udo Kontny, Laurence De Leval, Peter Nürnberg, Ilske Oschlies, David Oscier, Brigitte Schlegelberger, Stephan Stilgenbauer, Wilhelm Wössmann, Matthias Schlesner, Birgit Burkhardt, Wolfram Klapper, Elaine S Jaffe, Ralf Küppers, Reiner Siebert, **"IG-MYC+ neoplasms with precursor B-cell phenotype are molecularly distinct from Burkitt lymphomas"**, *Blood* 132 (21), 2280-2285 (2018). [cited: 38]
+    .. |pub9| replace:: Rabea Wagener, Cristina López, Kortine Kleinheinz, Julia Bausinger, Sietse M Aukema, Inga Nagel, Umut H Toprak, Julian Seufert, Janine Altmüller, Holger Thiele, Christof Schneider, Julia Kolarova, :underline:`Jeongbin Park`, Daniel Hübschmann, Eva M Murga Penas, Hans G Drexler, Andishe Attarbaschi, Randi Hovland, Eigil Kjeldsen, Michael Kneba, Udo Kontny, Laurence De Leval, Peter Nürnberg, Ilske Oschlies, David Oscier, Brigitte Schlegelberger, Stephan Stilgenbauer, Wilhelm Wössmann, Matthias Schlesner, Birgit Burkhardt, Wolfram Klapper, Elaine S Jaffe, Ralf Küppers, Reiner Siebert, **"IG-MYC+ neoplasms with precursor B-cell phenotype are molecularly distinct from Burkitt lymphomas"**, *Blood* 132 (21), 2280-2285 (2018). [cited: 39]
 
     |pub9|_
 
@@ -89,12 +89,12 @@ PUBLICATIONS
     |pub13|_
 
     .. _pub14: https://www.nature.com/articles/s41467-017-02177-w
-    .. |pub14| replace:: Daniel B Lipka, Tania Witte, Reka Toth, Jing Yang, Manuel Wiesenfarth, Peter Nöllke, Alexandra Fischer, David Brocks, Zuguang Gu, :underline:`Jeongbin Park`, Brigitte Strahm, Marcin Wlodarski, Ayami Yoshimi, Rainer Claus, Michael Lübbert, Hauke Busch, Melanie Boerries, Mark Hartmann, Maximilian Schönung, Umut Kilik, Jens Langstein, Justyna A Wierzbinska, Caroline Pabst, Swati Garg, Albert Catalá, Barbara De Moerloose, Michael Dworzak, Henrik Hasle, Franco Locatelli, Riccardo Masetti, Markus Schmugge, Owen Smith, Jan Stary, Marek Ussowicz, Marry M Van Den Heuvel-Eibrink, Yassen Assenov, Matthias Schlesner, Charlotte Niemeyer, Christian Flotho, Christoph Plass, **"RAS-pathway mutation patterns define epigenetic subclasses in juvenile myelomonocytic leukemia"**, *Nature Communications* 8, 2126 (2017). [cited: 88]
+    .. |pub14| replace:: Daniel B Lipka, Tania Witte, Reka Toth, Jing Yang, Manuel Wiesenfarth, Peter Nöllke, Alexandra Fischer, David Brocks, Zuguang Gu, :underline:`Jeongbin Park`, Brigitte Strahm, Marcin Wlodarski, Ayami Yoshimi, Rainer Claus, Michael Lübbert, Hauke Busch, Melanie Boerries, Mark Hartmann, Maximilian Schönung, Umut Kilik, Jens Langstein, Justyna A Wierzbinska, Caroline Pabst, Swati Garg, Albert Catalá, Barbara De Moerloose, Michael Dworzak, Henrik Hasle, Franco Locatelli, Riccardo Masetti, Markus Schmugge, Owen Smith, Jan Stary, Marek Ussowicz, Marry M Van Den Heuvel-Eibrink, Yassen Assenov, Matthias Schlesner, Charlotte Niemeyer, Christian Flotho, Christoph Plass, **"RAS-pathway mutation patterns define epigenetic subclasses in juvenile myelomonocytic leukemia"**, *Nature Communications* 8, 2126 (2017). [cited: 87]
 
     |pub14|_
 
     .. _pub15: https://www.embopress.org/doi/abs/10.15252/msb.20177697
-    .. |pub15| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 169]
+    .. |pub15| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 170]
 
     |pub15|_
 
@@ -129,17 +129,17 @@ PUBLICATIONS
     |pub21|_
 
     .. _pub22: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub22| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 307]
+    .. |pub22| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 308]
 
     |pub22|_
 
     .. _pub23: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub23| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 956]
+    .. |pub23| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 959]
 
     |pub23|_
 
     .. _pub24: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub24| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1496]
+    .. |pub24| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1503]
 
     |pub24|_
 
@@ -150,7 +150,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 4204, H-index: 18
+    | Total Citations: 4220, H-index: 18
     |
 
 .. container:: entries text-left
