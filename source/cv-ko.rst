@@ -61,6 +61,10 @@ WORK EXPERIENCE
 SERVICE
 -------
 .. container:: entries text-left
+    **학회 활동:**
+    
+    - 한국유전체학회 정보전산위원, 2023
+    - 한국생명정보학회 대외위원, 2023
 
     **Ad-hoc 저널 리뷰어:**
 
