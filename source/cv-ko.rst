@@ -61,6 +61,7 @@ WORK EXPERIENCE
 SERVICE
 -------
 .. container:: entries text-left
+
     **학회 활동:**
     
     - 한국유전체학회 정보전산위원, 2023
