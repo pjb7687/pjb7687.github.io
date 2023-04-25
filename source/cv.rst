@@ -74,6 +74,11 @@ SERVICE
 -------
 .. container:: entries text-left
 
+    **Scientific Community:**
+    
+    - Korean Society for Bioinformatics (KSBI), Public Affairs Committee Member, 2023
+    - Korea Genome Organization (KOGO), Information and Computing Committee Member, 2023
+
     **Ad-hoc Journal Reviewer:**
 
     - Bioinformatics, NAR: Genomics and Bioinformatics, Scientific Reports, BMC Genomics, Journal of Open Source Software (JOSS)
