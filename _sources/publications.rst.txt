@@ -29,7 +29,7 @@ PUBLICATIONS
 
     |pub0|_
 
-    Brian Long, Jeremy Miller, The SpaceTx Consortium, **"SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain"**, *arXiv*, 2301.08436 (2023). [cited: 1]
+    Brian Long, Jeremy Miller, The SpaceTx Consortium, **"SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain"**, *arXiv*, 2301.08436 (2023). [cited: 2]
 
     Seul Lee, Taein Kim, Min-Soo Choi, Yejin Kwak, :underline:`Jeongbin Park`, Sung Ju Hwang, Sang-Gyu Kim, **"READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis"**, *bioRxiv*, 2023.03. 21.533616 (2023).
 
@@ -54,7 +54,7 @@ PUBLICATIONS
     |pub6|_
 
     .. _pub7: https://academic.oup.com/neuro-oncology/article-abstract/22/8/1138/5820825
-    .. |pub7| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 74]
+    .. |pub7| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 73]
 
     |pub7|_
 
@@ -121,7 +121,7 @@ PUBLICATIONS
     |pub20|_
 
     .. _pub21: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub21| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 307]
+    .. |pub21| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 308]
 
     |pub21|_
 
@@ -136,17 +136,17 @@ PUBLICATIONS
     |pub23|_
 
     .. _pub24: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub24| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 324]
+    .. |pub24| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 325]
 
     |pub24|_
 
     .. _pub25: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub25| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 985]
+    .. |pub25| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 986]
 
     |pub25|_
 
     .. _pub26: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub26| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1564]
+    .. |pub26| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1570]
 
     |pub26|_
 
@@ -157,7 +157,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 4398, H-index: 18
+    | Total Citations: 4407, H-index: 18
     |
 
 .. container:: entries text-left
