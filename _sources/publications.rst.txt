@@ -54,7 +54,7 @@ PUBLICATIONS
     |pub6|_
 
     .. _pub7: https://academic.oup.com/neuro-oncology/article-abstract/22/8/1138/5820825
-    .. |pub7| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 80]
+    .. |pub7| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 82]
 
     |pub7|_
 
@@ -91,17 +91,17 @@ PUBLICATIONS
     |pub14|_
 
     .. _pub15: https://www.nature.com/articles/s41467-018-03025-1
-    .. |pub15| replace:: Manuel Rodríguez-Paredes, Felix Bormann, Günter Raddatz, Julian Gutekunst, Carlota Lucena-Porcel, Florian Köhler, Elisabeth Wurzer, Katrin Schmidt, Stefan Gallinat, Horst Wenck, Joachim Röwert-Huber, Evgeniya Denisova, Lars Feuerbach, :underline:`Jeongbin Park`, Benedikt Brors, Esther Herpel, Ingo Nindl, Thomas G Hofmann, Marc Winnefeld, Frank Lyko, **"Methylation profiling identifies two subclasses of squamous cell carcinoma related to distinct cells of origin"**, *Nature Communications* 9, 577 (2018). [cited: 58]
+    .. |pub15| replace:: Manuel Rodríguez-Paredes, Felix Bormann, Günter Raddatz, Julian Gutekunst, Carlota Lucena-Porcel, Florian Köhler, Elisabeth Wurzer, Katrin Schmidt, Stefan Gallinat, Horst Wenck, Joachim Röwert-Huber, Evgeniya Denisova, Lars Feuerbach, :underline:`Jeongbin Park`, Benedikt Brors, Esther Herpel, Ingo Nindl, Thomas G Hofmann, Marc Winnefeld, Frank Lyko, **"Methylation profiling identifies two subclasses of squamous cell carcinoma related to distinct cells of origin"**, *Nature Communications* 9, 577 (2018). [cited: 59]
 
     |pub15|_
 
     .. _pub16: https://www.nature.com/articles/s41467-017-02177-w
-    .. |pub16| replace:: Daniel B Lipka, Tania Witte, Reka Toth, Jing Yang, Manuel Wiesenfarth, Peter Nöllke, Alexandra Fischer, David Brocks, Zuguang Gu, :underline:`Jeongbin Park`, Brigitte Strahm, Marcin Wlodarski, Ayami Yoshimi, Rainer Claus, Michael Lübbert, Hauke Busch, Melanie Boerries, Mark Hartmann, Maximilian Schönung, Umut Kilik, Jens Langstein, Justyna A Wierzbinska, Caroline Pabst, Swati Garg, Albert Catalá, Barbara De Moerloose, Michael Dworzak, Henrik Hasle, Franco Locatelli, Riccardo Masetti, Markus Schmugge, Owen Smith, Jan Stary, Marek Ussowicz, Marry M Van Den Heuvel-Eibrink, Yassen Assenov, Matthias Schlesner, Charlotte Niemeyer, Christian Flotho, Christoph Plass, **"RAS-pathway mutation patterns define epigenetic subclasses in juvenile myelomonocytic leukemia"**, *Nature Communications* 8, 2126 (2017). [cited: 97]
+    .. |pub16| replace:: Daniel B Lipka, Tania Witte, Reka Toth, Jing Yang, Manuel Wiesenfarth, Peter Nöllke, Alexandra Fischer, David Brocks, Zuguang Gu, :underline:`Jeongbin Park`, Brigitte Strahm, Marcin Wlodarski, Ayami Yoshimi, Rainer Claus, Michael Lübbert, Hauke Busch, Melanie Boerries, Mark Hartmann, Maximilian Schönung, Umut Kilik, Jens Langstein, Justyna A Wierzbinska, Caroline Pabst, Swati Garg, Albert Catalá, Barbara De Moerloose, Michael Dworzak, Henrik Hasle, Franco Locatelli, Riccardo Masetti, Markus Schmugge, Owen Smith, Jan Stary, Marek Ussowicz, Marry M Van Den Heuvel-Eibrink, Yassen Assenov, Matthias Schlesner, Charlotte Niemeyer, Christian Flotho, Christoph Plass, **"RAS-pathway mutation patterns define epigenetic subclasses in juvenile myelomonocytic leukemia"**, *Nature Communications* 8, 2126 (2017). [cited: 98]
 
     |pub16|_
 
     .. _pub17: https://www.embopress.org/doi/abs/10.15252/msb.20177697
-    .. |pub17| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 177]
+    .. |pub17| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 179]
 
     |pub17|_
 
@@ -116,12 +116,12 @@ PUBLICATIONS
     |pub19|_
 
     .. _pub20: https://www.nature.com/articles/nmeth.4262
-    .. |pub20| replace:: :underline:`Jeongbin Park`, Liam Childs, Daesik Kim, Gue-Ho Hwang, Sunghyun Kim, Sang-Tae Kim, Jin-Soo Kim, Sangsu Bae, **"Digenome-seq web tool for profiling CRISPR specificity"**, *Nature Methods* 14 (6), 548-549 (2017). [cited: 38]
+    .. |pub20| replace:: :underline:`Jeongbin Park`, Liam Childs, Daesik Kim, Gue-Ho Hwang, Sunghyun Kim, Sang-Tae Kim, Jin-Soo Kim, Sangsu Bae, **"Digenome-seq web tool for profiling CRISPR specificity"**, *Nature Methods* 14 (6), 548-549 (2017). [cited: 39]
 
     |pub20|_
 
     .. _pub21: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub21| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 312]
+    .. |pub21| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 313]
 
     |pub21|_
 
@@ -131,7 +131,7 @@ PUBLICATIONS
     |pub22|_
 
     .. _pub23: https://genome.cshlp.org/content/26/3/406.short
-    .. |pub23| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 207]
+    .. |pub23| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 208]
 
     |pub23|_
 
@@ -141,12 +141,12 @@ PUBLICATIONS
     |pub24|_
 
     .. _pub25: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub25| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 991]
+    .. |pub25| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 995]
 
     |pub25|_
 
     .. _pub26: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub26| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1600]
+    .. |pub26| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1608]
 
     |pub26|_
 
@@ -157,7 +157,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 4468, H-index: 18
+    | Total Citations: 4489, H-index: 18
     |
 
 .. container:: entries text-left
