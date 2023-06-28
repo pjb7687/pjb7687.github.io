@@ -24,16 +24,25 @@ PUBLICATIONS
 ------------
 .. container:: entries text-justify publications
 
-    Yun Zhang, Jeremy A Miller, :underline:`Jeongbin Park`, Boudewijn P Lelieveldt, Brian Long, Tamim Abdelaal, Brian D Aevermann, Tommaso Biancalani, Charles Comiter, Oleh Dzyubachyk, Jeroen Eggermont, Christoffer Mattsson Langseth, Viktor Petukhov, Gabriele Scalia, Eeshit Dhaval Vaishnav, Yilin Zhao, Ed S Lein, Richard H Scheuermann, **"Reference-based cell type matching of in situ image-based spatial transcriptomics data on primary visual cortex of mouse brain"**, *Scientific Reports* 13 (1), 9567 (2023). [cited: 2]
+    .. _pub0: https://www.nature.com/articles/s41598-023-36638-8
+    .. |pub0| replace:: Yun Zhang, Jeremy A Miller, :underline:`Jeongbin Park`, Boudewijn P Lelieveldt, Brian Long, Tamim Abdelaal, Brian D Aevermann, Tommaso Biancalani, Charles Comiter, Oleh Dzyubachyk, Jeroen Eggermont, Christoffer Mattsson Langseth, Viktor Petukhov, Gabriele Scalia, Eeshit Dhaval Vaishnav, Yilin Zhao, Ed S Lein, Richard H Scheuermann, **"Reference-based cell type matching of in situ image-based spatial transcriptomics data on primary visual cortex of mouse brain"**, *Scientific Reports* 13 (1), 9567 (2023). [cited: 2]
+
+    |pub0|_
 
     .. _pub1: https://genominfo.org/upload/pdf/gi-22079.pdf
     .. |pub1| replace:: :underline:`Jeongbin Park`, Nagarajan Paramasivam, **"PyOncoPrint: a python package for plotting OncoPrints"**, *Genomics & Informatics* 21 (1), e14 (2023).
 
     |pub1|_
 
-    Brian Long, Jeremy Miller, The SpaceTx Consortium, **"SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain"**, *arXiv*, 2301.08436 (2023). [cited: 2]
+    .. _pub2: https://arxiv.org/abs/2301.08436
+    .. |pub2| replace:: Brian Long, Jeremy Miller, The SpaceTx Consortium, **"SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain"**, *arXiv*, 2301.08436 (2023). [cited: 2]
 
-    Seul Lee, Taein Kim, Min-Soo Choi, Yejin Kwak, :underline:`Jeongbin Park`, Sung Ju Hwang, Sang-Gyu Kim, **"READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis"**, *bioRxiv*, 2023.03. 21.533616 (2023).
+    |pub2|_
+
+    .. _pub3: https://www.biorxiv.org/content/10.1101/2023.03.21.533616v1
+    .. |pub3| replace:: Seul Lee, Taein Kim, Min-Soo Choi, Yejin Kwak, :underline:`Jeongbin Park`, Sung Ju Hwang, Sang-Gyu Kim, **"READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis"**, *bioRxiv*, 2023.03. 21.533616 (2023).
+
+    |pub3|_
 
     .. _pub4: https://joss.theoj.org/papers/10.21105/joss.04633
     .. |pub4| replace:: :underline:`Jeongbin Park`, Gilles Duvert, Alain Coulais, Gregory V Jung, Sylwester Arabas, Brian Barker, Takeshi Enomoto, Sylvain Flinois, Oliver Gressel, Tomas Hillberg, Thibault Huillet, Jan Kohnert, Orion Poplawski, Eloi Rozier de Linage, Remi A Solås, Luke Stagner, Ole Streicher, James Tappin, Thierry Thomas, Jingwei Wang, Christian Wimmer, **"GNU Data Language 1.0: a free/libre and open-source drop-in replacement for IDL/PV-WAVE"**, *Journal of Open Source Software* 7 (80), 4633 (2022).
