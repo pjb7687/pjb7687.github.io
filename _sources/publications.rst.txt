@@ -72,7 +72,7 @@ PUBLICATIONS
     |pub9|_
 
     .. _pub10: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2585-4?optIn=true
-    .. |pub10| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 125]
+    .. |pub10| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 126]
 
     |pub10|_
 
@@ -102,12 +102,12 @@ PUBLICATIONS
     |pub15|_
 
     .. _pub16: https://www.nature.com/articles/s41467-017-02177-w
-    .. |pub16| replace:: Daniel B Lipka, Tania Witte, Reka Toth, Jing Yang, Manuel Wiesenfarth, Peter Nöllke, Alexandra Fischer, David Brocks, Zuguang Gu, :underline:`Jeongbin Park`, Brigitte Strahm, Marcin Wlodarski, Ayami Yoshimi, Rainer Claus, Michael Lübbert, Hauke Busch, Melanie Boerries, Mark Hartmann, Maximilian Schönung, Umut Kilik, Jens Langstein, Justyna A Wierzbinska, Caroline Pabst, Swati Garg, Albert Catalá, Barbara De Moerloose, Michael Dworzak, Henrik Hasle, Franco Locatelli, Riccardo Masetti, Markus Schmugge, Owen Smith, Jan Stary, Marek Ussowicz, Marry M Van Den Heuvel-Eibrink, Yassen Assenov, Matthias Schlesner, Charlotte Niemeyer, Christian Flotho, Christoph Plass, **"RAS-pathway mutation patterns define epigenetic subclasses in juvenile myelomonocytic leukemia"**, *Nature Communications* 8, 2126 (2017). [cited: 99]
+    .. |pub16| replace:: Daniel B Lipka, Tania Witte, Reka Toth, Jing Yang, Manuel Wiesenfarth, Peter Nöllke, Alexandra Fischer, David Brocks, Zuguang Gu, :underline:`Jeongbin Park`, Brigitte Strahm, Marcin Wlodarski, Ayami Yoshimi, Rainer Claus, Michael Lübbert, Hauke Busch, Melanie Boerries, Mark Hartmann, Maximilian Schönung, Umut Kilik, Jens Langstein, Justyna A Wierzbinska, Caroline Pabst, Swati Garg, Albert Catalá, Barbara De Moerloose, Michael Dworzak, Henrik Hasle, Franco Locatelli, Riccardo Masetti, Markus Schmugge, Owen Smith, Jan Stary, Marek Ussowicz, Marry M Van Den Heuvel-Eibrink, Yassen Assenov, Matthias Schlesner, Charlotte Niemeyer, Christian Flotho, Christoph Plass, **"RAS-pathway mutation patterns define epigenetic subclasses in juvenile myelomonocytic leukemia"**, *Nature Communications* 8, 2126 (2017). [cited: 100]
 
     |pub16|_
 
     .. _pub17: https://www.embopress.org/doi/abs/10.15252/msb.20177697
-    .. |pub17| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 180]
+    .. |pub17| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 181]
 
     |pub17|_
 
@@ -127,7 +127,7 @@ PUBLICATIONS
     |pub20|_
 
     .. _pub21: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub21| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 315]
+    .. |pub21| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 316]
 
     |pub21|_
 
@@ -142,7 +142,7 @@ PUBLICATIONS
     |pub23|_
 
     .. _pub24: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub24| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 333]
+    .. |pub24| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 334]
 
     |pub24|_
 
@@ -152,18 +152,18 @@ PUBLICATIONS
     |pub25|_
 
     .. _pub26: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub26| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1629]
+    .. |pub26| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1637]
 
     |pub26|_
 
     .. _pub27: https://www.nature.com/articles/ncomms4724
-    .. |pub27| replace:: Moon-Hyeong Seo, :underline:`Jeongbin Park`, Eunkyung Kim, Sungchul Hohng, Hak-Sung Kim, **"Protein conformational dynamics dictate the binding affinity for a ligand"**, *Nature Communications* 5, 3724 (2014). [cited: 144]
+    .. |pub27| replace:: Moon-Hyeong Seo, :underline:`Jeongbin Park`, Eunkyung Kim, Sungchul Hohng, Hak-Sung Kim, **"Protein conformational dynamics dictate the binding affinity for a ligand"**, *Nature Communications* 5, 3724 (2014). [cited: 145]
 
     |pub27|_
 
 .. container:: text-right
 
-    | Total Citations: 4537, H-index: 18
+    | Total Citations: 4551, H-index: 18
     |
 
 .. container:: entries text-left
