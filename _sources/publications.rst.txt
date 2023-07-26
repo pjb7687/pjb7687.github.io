@@ -50,7 +50,7 @@ PUBLICATIONS
     |pub4|_
 
     .. _pub5: https://www.nature.com/articles/s41467-021-23807-4
-    .. |pub5| replace:: :underline:`Jeongbin Park`\ :superscript:`†`, Wonyl Choi\ :superscript:`†`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 64]
+    .. |pub5| replace:: :underline:`Jeongbin Park`\ :superscript:`†`, Wonyl Choi\ :superscript:`†`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 65]
 
     |pub5|_
 
@@ -64,7 +64,7 @@ PUBLICATIONS
 
     |pub7|_
 
-    Andres Quintero, Daniel Hübschmann, Nils Kurzawa, Sebastian Steinhauser, Philipp Rentzsch, Stephen Krämer, Carolin Andresen, :underline:`Jeongbin Park`, Roland Eils, Matthias Schlesner, Carl Herrmann, **"ShinyButchR: interactive NMF-based decomposition workflow of genome-scale datasets"**, *Biology Methods and Protocols* 5 (1), bpaa022 (2020). [cited: 11]
+    Andres Quintero, Daniel Hübschmann, Nils Kurzawa, Sebastian Steinhauser, Philipp Rentzsch, Stephen Krämer, Carolin Andresen, :underline:`Jeongbin Park`, Roland Eils, Matthias Schlesner, Carl Herrmann, **"ShinyButchR: interactive NMF-based decomposition workflow of genome-scale datasets"**, *Biology Methods and Protocols* 5 (1), bpaa022 (2020). [cited: 13]
 
     .. _pub9: https://www.nature.com/articles/s41598-019-48771-4
     .. |pub9| replace:: Stephan M Tirier, :underline:`Jeongbin Park`, Friedrich Preußer, Lisa Amrhein, Zuguang Gu, Simon Steiger, Jan-Philipp Mallm, Teresa Krieger, Marcel Waschow, Björn Eismann, Marta Gut, Ivo G Gut, Karsten Rippe, Matthias Schlesner, Fabian Theis, Christiane Fuchs, Claudia R Ball, Hanno Glimm, Roland Eils, Christian Conrad, **"pheno-seq–linking visual features and gene expression in 3D cell culture systems"**, *Scientific Reports* 9, 12367 (2019). [cited: 18]
@@ -72,7 +72,7 @@ PUBLICATIONS
     |pub9|_
 
     .. _pub10: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2585-4?optIn=true
-    .. |pub10| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 126]
+    .. |pub10| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 127]
 
     |pub10|_
 
@@ -127,7 +127,7 @@ PUBLICATIONS
     |pub20|_
 
     .. _pub21: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub21| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 316]
+    .. |pub21| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 317]
 
     |pub21|_
 
@@ -137,12 +137,12 @@ PUBLICATIONS
     |pub22|_
 
     .. _pub23: https://genome.cshlp.org/content/26/3/406.short
-    .. |pub23| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 207]
+    .. |pub23| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 208]
 
     |pub23|_
 
     .. _pub24: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub24| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 334]
+    .. |pub24| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 336]
 
     |pub24|_
 
@@ -152,18 +152,18 @@ PUBLICATIONS
     |pub25|_
 
     .. _pub26: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub26| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1637]
+    .. |pub26| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1641]
 
     |pub26|_
 
     .. _pub27: https://www.nature.com/articles/ncomms4724
-    .. |pub27| replace:: Moon-Hyeong Seo, :underline:`Jeongbin Park`, Eunkyung Kim, Sungchul Hohng, Hak-Sung Kim, **"Protein conformational dynamics dictate the binding affinity for a ligand"**, *Nature Communications* 5, 3724 (2014). [cited: 145]
+    .. |pub27| replace:: Moon-Hyeong Seo, :underline:`Jeongbin Park`, Eunkyung Kim, Sungchul Hohng, Hak-Sung Kim, **"Protein conformational dynamics dictate the binding affinity for a ligand"**, *Nature Communications* 5, 3724 (2014). [cited: 146]
 
     |pub27|_
 
 .. container:: text-right
 
-    | Total Citations: 4551, H-index: 18
+    | Total Citations: 4564, H-index: 18
     |
 
 .. container:: entries text-left
