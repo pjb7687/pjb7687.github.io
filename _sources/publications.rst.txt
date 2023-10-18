@@ -64,7 +64,7 @@ PUBLICATIONS
 
     |pub7|_
 
-    Andres Quintero, Daniel Hübschmann, Nils Kurzawa, Sebastian Steinhauser, Philipp Rentzsch, Stephen Krämer, Carolin Andresen, :underline:`Jeongbin Park`, Roland Eils, Matthias Schlesner, Carl Herrmann, **"ShinyButchR: interactive NMF-based decomposition workflow of genome-scale datasets"**, *Biology Methods and Protocols* 5 (1), bpaa022 (2020). [cited: 13]
+    Andres Quintero, Daniel Hübschmann, Nils Kurzawa, Sebastian Steinhauser, Philipp Rentzsch, Stephen Krämer, Carolin Andresen, :underline:`Jeongbin Park`, Roland Eils, Matthias Schlesner, Carl Herrmann, **"ShinyButchR: interactive NMF-based decomposition workflow of genome-scale datasets"**, *Biology Methods and Protocols* 5 (1), bpaa022 (2020). [cited: 14]
 
     .. _pub9: https://www.nature.com/articles/s41598-019-48771-4
     .. |pub9| replace:: Stephan M Tirier, :underline:`Jeongbin Park`, Friedrich Preußer, Lisa Amrhein, Zuguang Gu, Simon Steiger, Jan-Philipp Mallm, Teresa Krieger, Marcel Waschow, Björn Eismann, Marta Gut, Ivo G Gut, Karsten Rippe, Matthias Schlesner, Fabian Theis, Christiane Fuchs, Claudia R Ball, Hanno Glimm, Roland Eils, Christian Conrad, **"pheno-seq–linking visual features and gene expression in 3D cell culture systems"**, *Scientific Reports* 9, 12367 (2019). [cited: 18]
@@ -127,7 +127,7 @@ PUBLICATIONS
     |pub20|_
 
     .. _pub21: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub21| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 329]
+    .. |pub21| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 330]
 
     |pub21|_
 
@@ -147,12 +147,12 @@ PUBLICATIONS
     |pub24|_
 
     .. _pub25: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub25| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1019]
+    .. |pub25| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1021]
 
     |pub25|_
 
     .. _pub26: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub26| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1708]
+    .. |pub26| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1711]
 
     |pub26|_
 
@@ -163,7 +163,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 4716, H-index: 18
+    | Total Citations: 4723, H-index: 18
     |
 
 .. container:: entries text-left
