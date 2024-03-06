@@ -64,12 +64,12 @@ SERVICE
 
     **학회 활동:**
     
-    - 한국유전체학회 정보전산위원, 2023
-    - 한국생명정보학회 대외위원, 2023
+    - 한국유전체학회 정보전산위원 (2023 - 2024)
+    - 한국생명정보학회 대외위원 (2023), 학술위원 (2024)
 
     **Ad-hoc 저널 리뷰어:**
 
-    - Bioinformatics, NAR: Genomics and Bioinformatics, Scientific Reports, BMC Genomics, Journal of Open Source Software (JOSS)
+    - Bioinformatics, eLife, Communications Biology, NAR: Genomics and Bioinformatics, Scientific Reports, BMC Genomics, Journal of Open Source Software (JOSS)
 
     **번역:**
 
@@ -79,14 +79,14 @@ SERVICE
 
     - **GNU Data Language (GDL)**: GDL 프로젝트 (https://github.com/gnudatalanguage/gdl/) 윈도우 버전 포팅에 기여함 (2014 - 2015년). 2021년부터 프로젝트 Release Manager로 기여하고 있음.
 
-TEACHING EXPERIENCE
--------------------
+TEACHING
+--------
 .. container:: entries text-left
 
     **부산대학교**:
 
-    - **"정보의학개론"**, **"유닉스 기초"**, **"객체지향프로그래밍"**, 부산대학교 의생명융합공학부
-    - **"임상및유전체정보학"**, 부산대학교 대학원 유전체데이터과학전공
+    - **"생명정보학"**, **"의생명정보학개론"**, **"유닉스 기초"**, **"객체지향프로그래밍"**, **"웹응용프로그래밍"**, 부산대학교 의생명융합공학부
+    - **"임상및유전체정보학"**, **"유전체통계학"**, 부산대학교 대학원 유전체데이터과학전공
 
     **부산대학교 이전:**
 
