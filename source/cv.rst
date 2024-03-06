@@ -97,8 +97,8 @@ TEACHING
 
     **At PNU:**
 
-    - **"UNIX Fundamentals"**, **"Introduction to Medical Informatics"**, **"Object-oriented Programming"**, School of Biomedical Convergence Engineering, Pusan National University
-    - **"Clinical and Genomic Informatics"**, Graduate School of Genomic Data Science, Pusan National University
+    - **"Bioinformatics"**, **"UNIX Fundamentals"**, **"Introduction to Biomedical Informatics"**, **"Object-oriented Programming"**, **"Web Programming"**, School of Biomedical Convergence Engineering, Pusan National University
+    - **"Statistical Genomics"**, **"Clinical and Genomic Informatics"**, Graduate School of Genomic Data Science, Pusan National University
 
     **Before PNU:**
 
