@@ -81,7 +81,7 @@ SERVICE
 
     **Ad-hoc Journal Reviewer:**
 
-    - Bioinformatics, NAR: Genomics and Bioinformatics, Scientific Reports, BMC Genomics, Journal of Open Source Software (JOSS)
+    - Bioinformatics, eLife, Communications Biology, NAR: Genomics and Bioinformatics, Scientific Reports, BMC Genomics, Journal of Open Source Software (JOSS)
 
     **Book Translation:**
 
