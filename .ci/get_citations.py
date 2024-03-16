@@ -93,7 +93,7 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
         if cofirsts > 1:
             has_cofirst = True
             for i in range(cofirsts):
-                authors[i] += '\\ :superscript:`†`'
+                authors[i] += '\\ :superscript:`#`'
         if correspondences > 1:
             has_cocorrespondence = True
             for i in bib['correspondence_indices']:
@@ -150,7 +150,7 @@ def write_rst(author, publications, proceedings, has_cofirst, has_cocorresponden
         f.write("    |\n\n")
         f.write(".. container:: entries text-left\n\n")
         if has_cofirst:
-            f.write("    - †: Joint first authors.\n")
+            f.write("    - #: Joint first authors.\n")
         if has_cocorrespondence:
             f.write("    - *: Co-corresponding authors.\n")
         f.write("    - The citation numbers were retrieved from Google Scholar.\n")
