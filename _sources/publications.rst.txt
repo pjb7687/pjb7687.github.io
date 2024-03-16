@@ -25,7 +25,7 @@ PUBLICATIONS
 .. container:: entries text-justify publications
 
     .. _pub0: https://www.nature.com/articles/s41598-023-36638-8
-    .. |pub0| replace:: Yun Zhang\ :superscript:`†`, Jeremy A Miller\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Boudewijn P Lelieveldt, Brian Long, Tamim Abdelaal, Brian D Aevermann, Tommaso Biancalani, Charles Comiter, Oleh Dzyubachyk, Jeroen Eggermont, Christoffer Mattsson Langseth, Viktor Petukhov, Gabriele Scalia, Eeshit Dhaval Vaishnav, Yilin Zhao, Ed S Lein, Richard H Scheuermann, **"Reference-based cell type matching of in situ image-based spatial transcriptomics data on primary visual cortex of mouse brain"**, *Scientific Reports* 13 (1), 9567 (2023). [cited: 7]
+    .. |pub0| replace:: Yun Zhang\ :superscript:`#`, Jeremy A Miller\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Boudewijn P Lelieveldt, Brian Long, Tamim Abdelaal, Brian D Aevermann, Tommaso Biancalani, Charles Comiter, Oleh Dzyubachyk, Jeroen Eggermont, Christoffer Mattsson Langseth, Viktor Petukhov, Gabriele Scalia, Eeshit Dhaval Vaishnav, Yilin Zhao, Ed S Lein, Richard H Scheuermann, **"Reference-based cell type matching of in situ image-based spatial transcriptomics data on primary visual cortex of mouse brain"**, *Scientific Reports* 13 (1), 9567 (2023). [cited: 7]
 
     |pub0|_
 
@@ -52,7 +52,7 @@ PUBLICATIONS
     |pub5|_
 
     .. _pub6: https://www.nature.com/articles/s41467-021-23807-4
-    .. |pub6| replace:: :underline:`Jeongbin Park`\ :superscript:`†`, Wonyl Choi\ :superscript:`†`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 83]
+    .. |pub6| replace:: :underline:`Jeongbin Park`\ :superscript:`#`, Wonyl Choi\ :superscript:`#`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 83]
 
     |pub6|_
 
@@ -77,7 +77,7 @@ PUBLICATIONS
     |pub10|_
 
     .. _pub11: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2585-4?optIn=true
-    .. |pub11| replace:: Gue-Ho Hwang\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 147]
+    .. |pub11| replace:: Gue-Ho Hwang\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 147]
 
     |pub11|_
 
@@ -87,12 +87,12 @@ PUBLICATIONS
     |pub12|_
 
     .. _pub13: https://www.biorxiv.org/content/10.1101/397935v1.abstract
-    .. |pub13| replace:: :underline:`Jeongbin Park`\ :superscript:`†`, Liam H Childs\ :superscript:`†`, Matthias Schlesner, Roland Eils, **"HTSlib-js: developer toolkit for a client-side JavaScript interface for HTSlib"**, *bioRxiv*, 397935 (2018). [cited: 1]
+    .. |pub13| replace:: :underline:`Jeongbin Park`\ :superscript:`#`, Liam H Childs\ :superscript:`#`, Matthias Schlesner, Roland Eils, **"HTSlib-js: developer toolkit for a client-side JavaScript interface for HTSlib"**, *bioRxiv*, 397935 (2018). [cited: 1]
 
     |pub13|_
 
     .. _pub14: https://www.nature.com/articles/nmeth.4554
-    .. |pub14| replace:: Sang-Tae Kim\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Daesik Kim, Kyoungmi Kim, Sangsu Bae, Matthias Schlesner, Jin-Soo Kim, **"Response to “Unexpected mutations after CRISPR–Cas9 editing in vivo”"**, *Nature Methods* 15 (4), 239-240 (2018). [cited: 47]
+    .. |pub14| replace:: Sang-Tae Kim\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Daesik Kim, Kyoungmi Kim, Sangsu Bae, Matthias Schlesner, Jin-Soo Kim, **"Response to “Unexpected mutations after CRISPR–Cas9 editing in vivo”"**, *Nature Methods* 15 (4), 239-240 (2018). [cited: 47]
 
     |pub14|_
 
@@ -132,7 +132,7 @@ PUBLICATIONS
     |pub21|_
 
     .. _pub22: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub22| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 351]
+    .. |pub22| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 352]
 
     |pub22|_
 
@@ -147,7 +147,7 @@ PUBLICATIONS
     |pub24|_
 
     .. _pub25: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub25| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 385]
+    .. |pub25| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 386]
 
     |pub25|_
 
@@ -157,7 +157,7 @@ PUBLICATIONS
     |pub26|_
 
     .. _pub27: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub27| replace:: Sangsu Bae\ :superscript:`†`, :underline:`Jeongbin Park`\ :superscript:`†`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1844]
+    .. |pub27| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1845]
 
     |pub27|_
 
@@ -168,10 +168,10 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 5062, H-index: 19
+    | Total Citations: 5065, H-index: 19
     |
 
 .. container:: entries text-left
 
-    - †: Joint first authors.
+    - #: Joint first authors.
     - The citation numbers were retrieved from Google Scholar.
