@@ -35,7 +35,7 @@ PUBLICATIONS
     |pub1|_
 
     .. _pub2: https://arxiv.org/abs/2301.08436
-    .. |pub2| replace:: Brian Long, Jeremy Miller, The SpaceTx Consortium, **"SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain"**, *arXiv*, 2301.08436 (2023). [cited: 7]
+    .. |pub2| replace:: Brian Long, Jeremy Miller, The SpaceTx Consortium, **"SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain"**, *arXiv*, 2301.08436 (2023). [cited: 8]
 
     |pub2|_
 
@@ -47,12 +47,12 @@ PUBLICATIONS
     |pub4|_
 
     .. _pub5: https://joss.theoj.org/papers/10.21105/joss.04633
-    .. |pub5| replace:: :underline:`Jeongbin Park`, Gilles Duvert, Alain Coulais, Gregory V Jung, Sylwester Arabas, Brian Barker, Takeshi Enomoto, Sylvain Flinois, Oliver Gressel, Tomas Hillberg, Thibault Huillet, Jan Kohnert, Orion Poplawski, Eloi Rozier de Linage, Remi A Solås, Luke Stagner, Ole Streicher, James Tappin, Thierry Thomas, Jingwei Wang, Christian Wimmer, **"GNU Data Language 1.0: a free/libre and open-source drop-in replacement for IDL/PV-WAVE"**, *Journal of Open Source Software* 7 (80), 4633 (2022). [cited: 1]
+    .. |pub5| replace:: :underline:`Jeongbin Park`, Gilles Duvert, Alain Coulais, Gregory V Jung, Sylwester Arabas, Brian Barker, Takeshi Enomoto, Sylvain Flinois, Oliver Gressel, Tomas Hillberg, Thibault Huillet, Jan Kohnert, Orion Poplawski, Eloi Rozier de Linage, Remi A Solås, Luke Stagner, Ole Streicher, James Tappin, Thierry Thomas, Jingwei Wang, Christian Wimmer, **"GNU Data Language 1.0: a free/libre and open-source drop-in replacement for IDL/PV-WAVE"**, *Journal of Open Source Software* 7 (80), 4633 (2022). [cited: 2]
 
     |pub5|_
 
     .. _pub6: https://www.nature.com/articles/s41467-021-23807-4
-    .. |pub6| replace:: :underline:`Jeongbin Park`\ :superscript:`#`, Wonyl Choi\ :superscript:`#`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 83]
+    .. |pub6| replace:: :underline:`Jeongbin Park`\ :superscript:`#`, Wonyl Choi\ :superscript:`#`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 84]
 
     |pub6|_
 
@@ -77,7 +77,7 @@ PUBLICATIONS
     |pub10|_
 
     .. _pub11: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2585-4?optIn=true
-    .. |pub11| replace:: Gue-Ho Hwang\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 147]
+    .. |pub11| replace:: Gue-Ho Hwang\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 148]
 
     |pub11|_
 
@@ -142,22 +142,22 @@ PUBLICATIONS
     |pub23|_
 
     .. _pub24: https://genome.cshlp.org/content/26/3/406.short
-    .. |pub24| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 224]
+    .. |pub24| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 226]
 
     |pub24|_
 
     .. _pub25: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub25| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 386]
+    .. |pub25| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 388]
 
     |pub25|_
 
     .. _pub26: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub26| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1065]
+    .. |pub26| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1066]
 
     |pub26|_
 
     .. _pub27: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub27| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1845]
+    .. |pub27| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1853]
 
     |pub27|_
 
@@ -168,7 +168,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 5065, H-index: 19
+    | Total Citations: 5082, H-index: 19
     |
 
 .. container:: entries text-left
