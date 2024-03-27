@@ -25,7 +25,7 @@ PUBLICATIONS
 .. container:: entries text-justify publications
 
     .. _pub0: https://www.nature.com/articles/s41598-023-36638-8
-    .. |pub0| replace:: Yun Zhang\ :superscript:`#`, Jeremy A Miller\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Boudewijn P Lelieveldt, Brian Long, Tamim Abdelaal, Brian D Aevermann, Tommaso Biancalani, Charles Comiter, Oleh Dzyubachyk, Jeroen Eggermont, Christoffer Mattsson Langseth, Viktor Petukhov, Gabriele Scalia, Eeshit Dhaval Vaishnav, Yilin Zhao, Ed S Lein, Richard H Scheuermann, **"Reference-based cell type matching of in situ image-based spatial transcriptomics data on primary visual cortex of mouse brain"**, *Scientific Reports* 13 (1), 9567 (2023). [cited: 7]
+    .. |pub0| replace:: Yun Zhang\ :superscript:`#`, Jeremy A Miller\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Boudewijn P Lelieveldt, Brian Long, Tamim Abdelaal, Brian D Aevermann, Tommaso Biancalani, Charles Comiter, Oleh Dzyubachyk, Jeroen Eggermont, Christoffer Mattsson Langseth, Viktor Petukhov, Gabriele Scalia, Eeshit Dhaval Vaishnav, Yilin Zhao, Ed S Lein, Richard H Scheuermann, **"Reference-based cell type matching of in situ image-based spatial transcriptomics data on primary visual cortex of mouse brain"**, *Scientific Reports* 13 (1), 9567 (2023). [cited: 8]
 
     |pub0|_
 
@@ -35,7 +35,7 @@ PUBLICATIONS
     |pub1|_
 
     .. _pub2: https://arxiv.org/abs/2301.08436
-    .. |pub2| replace:: Brian Long, Jeremy Miller, The SpaceTx Consortium, **"SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain"**, *arXiv*, 2301.08436 (2023). [cited: 8]
+    .. |pub2| replace:: Brian Long, Jeremy Miller, The SpaceTx Consortium, **"SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain"**, *arXiv*, 2301.08436 (2023). [cited: 9]
 
     |pub2|_
 
@@ -112,7 +112,7 @@ PUBLICATIONS
     |pub17|_
 
     .. _pub18: https://www.embopress.org/doi/abs/10.15252/msb.20177697
-    .. |pub18| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 196]
+    .. |pub18| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 198]
 
     |pub18|_
 
@@ -142,22 +142,22 @@ PUBLICATIONS
     |pub23|_
 
     .. _pub24: https://genome.cshlp.org/content/26/3/406.short
-    .. |pub24| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 226]
+    .. |pub24| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 227]
 
     |pub24|_
 
     .. _pub25: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub25| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 388]
+    .. |pub25| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 389]
 
     |pub25|_
 
     .. _pub26: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub26| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1066]
+    .. |pub26| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1069]
 
     |pub26|_
 
     .. _pub27: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub27| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1853]
+    .. |pub27| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1861]
 
     |pub27|_
 
@@ -168,7 +168,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 5082, H-index: 19
+    | Total Citations: 5099, H-index: 19
     |
 
 .. container:: entries text-left
