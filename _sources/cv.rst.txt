@@ -76,8 +76,8 @@ SERVICE
 
     **Scientific Community:**
     
-    - Korean Society for Bioinformatics (KSBI), Public Affairs Committee Member, 2023
-    - Korea Genome Organization (KOGO), Information and Computing Committee Member, 2023
+    - Korean Society for Bioinformatics (KSBI), Public Affairs Committee Member, 2023 / Academic Affairs Committee Member, 2024
+    - Korea Genome Organization (KOGO), Information and Computing Committee Member, 2023-2024
 
     **Ad-hoc Journal Reviewer:**
 
