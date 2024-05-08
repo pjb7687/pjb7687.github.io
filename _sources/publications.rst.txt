@@ -52,7 +52,7 @@ PUBLICATIONS
     |pub5|_
 
     .. _pub6: https://www.nature.com/articles/s41467-021-23807-4
-    .. |pub6| replace:: :underline:`Jeongbin Park`\ :superscript:`#`, Wonyl Choi\ :superscript:`#`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 86]
+    .. |pub6| replace:: :underline:`Jeongbin Park`\ :superscript:`#`, Wonyl Choi\ :superscript:`#`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 87]
 
     |pub6|_
 
@@ -77,7 +77,7 @@ PUBLICATIONS
     |pub10|_
 
     .. _pub11: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2585-4?optIn=true
-    .. |pub11| replace:: Gue-Ho Hwang\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 151]
+    .. |pub11| replace:: Gue-Ho Hwang\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 152]
 
     |pub11|_
 
@@ -132,7 +132,7 @@ PUBLICATIONS
     |pub21|_
 
     .. _pub22: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub22| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 357]
+    .. |pub22| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 358]
 
     |pub22|_
 
@@ -152,12 +152,12 @@ PUBLICATIONS
     |pub25|_
 
     .. _pub26: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub26| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1076]
+    .. |pub26| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1079]
 
     |pub26|_
 
     .. _pub27: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub27| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1883]
+    .. |pub27| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1887]
 
     |pub27|_
 
@@ -168,7 +168,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 5164, H-index: 19
+    | Total Citations: 5174, H-index: 19
     |
 
 .. container:: entries text-left
