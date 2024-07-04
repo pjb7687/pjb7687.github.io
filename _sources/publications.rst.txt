@@ -155,12 +155,12 @@ PUBLICATIONS
     |pub25|_
 
     .. _pub26: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub26| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1092]
+    .. |pub26| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1091]
 
     |pub26|_
 
     .. _pub27: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub27| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1945]
+    .. |pub27| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1950]
 
     |pub27|_
 
@@ -171,7 +171,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 5311, H-index: 19
+    | Total Citations: 5315, H-index: 19
     |
 
 .. container:: entries text-left
