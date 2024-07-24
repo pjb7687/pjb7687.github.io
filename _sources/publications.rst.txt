@@ -50,12 +50,12 @@ PUBLICATIONS
     |pub4|_
 
     .. _pub5: https://arxiv.org/abs/2301.08436
-    .. |pub5| replace:: Brian Long, Jeremy Miller, The SpaceTx Consortium, **"SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain"**, *arXiv*, 2301.08436 (2023). [cited: 16]
+    .. |pub5| replace:: Brian Long, Jeremy Miller, The SpaceTx Consortium, **"SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain"**, *arXiv*, 2301.08436 (2023). [cited: 15]
 
     |pub5|_
 
     .. _pub6: https://joss.theoj.org/papers/10.21105/joss.04633
-    .. |pub6| replace:: :underline:`Jeongbin Park`, Gilles Duvert, Alain Coulais, Gregory V Jung, Sylwester Arabas, Brian Barker, Takeshi Enomoto, Sylvain Flinois, Oliver Gressel, Tomas Hillberg, Thibault Huillet, Jan Kohnert, Orion Poplawski, Eloi Rozier de Linage, Remi A Solås, Luke Stagner, Ole Streicher, James Tappin, Thierry Thomas, Jingwei Wang, Christian Wimmer, **"GNU Data Language 1.0: a free/libre and open-source drop-in replacement for IDL/PV-WAVE"**, *Journal of Open Source Software* 7 (80), 4633 (2022). [cited: 2]
+    .. |pub6| replace:: :underline:`Jeongbin Park`, Gilles Duvert, Alain Coulais, Gregory V Jung, Sylwester Arabas, Brian Barker, Takeshi Enomoto, Sylvain Flinois, Oliver Gressel, Tomas Hillberg, Thibault Huillet, Jan Kohnert, Orion Poplawski, Eloi Rozier de Linage, Remi A Solås, Luke Stagner, Ole Streicher, James Tappin, Thierry Thomas, Jingwei Wang, Christian Wimmer, **"GNU Data Language 1.0: a free/libre and open-source drop-in replacement for IDL/PV-WAVE"**, *Journal of Open Source Software* 7 (80), 4633 (2022). [cited: 3]
 
     |pub6|_
 
@@ -70,12 +70,12 @@ PUBLICATIONS
     |pub8|_
 
     .. _pub9: https://academic.oup.com/neuro-oncology/article-abstract/22/8/1138/5820825
-    .. |pub9| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 98]
+    .. |pub9| replace:: Teresa G Krieger, Stephan M Tirier, :underline:`Jeongbin Park`, Katharina Jechow, Tanja Eisemann, Heike Peterziel, Peter Angel, Roland Eils, Christian Conrad, **"Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics"**, *Neuro-oncology*, noaa091 (2020). [cited: 100]
 
     |pub9|_
 
     .. _pub10: https://academic.oup.com/biomethods/article-abstract/5/1/bpaa022/5942966
-    .. |pub10| replace:: Andres Quintero, Daniel Hübschmann, Nils Kurzawa, Sebastian Steinhauser, Philipp Rentzsch, Stephen Krämer, Carolin Andresen, :underline:`Jeongbin Park`, Roland Eils, Matthias Schlesner, Carl Herrmann, **"ShinyButchR: Interactive NMF-based decomposition workflow of genome-scale datasets"**, *Biology Methods and Protocols* 5 (1), bpaa022 (2020). [cited: 15]
+    .. |pub10| replace:: Andres Quintero, Daniel Hübschmann, Nils Kurzawa, Sebastian Steinhauser, Philipp Rentzsch, Stephen Krämer, Carolin Andresen, :underline:`Jeongbin Park`, Roland Eils, Matthias Schlesner, Carl Herrmann, **"ShinyButchR: Interactive NMF-based decomposition workflow of genome-scale datasets"**, *Biology Methods and Protocols* 5 (1), bpaa022 (2020). [cited: 16]
 
     |pub10|_
 
@@ -85,7 +85,7 @@ PUBLICATIONS
     |pub11|_
 
     .. _pub12: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2585-4?optIn=true
-    .. |pub12| replace:: Gue-Ho Hwang\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 161]
+    .. |pub12| replace:: Gue-Ho Hwang\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 162]
 
     |pub12|_
 
@@ -140,7 +140,7 @@ PUBLICATIONS
     |pub22|_
 
     .. _pub23: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub23| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 362]
+    .. |pub23| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 363]
 
     |pub23|_
 
@@ -155,17 +155,17 @@ PUBLICATIONS
     |pub25|_
 
     .. _pub26: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub26| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 414]
+    .. |pub26| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 415]
 
     |pub26|_
 
     .. _pub27: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub27| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1099]
+    .. |pub27| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1101]
 
     |pub27|_
 
     .. _pub28: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub28| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1964]
+    .. |pub28| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1974]
 
     |pub28|_
 
@@ -176,7 +176,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 5353, H-index: 19
+    | Total Citations: 5371, H-index: 19
     |
 
 .. container:: entries text-left
