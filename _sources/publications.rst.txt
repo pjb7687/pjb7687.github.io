@@ -43,10 +43,7 @@ PUBLICATIONS
 
     |pub4|_
 
-    .. _pub5: https://www.biorxiv.org/content/10.1101/2023.03.21.533616v1
-    .. |pub5| replace:: Seul Lee, Taein Kim, Min-Soo Choi, Yejin Kwak, :underline:`Jeongbin Park`, Sung Ju Hwang, Sang-Gyu Kim, **"READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis"**, *bioRxiv*, 2023.03. 21.533616 (2023).
-
-    |pub5|_
+    Seul Lee, Taein Kim, Min-Soo Choi, Yejin Kwak, :underline:`Jeongbin Park`, Sung Ju Hwang, Sang-Gyu Kim, **"READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis"**, *bioRxiv*, 2023.03. 21.533616 (2023).
 
     .. _pub6: https://arxiv.org/abs/2301.08436
     .. |pub6| replace:: Brian Long, Jeremy Miller, The SpaceTx Consortium, **"SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain"**, *arXiv*, 2301.08436 (2023). [cited: 15]
