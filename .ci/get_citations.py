@@ -100,8 +100,10 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
                 authors[i] += '\\ :superscript:`*`'
         if 'journal' in bib:
             journal = bib['journal']
-        else:
+        elif 'conference' in bib:
             journal = bib['conference']
+        else:
+            continue # perhaps dissertation or etc, skip it
         cit = f"{', '.join(authors)}, **\"{bib['title']}\"**, *{journal}*"
         if 'volume' in bib:
             cit += f" {bib['volume']}"
