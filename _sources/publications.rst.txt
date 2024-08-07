@@ -81,7 +81,7 @@ PUBLICATIONS
     |pub12|_
 
     .. _pub13: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2585-4?optIn=true
-    .. |pub13| replace:: Gue-Ho Hwang\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 162]
+    .. |pub13| replace:: Gue-Ho Hwang\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 163]
 
     |pub13|_
 
@@ -136,7 +136,7 @@ PUBLICATIONS
     |pub23|_
 
     .. _pub24: https://academic.oup.com/bioinformatics/article-abstract/33/2/286/2525673
-    .. |pub24| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 366]
+    .. |pub24| replace:: :underline:`Jeongbin Park`, Kayeong Lim, Jin-Soo Kim, Sangsu Bae, **"Cas-analyzer: an online tool for assessing genome editing results using NGS data"**, *Bioinformatics* 33 (2), 286-288 (2017). [cited: 368]
 
     |pub24|_
 
@@ -151,28 +151,28 @@ PUBLICATIONS
     |pub26|_
 
     .. _pub27: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub27| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 419]
+    .. |pub27| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 420]
 
     |pub27|_
 
     .. _pub28: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub28| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1104]
+    .. |pub28| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1105]
 
     |pub28|_
 
     .. _pub29: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub29| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1978]
+    .. |pub29| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1983]
 
     |pub29|_
 
     .. _pub30: https://www.nature.com/articles/ncomms4724
-    .. |pub30| replace:: Moon-Hyeong Seo, :underline:`Jeongbin Park`, Eunkyung Kim, Sungchul Hohng, Hak-Sung Kim, **"Protein conformational dynamics dictate the binding affinity for a ligand"**, *Nature Communications* 5, 3724 (2014). [cited: 171]
+    .. |pub30| replace:: Moon-Hyeong Seo, :underline:`Jeongbin Park`, Eunkyung Kim, Sungchul Hohng, Hak-Sung Kim, **"Protein conformational dynamics dictate the binding affinity for a ligand"**, *Nature Communications* 5, 3724 (2014). [cited: 172]
 
     |pub30|_
 
 .. container:: text-right
 
-    | Total Citations: 5396, H-index: 19
+    | Total Citations: 5407, H-index: 19
     |
 
 .. container:: entries text-left
