@@ -29,26 +29,29 @@ PUBLICATIONS
 
     |pub0|_
 
+    .. _pub1: https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.20012
+    .. |pub1| replace:: Taein Kim, Seul Lee, Yejin Kwak, Min‐Soo Choi, :underline:`Jeongbin Park`, Sung Ju Hwang, Sang‐Gyu Kim, **"READRetro: natural product biosynthesis predicting with retrieval‐augmented dual‐view retrosynthesis"**, *New Phytologist* (2024).
+
+    |pub1|_
+
     Jaewoo Mo, Junseong Bae, Jahanzeb Saqib, Dohyun Hwang, Yunjung Jin, Beomsu Park, :underline:`Jeongbin Park`, Junil Kim, **"Current computational methods for spatial transcriptomics in cancer biology"**, *Advances in Cancer Research* (2024).
 
     Yujin Kim, Minwoo Jeong, In Gyeong Koh, Chanhee Kim, Hyeji Lee, Jae Hyun Kim, Ronald Yurko, Il Bin Kim, :underline:`Jeongbin Park`, Donna M Werling, Stephan J Sanders, Joon-Yong An, **"CWAS-Plus: estimating category-wide association of rare noncoding variation from whole-genome sequencing data with cell-type-specific functional data"**, *Briefings in Bioinformatics* 25 (4), bbae323 (2024).
 
-    .. _pub3: https://www.biorxiv.org/content/10.1101/2023.10.13.562221.abstract
-    .. |pub3| replace:: Teng-Feng Li, Arthur Lang, Paul Rothhaar, Oliver Gruenvogel, Ombretta Colasanti, Santa Mariela Olivera Ugarte, Jannik Traut, Antonio Piras, Nelson Acosta-Rivero, Vladimir Goncalves Magalhaes, Emely Springer, Andreas Betz, Hao-En Huang, :underline:`Jeongbin Park`, Ruiyue Qiu, Gnimah Eva Gnouamozi, Ann-Kathrin Mehnert, Viet Loan Dao Thi, Stephan Urban, Martina Muckenthaler, Matthias Schlesner, Dirk Wohlleber, Marco Binder, Ralf Bartenschlager, Andreas Pichlmair, Volker Lohmann, **"RBM39 shapes innate immunity through transcriptional and splicing control of IRF3 and other key factors"**, *bioRxiv*, 2023.10. 13.562221 (2023). [cited: 2]
-
-    |pub3|_
-
-    .. _pub4: https://www.nature.com/articles/s41598-023-36638-8
-    .. |pub4| replace:: Yun Zhang\ :superscript:`#`, Jeremy A Miller\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Boudewijn P Lelieveldt, Brian Long, Tamim Abdelaal, Brian D Aevermann, Tommaso Biancalani, Charles Comiter, Oleh Dzyubachyk, Jeroen Eggermont, Christoffer Mattsson Langseth, Viktor Petukhov, Gabriele Scalia, Eeshit Dhaval Vaishnav, Yilin Zhao, Ed S Lein, Richard H Scheuermann, **"Reference-based cell type matching of in situ image-based spatial transcriptomics data on primary visual cortex of mouse brain"**, *Scientific Reports* 13 (1), 9567 (2023). [cited: 14]
+    .. _pub4: https://www.biorxiv.org/content/10.1101/2023.10.13.562221.abstract
+    .. |pub4| replace:: Teng-Feng Li, Arthur Lang, Paul Rothhaar, Oliver Gruenvogel, Ombretta Colasanti, Santa Mariela Olivera Ugarte, Jannik Traut, Antonio Piras, Nelson Acosta-Rivero, Vladimir Goncalves Magalhaes, Emely Springer, Andreas Betz, Hao-En Huang, :underline:`Jeongbin Park`, Ruiyue Qiu, Gnimah Eva Gnouamozi, Ann-Kathrin Mehnert, Viet Loan Dao Thi, Stephan Urban, Martina Muckenthaler, Matthias Schlesner, Dirk Wohlleber, Marco Binder, Ralf Bartenschlager, Andreas Pichlmair, Volker Lohmann, **"RBM39 shapes innate immunity through transcriptional and splicing control of IRF3 and other key factors"**, *bioRxiv*, 2023.10. 13.562221 (2023). [cited: 2]
 
     |pub4|_
 
-    .. _pub5: https://genominfo.org/upload/pdf/gi-22079.pdf
-    .. |pub5| replace:: :underline:`Jeongbin Park`, Nagarajan Paramasivam, **"PyOncoPrint: a python package for plotting OncoPrints"**, *Genomics & Informatics* 21 (1), e14 (2023).
+    .. _pub5: https://www.nature.com/articles/s41598-023-36638-8
+    .. |pub5| replace:: Yun Zhang\ :superscript:`#`, Jeremy A Miller\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Boudewijn P Lelieveldt, Brian Long, Tamim Abdelaal, Brian D Aevermann, Tommaso Biancalani, Charles Comiter, Oleh Dzyubachyk, Jeroen Eggermont, Christoffer Mattsson Langseth, Viktor Petukhov, Gabriele Scalia, Eeshit Dhaval Vaishnav, Yilin Zhao, Ed S Lein, Richard H Scheuermann, **"Reference-based cell type matching of in situ image-based spatial transcriptomics data on primary visual cortex of mouse brain"**, *Scientific Reports* 13 (1), 9567 (2023). [cited: 14]
 
     |pub5|_
 
-    Seul Lee, Taein Kim, Min-Soo Choi, Yejin Kwak, :underline:`Jeongbin Park`, Sung Ju Hwang, Sang-Gyu Kim, **"READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis"**, *bioRxiv*, 2023.03. 21.533616 (2023).
+    .. _pub6: https://genominfo.org/upload/pdf/gi-22079.pdf
+    .. |pub6| replace:: :underline:`Jeongbin Park`, Nagarajan Paramasivam, **"PyOncoPrint: a python package for plotting OncoPrints"**, *Genomics & Informatics* 21 (1), e14 (2023).
+
+    |pub6|_
 
     .. _pub7: https://arxiv.org/abs/2301.08436
     .. |pub7| replace:: Brian Long, Jeremy Miller, The SpaceTx Consortium, **"SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain"**, *arXiv*, 2301.08436 (2023). [cited: 15]
@@ -61,7 +64,7 @@ PUBLICATIONS
     |pub8|_
 
     .. _pub9: https://www.nature.com/articles/s41467-021-23807-4
-    .. |pub9| replace:: :underline:`Jeongbin Park`\ :superscript:`#`, Wonyl Choi\ :superscript:`#`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 100]
+    .. |pub9| replace:: :underline:`Jeongbin Park`\ :superscript:`#`, Wonyl Choi\ :superscript:`#`, Sebastian Tiesmeyer, Brian Long, Lars E Borm, Emma Garren, Thuc Nghi Nguyen, Bosiljka Tasic, Simone Codeluppi, Tobias Graf, Matthias Schlesner, Oliver Stegle, Roland Eils, Naveed Ishaque, **"Cell segmentation-free inference of cell types from in situ transcriptomics data"**, *Nature Communications* 12, 3545 (2021). [cited: 102]
 
     |pub9|_
 
@@ -116,7 +119,7 @@ PUBLICATIONS
     |pub19|_
 
     .. _pub20: https://www.nature.com/articles/s41467-017-02177-w
-    .. |pub20| replace:: Daniel B Lipka, Tania Witte, Reka Toth, Jing Yang, Manuel Wiesenfarth, Peter Nöllke, Alexandra Fischer, David Brocks, Zuguang Gu, :underline:`Jeongbin Park`, Brigitte Strahm, Marcin Wlodarski, Ayami Yoshimi, Rainer Claus, Michael Lübbert, Hauke Busch, Melanie Boerries, Mark Hartmann, Maximilian Schönung, Umut Kilik, Jens Langstein, Justyna A Wierzbinska, Caroline Pabst, Swati Garg, Albert Catalá, Barbara De Moerloose, Michael Dworzak, Henrik Hasle, Franco Locatelli, Riccardo Masetti, Markus Schmugge, Owen Smith, Jan Stary, Marek Ussowicz, Marry M Van Den Heuvel-Eibrink, Yassen Assenov, Matthias Schlesner, Charlotte Niemeyer, Christian Flotho, Christoph Plass, **"RAS-pathway mutation patterns define epigenetic subclasses in juvenile myelomonocytic leukemia"**, *Nature Communications* 8, 2126 (2017). [cited: 114]
+    .. |pub20| replace:: Daniel B Lipka, Tania Witte, Reka Toth, Jing Yang, Manuel Wiesenfarth, Peter Nöllke, Alexandra Fischer, David Brocks, Zuguang Gu, :underline:`Jeongbin Park`, Brigitte Strahm, Marcin Wlodarski, Ayami Yoshimi, Rainer Claus, Michael Lübbert, Hauke Busch, Melanie Boerries, Mark Hartmann, Maximilian Schönung, Umut Kilik, Jens Langstein, Justyna A Wierzbinska, Caroline Pabst, Swati Garg, Albert Catalá, Barbara De Moerloose, Michael Dworzak, Henrik Hasle, Franco Locatelli, Riccardo Masetti, Markus Schmugge, Owen Smith, Jan Stary, Marek Ussowicz, Marry M Van Den Heuvel-Eibrink, Yassen Assenov, Matthias Schlesner, Charlotte Niemeyer, Christian Flotho, Christoph Plass, **"RAS-pathway mutation patterns define epigenetic subclasses in juvenile myelomonocytic leukemia"**, *Nature Communications* 8, 2126 (2017). [cited: 115]
 
     |pub20|_
 
@@ -151,22 +154,22 @@ PUBLICATIONS
     |pub26|_
 
     .. _pub27: https://genome.cshlp.org/content/26/3/406.short
-    .. |pub27| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 234]
+    .. |pub27| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 235]
 
     |pub27|_
 
     .. _pub28: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub28| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 420]
+    .. |pub28| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 422]
 
     |pub28|_
 
     .. _pub29: https://www.nature.com/nmeth/journal/v12/n3/abs/nmeth.3284.html
-    .. |pub29| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1108]
+    .. |pub29| replace:: Daesik Kim, Sangsu Bae, :underline:`Jeongbin Park`, Eunji Kim, Seokjoong Kim, Hye Ryeong Yu, Jinha Hwang, Jong-Il Kim, Jin-Soo Kim, **"Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells"**, *Nature Methods* 12 (3), 237-243 (2015). [cited: 1109]
 
     |pub29|_
 
     .. _pub30: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub30| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 1999]
+    .. |pub30| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 2007]
 
     |pub30|_
 
@@ -177,7 +180,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 5434, H-index: 19
+    | Total Citations: 5449, H-index: 19
     |
 
 .. container:: entries text-left
