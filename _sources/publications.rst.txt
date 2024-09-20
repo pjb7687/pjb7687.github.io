@@ -34,7 +34,7 @@ PUBLICATIONS
 
     |pub1|_
 
-    Jaewoo Mo, Junseong Bae, Jahanzeb Saqib, Dohyun Hwang, Yunjung Jin, Beomsu Park, :underline:`Jeongbin Park`, Junil Kim, **"Current computational methods for spatial transcriptomics in cancer biology"**, *Advances in Cancer Research* (2024).
+    Jaewoo Mo\ :superscript:`#`, Junseong Bae\ :superscript:`#`, Jahanzeb Saqib, Dohyun Hwang, Yunjung Jin, Beomsu Park, :underline:`Jeongbin Park`\ :superscript:`*`, Junil Kim\ :superscript:`*`, **"Current computational methods for spatial transcriptomics in cancer biology"**, *Advances in Cancer Research* (2024).
 
     Yujin Kim, Minwoo Jeong, In Gyeong Koh, Chanhee Kim, Hyeji Lee, Jae Hyun Kim, Ronald Yurko, Il Bin Kim, :underline:`Jeongbin Park`, Donna M Werling, Stephan J Sanders, Joon-Yong An, **"CWAS-Plus: estimating category-wide association of rare noncoding variation from whole-genome sequencing data with cell-type-specific functional data"**, *Briefings in Bioinformatics* 25 (4), bbae323 (2024).
 
@@ -89,7 +89,7 @@ PUBLICATIONS
     |pub13|_
 
     .. _pub14: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2585-4?optIn=true
-    .. |pub14| replace:: Gue-Ho Hwang\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 166]
+    .. |pub14| replace:: Gue-Ho Hwang\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Kayeong Lim, Sunghyun Kim, Jihyeon Yu, Eunchong Yu, Sang-Tae Kim, Roland Eils, Jin-Soo Kim, Sangsu Bae, **"Web-based design and analysis tools for CRISPR base editing"**, *BMC Bioinformatics* 19, 542 (2018). [cited: 167]
 
     |pub14|_
 
@@ -124,7 +124,7 @@ PUBLICATIONS
     |pub20|_
 
     .. _pub21: https://www.embopress.org/doi/abs/10.15252/msb.20177697
-    .. |pub21| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 209]
+    .. |pub21| replace:: Julia Jabs, Franziska M Zickgraf, :underline:`Jeongbin Park`, Steve Wagner, Xiaoqi Jiang, Katharina Jechow, Kortine Kleinheinz, Umut H Toprak, Marc A Schneider, Michael Meister, Saskia Spaich, Marc Sütterlin, Matthias Schlesner, Andreas Trumpp, Martin Sprick, Roland Eils, Christian Conrad, **"Screening drug effects in patient‐derived cancer cells links organoid responses to genome alterations"**, *Molecular Systems Biology* 13, 955 (2017). [cited: 210]
 
     |pub21|_
 
@@ -169,7 +169,7 @@ PUBLICATIONS
     |pub29|_
 
     .. _pub30: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub30| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 2022]
+    .. |pub30| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 2024]
 
     |pub30|_
 
@@ -180,10 +180,11 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 5490, H-index: 19
+    | Total Citations: 5494, H-index: 19
     |
 
 .. container:: entries text-left
 
     - #: Joint first authors.
+    - *: Co-corresponding authors.
     - The citation numbers were retrieved from Google Scholar.
