@@ -30,11 +30,14 @@ PUBLICATIONS
     |pub0|_
 
     .. _pub1: https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.20012
-    .. |pub1| replace:: Taein Kim, Seul Lee, Yejin Kwak, Min‐Soo Choi, :underline:`Jeongbin Park`, Sung Ju Hwang, Sang‐Gyu Kim, **"READRetro: natural product biosynthesis predicting with retrieval‐augmented dual‐view retrosynthesis"**, *New Phytologist* (2024).
+    .. |pub1| replace:: Taein Kim, Seul Lee, Yejin Kwak, Min‐Soo Choi, :underline:`Jeongbin Park`, Sung Ju Hwang, Sang‐Gyu Kim, **"READRetro: natural product biosynthesis predicting with retrieval‐augmented dual‐view retrosynthesis"**, *New Phytologist* 243 (6), 2512-2527 (2024).
 
     |pub1|_
 
-    Jaewoo Mo\ :superscript:`#`, Junseong Bae\ :superscript:`#`, Jahanzeb Saqib, Dohyun Hwang, Yunjung Jin, Beomsu Park, :underline:`Jeongbin Park`\ :superscript:`*`, Junil Kim\ :superscript:`*`, **"Current computational methods for spatial transcriptomics in cancer biology"**, *Advances in Cancer Research* (2024).
+    .. _pub2: https://pubmed.ncbi.nlm.nih.gov/39271268/
+    .. |pub2| replace:: Jaewoo Mo\ :superscript:`#`, Junseong Bae\ :superscript:`#`, Jahanzeb Saqib, Dohyun Hwang, Yunjung Jin, Beomsu Park, :underline:`Jeongbin Park`\ :superscript:`*`, Junil Kim\ :superscript:`*`, **"Current computational methods for spatial transcriptomics in cancer biology"**, *Advances in Cancer Research* 163, 71-106 (2024).
+
+    |pub2|_
 
     Yujin Kim, Minwoo Jeong, In Gyeong Koh, Chanhee Kim, Hyeji Lee, Jae Hyun Kim, Ronald Yurko, Il Bin Kim, :underline:`Jeongbin Park`, Donna M Werling, Stephan J Sanders, Joon-Yong An, **"CWAS-Plus: estimating category-wide association of rare noncoding variation from whole-genome sequencing data with cell-type-specific functional data"**, *Briefings in Bioinformatics* 25 (4), bbae323 (2024).
 
