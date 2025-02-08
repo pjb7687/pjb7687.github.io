@@ -68,7 +68,7 @@ SERVICE
     - 한국생명정보학회 대외위원 (2023), 학술위원 (2024 - 현재), 전산위원 (2025 - 현재)
     - Single Cell & Spatial Omics Korea (창립멤버, 2023 - 현재)
 
-    **학술지 편집**
+    **학술지 편집:**
 
     - Genomics & Informatics (https://genomicsinform.biomedcentral.com), Associate Editor (2025 - 현재)
 
