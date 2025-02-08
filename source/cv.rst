@@ -81,6 +81,7 @@ SERVICE
     - Single Cell & Spatial Omics Korea (SCSOK, co-founder), 2023-
 
     **Journal Editor:**
+
     - Genomics & Informatics (https://genomicsinform.biomedcentral.com), Associate Editor, 2025-
 
     **Ad-hoc Journal Reviewer:**
