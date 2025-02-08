@@ -162,12 +162,12 @@ PUBLICATIONS
     |pub27|_
 
     .. _pub28: https://genome.cshlp.org/content/26/3/406.short
-    .. |pub28| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 244]
+    .. |pub28| replace:: Daesik Kim, Sojung Kim, Sunghyun Kim, :underline:`Jeongbin Park`, Jin-Soo Kim, **"Genome-wide target specificities of CRISPR-Cas9 nucleases revealed by multiplex Digenome-seq"**, *Genome Research* 26 (3), 406-415 (2016). [cited: 245]
 
     |pub28|_
 
     .. _pub29: https://academic.oup.com/bioinformatics/article-abstract/31/24/4014/198447
-    .. |pub29| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 454]
+    .. |pub29| replace:: :underline:`Jeongbin Park`, Sangsu Bae, Jin-Soo Kim, **"Cas-Designer: a web-based tool for choice of CRISPR-Cas9 target sites"**, *Bioinformatics* 31 (24), 4014-4016 (2015). [cited: 455]
 
     |pub29|_
 
@@ -177,7 +177,7 @@ PUBLICATIONS
     |pub30|_
 
     .. _pub31: https://academic.oup.com/bioinformatics/article-abstract/30/10/1473/267560
-    .. |pub31| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 2132]
+    .. |pub31| replace:: Sangsu Bae\ :superscript:`#`, :underline:`Jeongbin Park`\ :superscript:`#`, Jin-Soo Kim, **"Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases"**, *Bioinformatics* 30 (10), 1473-1475 (2014). [cited: 2135]
 
     |pub31|_
 
@@ -188,7 +188,7 @@ PUBLICATIONS
 
 .. container:: text-right
 
-    | Total Citations: 5787, H-index: 19
+    | Total Citations: 5792, H-index: 19
     |
 
 .. container:: entries text-left
