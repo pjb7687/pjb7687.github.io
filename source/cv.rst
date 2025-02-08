@@ -78,6 +78,7 @@ SERVICE
     
     - Korean Society for Bioinformatics (KSBI), Public Affairs Committee Member, 2023 / Academic Affairs Committee Member, 2024- / Computing Committee Member, 2025-
     - Korea Genome Organization (KOGO), Information and Computing Committee Member, 2023-2024
+    - Single Cell & Spatial Omics Korea (co-founder), 2023-
 
     **Journal Editor:**
     - Genomics & Informatics (https://genomicsinform.biomedcentral.com), Associate Editor, 2025-
