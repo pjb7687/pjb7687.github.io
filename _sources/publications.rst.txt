@@ -24,7 +24,7 @@ PUBLICATIONS
 ------------
 .. container:: entries text-justify publications
 
-    .. _pub0: https://www.biorxiv.org/content/10.1101/2024.08.22.609220.abstract
+    .. _pub0: https://www.science.org/doi/10.1126/sciadv.adr4443
     .. |pub0| replace:: Eun Young Jeon, Yejin Kwak, Hyeji Kang, Se Young Jin, Soojin Park, Ryeo Gyeong Kim, Dayoung Ko, Jae-Kyung Won, Anna Cho, Inkyung Jung, Chul-Hwan Lee, :underline:`Jeongbin Park`, Hyun-Young Kim, Jong-Hee Chae, Murim Choi, **"Inhibiting EZH2 complements steroid effects in Duchenne muscular dystrophy"**, *Science Advances* 11 (11), eadr4443 (2025).
 
     |pub0|_
