@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
     - name: Cache Dependencies
@@ -27,7 +27,7 @@ jobs:
         pip install sphinx
         pip install git+https://github.com/pjb7687/scholarly.git@sortbydate
     - name: Setup Node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v4
       with:
         node-version: '12'
     - name: Install Node.js Dependencies
@@ -43,12 +43,12 @@ jobs:
         touch build/.nojekyll
         echo "jeongbinpark.com" > build/CNAME
     - name: Commit and Push Caches
-      uses: EndBug/add-and-commit@v7
+      uses: EndBug/add-and-commit@v9
       with:
         branch: 'source'
         message: 'update cache files'
     - name: Deploy Website
-      uses: JamesIves/github-pages-deploy-action@3.7.1
+      uses: JamesIves/github-pages-deploy-action@4
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
