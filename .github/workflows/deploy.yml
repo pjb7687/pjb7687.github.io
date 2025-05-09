@@ -47,10 +47,3 @@ jobs:
       with:
         branch: 'source'
         message: 'update cache files'
-    - name: Deploy Website
-      uses: JamesIves/github-pages-deploy-action@4.7.3
-      with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages
-        FOLDER: build
-        CLEAN: true
