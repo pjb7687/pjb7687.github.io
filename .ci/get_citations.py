@@ -1,4 +1,6 @@
+print("try importing scholarly")
 from scholarly import scholarly
+print("try importing os")
 import os
 
 CACHE_HEADERS = ["author_pub_id", "title", "author",

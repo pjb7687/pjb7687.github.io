@@ -35,7 +35,7 @@ jobs:
       if: steps.cache-node.outputs.cache-hit != 'true'
     - name: Fetch Google Scholar Citations
       run: |
-        python -m trace -t .ci/get_citations.py
+        python .ci/get_citations.py
     - name: Build Website
       run: |
         npm run sass
