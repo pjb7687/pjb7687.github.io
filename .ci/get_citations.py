@@ -58,7 +58,7 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
     if verbose:
         print("Fetching author profile...")
 
-    author = s.fill(scholarly.search_author_id(author_id))
+    author = s.fill(s.search_author_id(author_id))
     proceedings = []
     publications = []
     bibs = {}
