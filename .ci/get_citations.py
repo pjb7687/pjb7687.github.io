@@ -1,6 +1,4 @@
-print("try importing scholarly")
-from scholarly import scholarly
-print("try importing os")
+import scholarly; pg = scholarly.ProxyGenerator(); s = scholarly.scholarly; s.use_proxy(pg)
 import os
 
 CACHE_HEADERS = ["author_pub_id", "title", "author",
@@ -60,7 +58,7 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
     if verbose:
         print("Fetching author profile...")
 
-    author = scholarly.fill(scholarly.search_author_id(author_id))
+    author = s.fill(scholarly.search_author_id(author_id))
     proceedings = []
     publications = []
     bibs = {}
@@ -80,7 +78,7 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
         if bib is None or bib['title'] != p['bib']['title']:
             if verbose:
                 print(f"Fetching publication '{p['bib']['title']}'...")
-            scholarly.fill(p)
+            s.fill(p)
             bib = p['bib']
             bib['pub_url'] = p.get('pub_url', '')
         bib['num_cofirsts'], bib['correspondence_indices'] = cocache[p['author_pub_id']]
