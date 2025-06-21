@@ -1,4 +1,4 @@
-import scholarly; pg = scholarly.ProxyGenerator(); s = scholarly.scholarly; s.use_proxy(pg)
+from scholarly import scholarly as s
 import os
 
 CACHE_HEADERS = ["author_pub_id", "title", "author",
