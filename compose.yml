@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    volumes:
+      - /home/parkj/.ssh:/root/.ssh
+    restart: "no"
+    environment:
+      - GIT_EMAIL=${GIT_EMAIL}
+      - GIT_NAME=${GIT_NAME}
