@@ -24,8 +24,8 @@ PUBLICATIONS
 ------------
 .. container:: entries text-justify publications
 
-    .. _pub0: https://www.biorxiv.org/content/10.1101/2024.09.21.614281.abstract
-    .. |pub0| replace:: Ocima Kamboj, :underline:`Jeongbin Park`, Oliver Stegle, Fred A Hamprecht, **"From spots to cells: Cell segmentation in spatial transcriptomics with BOMS"**, *bioRxiv*, 2024.09. 21.614281 (2024).
+    .. _pub0: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311458
+    .. |pub0| replace:: Ocima Kamboj, :underline:`Jeongbin Park`, Oliver Stegle, Fred A Hamprecht, **"From spots to cells: Cell segmentation in spatial transcriptomics with BOMS"**, *PloS one* 20 (6), e0311458 (2025).
 
     |pub0|_
 
