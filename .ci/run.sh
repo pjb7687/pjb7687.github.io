@@ -6,7 +6,7 @@ python3 .ci/get_citations.py
 
 echo "Building website..."
 npm run sass
-sphinx-build -a source build && touch build/.nojekyll
+uv run sphinx-build -a source build && touch build/.nojekyll
 echo "jeongbinpark.com" > build/CNAME
 
 echo "Setting up Git configuration..."
