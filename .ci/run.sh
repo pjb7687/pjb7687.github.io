@@ -21,9 +21,11 @@ git push origin source
 echo "Pushing gh_pages branch to GitHub..."
 git worktree add ../gh-pages gh-pages
 cp -r build/* ../gh-pages/
-cd ../gh-pages
+
+pushd ../gh-pages
 git add .
 git commit -m "Update website"
 git push origin gh-pages
+popd
 
 echo "Website build and push completed successfully."
