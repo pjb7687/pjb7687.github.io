@@ -24,13 +24,13 @@ PUBLICATIONS
 ------------
 .. container:: entries text-justify publications
 
-    .. _pub0: https://link.springer.com/article/10.1186/s44342-025-00057-0
-    .. |pub0| replace:: :underline:`Jeongbin Park`, **"Towards a transparent and reproducible AI-assisted research paper writing"**, *Genomics & Informatics* 23 (1), 26 (2025).
+    .. _pub0: https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adbi.202500225
+    .. |pub0| replace:: Bokyong Kim, So‐Hui Kim, Jieun Kim, Eun‐Young Eo, Hyung‐Jun Kim, Jae Ho Lee, Choon‐Taek Lee, Taeho Kong, Su Kyoung Seo, Seunghee Lee, :underline:`Jeongbin Park`, Young‐Jae Cho, **"Lung Microphysiological System Validates Novel Cell Therapy for Acute Respiratory Distress Syndrome"**, *Advanced Biology* 10 (1), e00225 (2026).
 
     |pub0|_
 
-    .. _pub1: https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adbi.202500225
-    .. |pub1| replace:: Bokyong Kim, So‐Hui Kim, Jieun Kim, Eun‐Young Eo, Hyung‐Jun Kim, Jae Ho Lee, Choon‐Taek Lee, Taeho Kong, Su Kyoung Seo, Seunghee Lee, :underline:`Jeongbin Park`, Young‐Jae Cho, **"Lung Microphysiological System Validates Novel Cell Therapy for Acute Respiratory Distress Syndrome"**, *Advanced Biology*, e00225 (2025).
+    .. _pub1: https://link.springer.com/article/10.1186/s44342-025-00057-0
+    .. |pub1| replace:: :underline:`Jeongbin Park`, **"Towards a transparent and reproducible AI-assisted research paper writing"**, *Genomics & Informatics* 23 (1), 26 (2025).
 
     |pub1|_
 
