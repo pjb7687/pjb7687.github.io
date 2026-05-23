@@ -40,14 +40,14 @@ export const education: { en: CVEntry[]; ko: CVEntry[] } = {
 export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
   en: [
     {
-      period: '2025 -Present',
+      period: '2026 -Present',
       lines: [
         'Associate Professor,',
         '**School of Biomedical Convergence Engineering, Pusan National University**'
       ]
     },
     {
-      period: '2022 -2025',
+      period: '2022 -2026',
       lines: [
         'Assistant Professor,',
         '**School of Biomedical Convergence Engineering, Pusan National University**'
@@ -104,11 +104,11 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
   ],
   ko: [
     {
-      period: '2025 -현재',
+      period: '2026 -현재',
       lines: ['**부교수**, 의생명융합공학부, 부산대학교']
     },
     {
-      period: '2022 -2025',
+      period: '2022 -2026',
       lines: ['**조교수**, 의생명융합공학부, 부산대학교']
     },
     {
