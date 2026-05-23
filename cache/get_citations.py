@@ -107,13 +107,18 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
         print(f"Fetching author profile for {author_id}…", file=sys.stderr)
     author = s.fill(s.search_author_id(author_id))
 
-    bibs = read_gs_cache(gs_cache_path)
-    cocache = read_co_cache(co_cache_path)
+    old_bibs = read_gs_cache(gs_cache_path)
+    old_cocache = read_co_cache(co_cache_path)
+
+    # Build fresh dicts — only publications still on Scholar are kept.
+    bibs = {}
+    cocache = {}
 
     for i, p in enumerate(author["publications"]):
         if max_publications and i == max_publications:
             break
-        bib = bibs.get(p["author_pub_id"], None)
+        pub_id = p["author_pub_id"]
+        bib = old_bibs.get(pub_id, None)
         if bib is None or bib.get("title") != p["bib"]["title"]:
             if verbose:
                 print(f"  fetching '{p['bib']['title']}'…", file=sys.stderr)
@@ -122,10 +127,14 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
             bib["pub_url"] = p.get("pub_url", "")
         # always refresh num_citations — it changes over time
         bib["num_citations"] = str(int(p.get("num_citations", 0) or 0))
-        bibs[p["author_pub_id"]] = bib
+        bibs[pub_id] = bib
 
-        if p["author_pub_id"] not in cocache:
-            cocache[p["author_pub_id"]] = (1, [])
+        cocache[pub_id] = old_cocache.get(pub_id, (1, []))
+
+    removed = set(old_bibs) - set(bibs)
+    if removed and verbose:
+        for r in removed:
+            print(f"  removed '{old_bibs[r].get('title', r)}'", file=sys.stderr)
 
     write_gs_cache(bibs, gs_cache_path)
     write_co_cache(cocache, co_cache_path)

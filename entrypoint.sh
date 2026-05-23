@@ -13,6 +13,7 @@ mode="${1:-build}"
 log() { printf '[%s] %s\n' "$(date -u +%FT%TZ)" "$*"; }
 
 setup_git() {
+  git config --global --add safe.directory /app
   git config --global user.email "${GIT_EMAIL:-jeongbin.park@pusan.ac.kr}"
   git config --global user.name "${GIT_NAME:-Jeongbin Park}"
 }

@@ -31,13 +31,7 @@ RUN corepack enable && corepack prepare pnpm@latest --activate
 ENV PATH="${PNPM_HOME}:${PATH}"
 
 WORKDIR /app
-
-# Install node deps first so they layer-cache independently of source.
-COPY package.json pnpm-lock.yaml pnpm-workspace.yaml .npmrc ./
-RUN pnpm install --frozen-lockfile
-
 COPY . .
-
 RUN chmod +x build.sh entrypoint.sh
 
 ENTRYPOINT ["/app/entrypoint.sh"]

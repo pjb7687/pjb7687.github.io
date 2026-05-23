@@ -15,6 +15,7 @@ services:
     restart: always
     init: true
     command: ["scheduler"]
+    tty: true
     environment:
       TZ: Asia/Seoul
       BUILD_DOW: "3"     # Wednesday
@@ -22,8 +23,10 @@ services:
     volumes:
       # Mount the full repo so git push works.
       - .:/app
+      # Separate node_modules so container installs its own (not host's).
+      - node_modules:/app/node_modules
       # SSH keys for pushing to GitHub.
       - ~/.ssh:/root/.ssh:ro
-    # All scheduler / build output goes to the container's stdout / stderr,
-    # so `docker compose logs -f web` is the single source for monitoring.
-    tty: true
+
+volumes:
+  node_modules:
