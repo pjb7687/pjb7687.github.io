@@ -16,9 +16,13 @@
   let { initialLang = 'en' }: { initialLang?: Lang } = $props();
   let lang = $state<Lang>(initialLang);
 
+  const now = new Date();
+  const dateEn = now.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  const dateKo = `${now.getFullYear()}년 ${now.getMonth() + 1}월 ${now.getDate()}일`;
+
   const L = {
     en: {
-      lastUpdated: `last updated: ${profile.lastUpdated}`,
+      lastUpdated: `last updated: ${dateEn}`,
       print: 'Save as PDF',
       education: 'EDUCATION',
       experience: 'WORK EXPERIENCE',
@@ -30,7 +34,7 @@
       hIndex: 'H-index',
     },
     ko: {
-      lastUpdated: `마지막 갱신일: ${profile.lastUpdatedKo}`,
+      lastUpdated: `마지막 갱신일: ${dateKo}`,
       print: 'PDF로 저장',
       education: 'EDUCATION',
       experience: 'WORK EXPERIENCE',
