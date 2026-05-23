@@ -56,7 +56,7 @@
 
 <!-- STATS -->
 <section class="py-6 border-t border-rule">
-  <div class="flex justify-center gap-12 text-center">
+  <div class="flex justify-center gap-20 text-center">
     <div>
       <div class="text-[11px] text-faint uppercase tracking-wide">Publications</div>
       <div class="text-[24px] font-medium tabular text-ink mt-1">{pubCount}</div>
