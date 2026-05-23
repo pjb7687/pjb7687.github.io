@@ -110,7 +110,7 @@
 
   <!-- HEADER -->
   <header class="text-center pb-4">
-    <h1 style="font-size:32px; font-weight:bold; margin-bottom:4px;">Dr. Jeongbin Park</h1>
+    <h1 style="font-size:32px; font-weight:bold; margin-bottom:4px;">Prof. Dr. Jeongbin Park</h1>
     <p style="font-size:14px;">({t.lastUpdated})</p>
   </header>
 
