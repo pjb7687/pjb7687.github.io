@@ -9,8 +9,8 @@
 </script>
 
 <svelte:head>
-  <title>Curriculum Vitae · Prof. Dr. Jeongbin Park</title>
-  <meta name="description" content="Academic CV of Prof. Dr. Jeongbin Park - education, work experience, publications, and teaching." />
+  <title>Curriculum Vitae · Prof. Jeongbin Park</title>
+  <meta name="description" content="Academic CV of Prof. Jeongbin Park - education, work experience, publications, and teaching." />
   <link rel="canonical" href="https://jeongbinpark.com/cv" />
 </svelte:head>
 

@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-  <title>Lectures · Prof. Dr. Jeongbin Park</title>
+  <title>Lectures · Prof. Jeongbin Park</title>
   <meta name="description" content="강의자료 — Bioinformatics, Biomedical Informatics, and related courses at PNU." />
 </svelte:head>
 

@@ -15,14 +15,14 @@
 </script>
 
 <svelte:head>
-  <title>Prof. Dr. Jeongbin Park · Bioinformatician · Pusan National University</title>
+  <title>Prof. Jeongbin Park · Bioinformatician · Pusan National University</title>
 </svelte:head>
 
 <!-- HERO -->
 <section class="pt-16 pb-16 max-w-[720px] mx-auto text-center">
   <p class="text-[13px] text-faint uppercase tracking-wide mb-4">{profile.role}</p>
   <h1 class="text-[clamp(36px,5vw,56px)] font-bold leading-tight tracking-[-0.02em] text-ink mb-6">
-    Prof. Dr. Jeongbin Park
+    Prof. Jeongbin Park
   </h1>
   <p class="text-[15px] leading-relaxed text-ink-2 mb-4">
     A bioinformatician building tools for

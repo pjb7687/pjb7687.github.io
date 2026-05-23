@@ -8,7 +8,7 @@
 
 <svelte:head>
   <title>Jeongbin Park</title>
-  <meta name="description" content="Personal website of Prof. Dr. Jeongbin Park, bioinformatician at Pusan National University." />
+  <meta name="description" content="Personal website of Prof. Jeongbin Park, bioinformatician at Pusan National University." />
   <meta name="author" content="Jeongbin Park" />
   <meta name="theme-color" content="#ffffff" />
   <link rel="canonical" href="https://jeongbinpark.com/" />
