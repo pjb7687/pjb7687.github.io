@@ -1,0 +1,45 @@
+export const profile = {
+  name: 'Jeongbin Park',
+  nameKo: '박정빈',
+  title: 'Dr.',
+  role: 'Associate Professor · Bioinformatician',
+  roleKo: '부교수 · 생물정보학자',
+  affiliation: {
+    en: 'School of Biomedical Convergence Engineering, Pusan National University',
+    ko: '부산대학교 의생명융합공학부',
+    url: 'https://bce.pusan.ac.kr/'
+  },
+  university: {
+    en: 'Pusan National University',
+    ko: '부산대학교',
+    url: 'https://www.pusan.ac.kr/'
+  },
+  address: {
+    en: 'Room #413, Kyung-Ahm Engineering Building, Busandaehak-ro 49, Mulgeum-eup, Yangsan-si, 50612, Republic of Korea',
+    ko: '경남 양산시 물금읍 부산대학로 49 경암공학관 413호 (우: 50612)'
+  },
+  email: 'jeongbin.park@pusan.ac.kr',
+  emailObfuscated: 'jeongbin.park at pusan.ac.kr',
+  tel: '+82-51-510-8597',
+  telKo: '051-510-8597',
+  lastUpdated: 'January 10, 2026',
+  lastUpdatedKo: '2026년 1월 10일',
+  links: {
+    scholar: 'https://scholar.google.co.kr/citations?user=XLVldUsAAAAJ',
+    orcid: 'https://orcid.org/0000-0002-9064-4912',
+    orcidId: '0000-0002-9064-4912',
+    researchgate: 'https://www.researchgate.net/profile/Jeongbin_Park',
+    github: 'https://github.com/pjb7687',
+    lab: 'https://pnucolab.com',
+    labName: 'Computational Omics Laboratory',
+    labNameKo: '컴퓨테이셔널 오믹스 연구실',
+    pythonBook: 'https://python.jeongbinpark.com',
+    pythonBookTitle: 'A Byte of Python (Korean Translation)',
+    pythonBookTitleKo: '바이트 오브 파이썬 (한국어 번역)'
+  },
+  stats: {
+    totalCitations: 6623,
+    hIndex: 21,
+    citationsSource: 'Google Scholar'
+  }
+} as const;

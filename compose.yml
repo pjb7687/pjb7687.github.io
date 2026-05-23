@@ -1,9 +1,29 @@
+# Scheduled builder for jeongbinpark.com.
+#
+#   docker compose up -d              # start the scheduler (auto-rebuild every Wednesday)
+#   docker compose logs -f web        # follow build logs on stdout
+#   docker compose run --rm web build # one-off manual build
+#
+# The scheduler triggers ./build.sh at BUILD_HOUR:00 every BUILD_DOW (Mon=1..Sun=7).
+# Timezone is set in the image (Asia/Seoul); override TZ to change it.
+
 services:
-  app:
+  web:
     build: .
-    volumes:
-      - /home/parkj/.ssh:/root/.ssh
-    restart: "no"
+    image: jeongbinpark-builder
+    container_name: jeongbinpark-builder
+    restart: always
+    init: true
+    command: ["scheduler"]
     environment:
-      - GIT_EMAIL=${GIT_EMAIL}
-      - GIT_NAME=${GIT_NAME}
+      TZ: Asia/Seoul
+      BUILD_DOW: "3"     # Wednesday
+      BUILD_HOUR: "03"   # 03:00 local
+    volumes:
+      # Mount the full repo so git push works.
+      - .:/app
+      # SSH keys for pushing to GitHub.
+      - ~/.ssh:/root/.ssh:ro
+    # All scheduler / build output goes to the container's stdout / stderr,
+    # so `docker compose logs -f web` is the single source for monitoring.
+    tty: true

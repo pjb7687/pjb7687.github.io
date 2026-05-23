@@ -1,8 +1,17 @@
-.vscode
-build
-pdfs
 node_modules
-venv
-source/_static/main.css
-source/publications.rst
+.pnpm-store
+.svelte-kit
+build
+.DS_Store
 *.log
+
+# venvs left over from local Python tooling
+venv
+.venv
+__pycache__
+
+# editor caches
+.vscode/.history
+
+# scheduler runtime state
+cache/.last-scheduled-run
