@@ -43,14 +43,14 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
       period: '2026 -Present',
       lines: [
         'Associate Professor,',
-        '**School of Biomedical Convergence Engineering, Pusan National University**'
+        '**Department of Biomedical Informatics, School of Medicine, Pusan National University**'
       ]
     },
     {
       period: '2022 -2026',
       lines: [
-        'Assistant Professor,',
-        '**School of Biomedical Convergence Engineering, Pusan National University**'
+        'Assistant/Associate Professor,',
+        '**Department of Data Science, School of Biomedical Convergence Engineering, Pusan National University**'
       ]
     },
     {
@@ -105,11 +105,11 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
   ko: [
     {
       period: '2026 -현재',
-      lines: ['**부교수**, 의생명융합공학부, 부산대학교']
+      lines: ['**부교수**, 생명의료정보학교실, 의과대학, 부산대학교']
     },
     {
       period: '2022 -2026',
-      lines: ['**조교수**, 의생명융합공학부, 부산대학교']
+      lines: ['**조교수/부교수**, 데이터사이언스전공, 의생명융합공학부, 부산대학교']
     },
     {
       period: '2020 -2022',
