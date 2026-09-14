@@ -21,22 +21,33 @@ setup_git() {
 push_changes() {
   log "pushing cache changes to svelte branch"
   git add cache/gscache.txt cache/cofirsts_cocorrespondence_cache.txt cache/stats.json
-  git diff --cached --quiet || git commit -m "Update cache files" && git push origin svelte || log "cache push failed (non-fatal)"
+  if git diff --cached --quiet; then
+    log "no cache changes to push"
+  else
+    git commit -m "Update cache files" && git push origin svelte || log "cache push failed (non-fatal)"
+  fi
 
   log "pushing build to gh-pages branch"
   # clean up any previous worktree
   rm -rf /tmp/gh-pages
+  git worktree prune
   git worktree add /tmp/gh-pages gh-pages 2>/dev/null || {
     git fetch origin gh-pages
     git worktree add /tmp/gh-pages gh-pages
   }
-  cp -r build/* /tmp/gh-pages/
+  # Mirror build/ onto the branch: drop every tracked file first, then copy the
+  # fresh output back. Without this, superseded _app/immutable/* chunks are never
+  # deleted and gh-pages accumulates orphaned JS on every build.
+  git -C /tmp/gh-pages rm -rq --ignore-unmatch .
+  cp -a build/. /tmp/gh-pages/
   cd /tmp/gh-pages
-  git add .
-  git diff --cached --quiet || {
+  git add -A
+  if git diff --cached --quiet; then
+    log "no website changes to push"
+  else
     git commit -m "Update website"
     git push origin gh-pages
-  }
+  fi
   cd /app
   git worktree remove /tmp/gh-pages 2>/dev/null || true
   log "push complete"

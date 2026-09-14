@@ -6,6 +6,13 @@
 #
 # The scheduler triggers ./build.sh at BUILD_HOUR:00 every BUILD_DOW (Mon=1..Sun=7).
 # Timezone is set in the image (Asia/Seoul); override TZ to change it.
+#
+# The container runs as uid/gid 1000 (the image's `node` user), matching the host
+# user, so the bind-mounted repo never collects root-owned files. After upgrading
+# from the old root-based image, recreate the node_modules volume once — it is
+# still root-owned and the unprivileged user cannot write to it:
+#
+#   docker compose down -v && docker compose build && docker compose up -d
 
 services:
   web:
@@ -26,7 +33,7 @@ services:
       # Separate node_modules so container installs its own (not host's).
       - node_modules:/app/node_modules
       # SSH keys for pushing to GitHub.
-      - ~/.ssh:/root/.ssh:ro
+      - ~/.ssh:/home/node/.ssh:ro
 
 volumes:
   node_modules:
