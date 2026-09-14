@@ -9,29 +9,29 @@ export type CVEntry = {
 export const education: { en: CVEntry[]; ko: CVEntry[] } = {
   en: [
     {
-      period: '2016 -2020',
+      period: '2016 - 2020',
       lines: ['**Dr. rer. nat.** (Ph.D. equivalent) in Biology, Heidelberg University, Germany']
     },
     {
-      period: '2012 -2014',
+      period: '2012 - 2014',
       lines: ['**M.Sc.** in Physics, Seoul National University, Korea']
     },
     {
-      period: '2008 -2012',
+      period: '2008 - 2012',
       lines: ['**B.Sc.** in Physics, Pusan National University, Korea']
     }
   ],
   ko: [
     {
-      period: '2016 -2020',
+      period: '2016 - 2020',
       lines: ['**이학박사 (Dr. rer. nat.)**, 생물학, 하이델베르크 대학교, 독일']
     },
     {
-      period: '2012 -2014',
+      period: '2012 - 2014',
       lines: ['**이학석사 (M.Sc.)**, 물리학, 서울대학교, 대한민국']
     },
     {
-      period: '2008 -2012',
+      period: '2008 - 2012',
       lines: ['**이학사 (B.Sc.)**, 물리학, 부산대학교, 대한민국']
     }
   ]
@@ -40,21 +40,21 @@ export const education: { en: CVEntry[]; ko: CVEntry[] } = {
 export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
   en: [
     {
-      period: '2026 -Present',
+      period: '2026 - Present',
       lines: [
         'Associate Professor,',
         '**Department of Biomedical Informatics, School of Medicine, Pusan National University**'
       ]
     },
     {
-      period: '2022 -2026',
+      period: '2022 - 2026',
       lines: [
         'Assistant/Associate Professor,',
         '**Department of Data Science, School of Biomedical Convergence Engineering, Pusan National University**'
       ]
     },
     {
-      period: '2020 -2022',
+      period: '2020 - 2022',
       lines: [
         'Postdoctoral Researcher,',
         '**Division of Computational Genomics and System Genetics, German Cancer Research Center (DKFZ)**',
@@ -62,7 +62,7 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
       ]
     },
     {
-      period: '2018 -2020',
+      period: '2018 - 2020',
       lines: [
         'Researcher (PhD student),',
         '**Digital Health Center, Berlin Institute of Health (BIH) / Charité**',
@@ -70,7 +70,7 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
       ]
     },
     {
-      period: '2016 -2018',
+      period: '2016 - 2018',
       lines: [
         'Researcher (PhD student),',
         '**Division of Theoretical Bioinformatics, German Cancer Research Center (DKFZ)**',
@@ -78,7 +78,7 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
       ]
     },
     {
-      period: '2015 -2016',
+      period: '2015 - 2016',
       lines: [
         'Research Collaboration,',
         '**Molecular Genome Engineering Laboratory, Hanyang University**',
@@ -86,7 +86,7 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
       ]
     },
     {
-      period: '2014 -2015',
+      period: '2014 - 2015',
       lines: [
         'Research Collaboration,',
         '**Genome Engineering Laboratory, Seoul National University**',
@@ -94,7 +94,7 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
       ]
     },
     {
-      period: '2012 -2014',
+      period: '2012 - 2014',
       lines: [
         'Researcher (MSc student),',
         '**Single Molecule Biophysics Laboratory, Seoul National University**',
@@ -104,47 +104,47 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
   ],
   ko: [
     {
-      period: '2026 -현재',
+      period: '2026 - 현재',
       lines: ['**부교수**, 생명의료정보학교실, 의과대학, 부산대학교']
     },
     {
-      period: '2022 -2026',
+      period: '2022 - 2026',
       lines: ['**조교수/부교수**, 데이터사이언스전공, 의생명융합공학부, 부산대학교']
     },
     {
-      period: '2020 -2022',
+      period: '2020 - 2022',
       lines: [
         '**박사후 과정 연구원**, Division of Computational Genomics and System Genetics, 독일 암 연구소 (DKFZ)',
         '(지도교수: Prof. Oliver Stegle)'
       ]
     },
     {
-      period: '2018 -2020',
+      period: '2018 - 2020',
       lines: [
         '**박사과정 연구원**, Digital Health Center, Berlin Institute of Health (BIH) 및 샤리테 (Charité) 대학병원',
         '(지도교수: Prof. Roland Eils)'
       ]
     },
     {
-      period: '2016 -2018',
+      period: '2016 - 2018',
       lines: [
         '**박사과정 연구원**, Division of Theoretical Bioinformatics, 독일 암 연구소 (DKFZ)',
         '(지도교수: Prof. Roland Eils)'
       ]
     },
     {
-      period: '2015 -2016',
+      period: '2015 - 2016',
       lines: ['**공동연구**, 분자유전공학연구실, 한양대학교', '(공동연구: 배상수 교수)']
     },
     {
-      period: '2014 -2015',
+      period: '2014 - 2015',
       lines: [
         '**공동연구**, 유전체교정연구단, 서울대학교 및 기초과학연구원 (IBS)',
         '(공동연구: 배상수 박사)'
       ]
     },
     {
-      period: '2012 -2014',
+      period: '2012 - 2014',
       lines: [
         '**석사과정 연구원**, 단분자생물물리연구실, 서울대학교',
         '(지도교수: 홍성철 교수)'
