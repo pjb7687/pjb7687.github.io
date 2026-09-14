@@ -9,6 +9,12 @@ Writes:
     cache/cofirsts_cocorrespondence_cache.txt  (TSV — co-first / co-corresponding markers)
     cache/stats.json                           (author totals: citedby, hindex)
 
+Each run rebuilds the cache from the current Scholar profile, so it automatically:
+  - prunes publications no longer on Scholar,
+  - refreshes num_citations, and
+  - refreshes pub_url (the hyperlink) when Scholar's link has changed — except for
+    the ids in SKIP_URL_UPDATE, whose cached link is deliberately kept.
+
 The SvelteKit build reads these files at compile time; no Python is needed during
 the SvelteKit build itself.
 """
@@ -17,6 +23,7 @@ the SvelteKit build itself.
 # requires-python = ">=3.10"
 # dependencies = [
 #   "scholarly @ git+https://github.com/pjb7687/scholarly.git@sortbydate",
+#   "bibtexparser<2",
 # ]
 # ///
 
@@ -31,6 +38,15 @@ CO_CACHE = os.path.join(CACHE_DIR, "cofirsts_cocorrespondence_cache.txt")
 STATS_JSON = os.path.join(CACHE_DIR, "stats.json")
 
 AUTHOR_ID = "XLVldUsAAAAJ"
+
+# Publications whose pub_url we deliberately keep, even if Scholar now offers a
+# different link — Scholar's current target is worse than what's cached (e.g. a
+# scholar.google.com cluster redirect or an academia.edu download in place of a
+# clean publisher / DOI / abstract page).
+SKIP_URL_UPDATE = {
+    "XLVldUsAAAAJ:xtRiw3GOFMkC",  # IG-MYC-positive leukemia … (keep Wiley DOI)
+    "XLVldUsAAAAJ:3s1wT3WcHBgC",  # Scaling GDL … (keep ADS abstract)
+}
 
 CACHE_HEADERS = [
     "author_pub_id",
@@ -120,11 +136,23 @@ def fetch_publications(author_id, gs_cache_path, co_cache_path, max_publications
         pub_id = p["author_pub_id"]
         bib = old_bibs.get(pub_id, None)
         if bib is None or bib.get("title") != p["bib"]["title"]:
+            # new or retitled publication — fetch the full record
             if verbose:
                 print(f"  fetching '{p['bib']['title']}'…", file=sys.stderr)
             s.fill(p)
             bib = dict(p["bib"])
             bib["pub_url"] = p.get("pub_url", "")
+        elif pub_id not in SKIP_URL_UPDATE:
+            # existing publication — refresh only the hyperlink if it changed
+            s.fill(p)
+            new_url = p.get("pub_url", "") or ""
+            if new_url and new_url != bib.get("pub_url", ""):
+                if verbose:
+                    print(f"  url changed for '{bib.get('title', pub_id)}':",
+                          file=sys.stderr)
+                    print(f"    {bib.get('pub_url', '') or '(empty)'} -> {new_url}",
+                          file=sys.stderr)
+                bib["pub_url"] = new_url
         # always refresh num_citations — it changes over time
         bib["num_citations"] = str(int(p.get("num_citations", 0) or 0))
         bibs[pub_id] = bib
