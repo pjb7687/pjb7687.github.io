@@ -42,6 +42,13 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
     {
       period: '2026 - Present',
       lines: [
+        'Adjunct Professor,',
+        '**Gwangju Institute of Science and Technology (GIST)**'
+      ]
+    },
+    {
+      period: '2026 - Present',
+      lines: [
         'Associate Professor,',
         '**Department of Biomedical Informatics, School of Medicine, Pusan National University**'
       ]
@@ -103,6 +110,10 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
     }
   ],
   ko: [
+    {
+      period: '2026 - 현재',
+      lines: ['**겸임교수**, 광주과학기술원 (GIST)']
+    },
     {
       period: '2026 - 현재',
       lines: ['**부교수**, 생명의료정보학교실, 의과대학, 부산대학교']
