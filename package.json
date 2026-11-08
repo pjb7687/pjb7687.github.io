@@ -11,17 +11,17 @@
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
   },
   "devDependencies": {
-    "@sveltejs/adapter-static": "^3.0.10",
-    "@sveltejs/kit": "^2.60.1",
-    "@sveltejs/vite-plugin-svelte": "^7.1.2",
-    "@tailwindcss/typography": "^0.5.19",
-    "@tailwindcss/vite": "^4.3.0",
+    "@sveltejs/adapter-static": "^3.0.11",
+    "@sveltejs/kit": "^2.70.4",
+    "@sveltejs/vite-plugin-svelte": "^7.3.1",
+    "@tailwindcss/typography": "^0.5.20",
+    "@tailwindcss/vite": "^4.3.5",
     "academicons": "^1.9.5",
-    "bootstrap-icons": "^1.13.1",
-    "svelte": "^5.55.9",
-    "svelte-check": "^4.4.8",
-    "tailwindcss": "^4.3.0",
+    "bootstrap-icons": "^1.13.2",
+    "svelte": "^5.57.3",
+    "svelte-check": "^4.7.8",
+    "tailwindcss": "^4.3.5",
     "typescript": "^6.0.3",
-    "vite": "^8.0.14"
+    "vite": "^8.3.6"
   }
 }
