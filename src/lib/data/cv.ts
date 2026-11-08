@@ -50,7 +50,7 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
       period: '2026 - Present',
       lines: [
         'Adjunct Professor,',
-        '**Gwangju Institute of Science and Technology (GIST)**'
+        '**Department of Life Sciences, Gwangju Institute of Science and Technology (GIST)**'
       ]
     },
     {
@@ -116,7 +116,7 @@ export const experience: { en: CVEntry[]; ko: CVEntry[] } = {
     },
     {
       period: '2026 - 현재',
-      lines: ['**겸임교수**, 광주과학기술원 (GIST)']
+      lines: ['**겸임교수**, 생명과학과, 광주과학기술원 (GIST)']
     },
     {
       period: '2022 - 2026',
